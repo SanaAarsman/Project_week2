@@ -1,0 +1,823 @@
+Year,Date,Time,Type,Sex,Age,Activity,Location,Country,State,Fatal Y/N
+2025,29th September,0100hrs,Unprovoked,M,54,Swimming,Catalina Island,USA,Off California,N
+2025,1st September,1524hrs,Unprovoked,M,8,Snorkeling,Horseshoe reef Key Largo,USA,Florida,N
+2025,30th August,Not stated,Unprovoked,F,8,Swimming,Galveston,USA,Texas,N
+2025,16th August,1055 hrs,Provoked,M,?,Fishing,Cayo Costa Boca Grande,USA,Florida,N
+2025,19th July,Not stated,Unprovoked,M,69,Diving,Jupiter Inlet off Jupiter Beach Palm Beach County,USA,Florida,N
+2025,18th July,1150hrs,Unprovoked,M,18,Surfing,New Smyrna Beach,USA,Florida,N
+2025,6th July ,Not stated,Provoked,M,21,Fishing,Hoicks Hollow Nantucket Beach,USA,Massachusetts,N
+2025,6th July,1500hrs,Unprovoked,M,40,Surfing,New Smyrna Beach,USA,Florida,N
+2025,25th June,1615 hrs,Unprovoked,F,20,Swimming,Wantagh,USA,Long Island NY,N
+2025,22nd June,1210hrs,Unprovoked,F,?,Swimming,Coligny Beach Hilton Head Island  ,USA,South Carolina,N
+2025,17th June,1200hrs,Unprovoked,F,12,Swimming,Beach Marker 24 Hilton Head Island  ,USA,South Carolina,N
+2025,2025-06-11 00:00:00,1211 hrs,Unprovoked,F,9,Snorkeling,Boca Grande,USA,Florida,N
+2025,31st May,1400hrs,Unprovoked,M,42,Surfing,Montara State Beach,USA,California,N
+2025,2025-05-29 00:00:00,1100hrs,Unprovoked,M,26,Swimming,Sunset Beach,USA,North Carolina,N
+2025,2025-04-12 00:00:00,1500hrs,Unprovoked,M,?,Undisclosed,Everglades National Park Flamingo Lodge Highway West Miami-Dade (Monroe County),USA,Florida,N
+2025,2025-01-11 00:00:00,1340hrs,Provoked,M,23,Diving,Off Haleiwa Boat Harbour Oahu,USA,Hawaii,N
+2024,2024-10-25 00:00:00,AM,Unprovoked,M,27,Surfing,"Bathtub Beach, Martin County",USA,Florida,N
+2024,2024-10-11 00:00:00,?,Unprovoked,M,16,Surfing,Brevard County Orlando,USA,Florida,N
+2024,2024-07-08 00:00:00,1115hrs,Unprovoked,M,14,Diving into Water,Ponce de Leon Inlet Volusia County,USA,Florida,N
+2024,2024-07-05 00:00:00,1615hrs,Unprovoked,M,26,Wading,New Smyrna Beach,USA,Florida,N
+2024,2024-07-04 00:00:00,?,Unprovoked,F,Middle age,Swimming,South Padre Island,USA,Texas,N
+2026,2024-07-04 00:00:00,?,Unprovoked,F,18,Swimming,South Padre Island,USA,Texas,N
+2025,2024-07-04 00:00:00,?,Unprovoked,F,18,Swimming,South Padre Island,USA,Texas,N
+2024,2024-07-04 00:00:00,1100hr,Unprovoked,M,21,Playing football in the water,New Smyrna Beach,USA,Floria,N
+2024,2024-07-04 00:00:00,1100hr,Unprovoked,M,?,Swimming,New Smyrna Beach Beach Access 14 Volusia County,USA,Florida,N
+2024,2024-06-23 00:00:00,after 1200hr,Unprovoked,M,49,Surfing,Goat Island (Moku'auia) La'ie Bay,USA,Hawaii,F
+2024,2024-06-07 00:00:00,1400hr,Unprovoked,F,25,Unconfirmed Possibly swimming near the boat harbour,"Haleiwa, Oahu",USA,Hawaii,N
+2024,2024-06-07 00:00:00,15.5,Unprovoked,F,15,Wading,Rosemary Beach Walton County,USA,Florida,N
+2024,2024-06-07 00:00:00,13h15,Unprovoked,F,45,Swimming,Water Sound  Beach Walton County,USA,Florida,N
+2024,2024-06-02 00:00:00,9h,Unprovoked,M,46,Swimming ocean training ,Del Mar Beach San Diego,USA,California,N
+2024,2024-05-28 00:00:00,14h,Unprovoked,F,19,Wading,Jamaica Beach,USA,Galveston,N
+2024,2024-05-02 00:00:00,13h30,Unprovoked,M,65,Spearfishing,Y-73' Ledge reef Chareston Coast,USA,South Carolina,N
+2024,04 Mar 2024,,Unprovoked,M,,Surfing,"Old Man's, Waikiki",USA,Hawaii,N
+2024,02 Mar-2024,13h30,Unprovoked,F,11,Swimming,"Rainbows, Oahu",USA,Hawaii,N
+2023,30 Dec-2023,11h12,Unprovoked,M,39,Surfing,"Baby Beach, Maui",USA,Hawaii,Y
+2023,05 Nov-2023,10h30,Unprovoked,M,66,Swimming,"Juno Beach, Palm Beach County",USA,Florida,N
+2023,25 Oct 2023,15h05,Unprovoked,M,30,Surfing,"Pua’ena Point,  Haleiwa, Oahu",USA,Hawaii,N
+2023,15 Oct 2023,16h00,Unprovoked,M,50,Surfing,"Hanalei Bay, Kauai",USA,Hawaii,N
+2023,13 Oct-2023,15h45,Unprovoked,M,52,Surfing,"Linda Mar, Pacific State Beach, San Mateo County",USA,California,N
+2023,02 Oct-2023,13h00,Unprovoked,F,45,Surfing,"Paia, Maui",USA,Hawaii,N
+2023,01 Oct-2023,10h40,Unprovoked,M,52,Swimming,"Wildcat Beach, Marin County",USA,California,Y
+2023,18 Sep-2023,16h00,Unprovoked,M,,Swimming,"Myrtle Beach, Horry County",USA,South Carolina,N
+2023,12 Sep-2023,07h50,Questionable,M,38,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2023,11 Sep-2023,,Unprovoked,M,,Surfing,"Satellite Beach, Brevard County",USA,Florida,N
+2023,04 Sep 2023,,Unprovoked,M,30s,Surfing,"Ponce Inlet, Volusia County",USA,Florida,N
+2023,04 Sep 2023,,Unprovoked,F,37,Wading,"Ponce Inlet, Volusia County",USA,Florida,N
+2023,23 Aug-2023,09h00,Unprovoked,,9,Wading,"Oak Island, Brunswick County",USA,North Carolina,N
+2023,22 Aug-2023,13h00,Watercraft,M,19,Kayak fishing,"Pebble Beach, San Mateo County",USA,California,N
+2023,07 Aug-2023,17h50,Unprovoked,F,65,Wading,Rockaway,USA,New York,N
+2023,31 Jul-2023,09h30,Unprovoked,M,22,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2023,30 Jul-2023,15h30,Unprovoked,M,22,Spearfishing,"Anna Maria Island, Manatee County",USA,Florida,N
+2023,29 Jul-2023,20h00,Unprovoked,F,26,Swimming,Tampa Bay,USA,Florida,N
+2023,21 Jul-2023,13h20,Unprovoked,M,60,Boogie boarding,"Sea Pines Beach, Hilton Head Island, Beaufort County",USA,South Carolina,N
+2023,15 Jul-2023,14h00,Unprovoked,M,49,Sitting,New Smyrna Beach,USA,Florida,N
+2023,14 Jul-2023,15h00,Unprovoked,M,21,Surfing,New Smyrna Beach,USA,Florida,N
+2023,04 Jul-2023,16h25,Unprovoked,F,,Standing,"Cherry Grove, Suffolk County",USA,New York,N
+2023,04 Jul-2023,13h55,Unprovoked,M,49,Swimming,"Fire Island Pines, Suffolk County",USA,New York,N
+2023,04 Jul-2023,13h50,Unprovoked,M,47,Swimming,"Quogue Village Beach, Suffolk County",USA,New York,N
+2023,03 Jul-2023,17h20,Unprovoked,M,15,Surfing,"Kismet Beach, Suffolk County",USA,New York,N
+2023,03 Jul-2023,13h45,Unprovoked,F,15,Swimming,"Beach 3, Robert Moses State Park, Suffolk County",USA,New York,N
+2023,23-Jun-2023,,Unprovoked,F,!2,Swimming,"Cocoa Beach, Brevard County",USA,Florida,N
+2023,23-Jun-2023,10h10,Unprovoked,M,,Fishing,"Flamingo Marina, Homestead, Miami-Dade County",USA,Florida,N
+2023,Reported 14-June 2023,,Unprovoked,M,,Filming,Laysan,USA,Hawaii,N
+2023,2023-05-20 00:00:00,1500h ,Provoked,F,26,Shark Feeding,Sea Quest Aquarium Layton Davis County,USA, Utah,N
+2023,21-May 2023,15h00,Unprovoked,F,15,Surfing,"Stone Harbor, Cape May County",USA,New Jersey,N
+2023,19 -May 2023,20h00,Provoked,M,35,Fishing,"Flagship Drive, Summerland Key, Monroe County",USA,Florida,N
+2023,18-May-2023,15h00,Unprovoked,M,20,Spearfishing,"Marathon, Monroe County",USA,Florida,N
+2023,14-May-2023,17h00,Unprovoked,F,24,Swimming,"Isle of Palms, Charleston County",USA,South Carolina,N
+2023,11-May-2023,Afternoon,Unprovoked,F,13,Sitting,"Fort Pierce, St. Lucie County",USA,Florida,N
+2023,11-May-2023,,Provoked,M,,Kayak fishing,"Kualoa, Oahu",USA,Hawaii,N
+2023,05-May-2023,11h30,Unprovoked,M,22,Spearfishing,"Davis Reef, Islamorada, Monroe County",USA,Florida,N
+2023,23-Apr-2023,,Unprovoked,M,,Spearfishing,"Anna Maria Island, Manatee County",USA,Florida,N
+2023,11-Apr-2023,15h00,Unprovoked,F,50s,Windsurfing,"Virginia Key, Monroe County",USA,Florida,N
+2023,09-Apr-2023,07h00,Watercraft,M,,Kayak fishing,Off Boca Raton. Palm Beach County,USA,Florida,N
+2023,09-Apr-2023,07h00,Unprovoked,M,58,Surfing,"Kewalos, Oahu",USA,Hawaii,N
+2023,25-Mar-2023,14h00,Unprovoked,M,67,Kite-Surfing,"Blue Fish Channel, Key West, Monroe County",USA,Florida,N
+2023,19-Mar-2023,12h30,Unprovoked,M,60,Swimming,Anaehoomalu Bay,USA,Hawaii,N
+2023,19-Feb-2023,17h30,Unprovoked,M,60,Surfing,"Jupiter Island, Martin County",USA,Florida,N
+2023,08-Jan--2023,14h00,Unprovoked,M,34,Swimming,"Outer Mole, Fort Zachrry Tatlor Historic Park, Key West, Monroe County",USA,Florida,N
+2023,01-Jan-2023,14h50,Provoked,M,30,Spearishing,70 miles off Pensacola,USA,Florida,N
+2022,13-Dec-2022,08h00,Unprovoked,M,68,Swimming,Anaeho'imalu Bay,USA,Hawaii,N
+2022,09-Dec-2022,12h00,Unprovoked,M,43,Diving,Pago Pago Harbor,USA,Samoa,N
+2022,08-Dec-2022,12h00,Unprovoked,F,60,Snorkeling,"Keawakapu Point, Kehei, Maui",USA,Hawaii,Y
+2022,07-Dec-2022,,Unprovoked,M,,Surfing,,USA,Texas,N
+2022,27-Nov-2022,Afternoon,Unprovoked,F,10,Swimming,Hobe Sound,USA,Florida,N
+2022,04-Nov-2022,10h00,Unprovoked,F,50,Swimming,"Del Mar Beach, San Diego County",USA,California,N
+2022,03-Nov-2022,15h30,Provoked,M,29,Fishing,"Cape San Blas, Gulf County",USA,Florida,N
+2022,31-Oct-2022,17h17,Unprovoked,M,,Surfing,"Otter Point, Pacific Grove",USA,California,N
+2022,28-Oct-2022,Morning,Sea Disaster,M,40,Fishing,25 mikes from Empire,USA,Louisiana,N
+2022,27-Oct-2022,,Provoked,M,,Fishing,Horn Island,USA,Mississippi,N
+2022,25 Oct-2022,Afternoon,Unprovoked,M,51,Snorkeling,Kauai,USA,Hawaii,N
+2022,10-Oct-2022,,Provoked,M,15,Fishing,"Key Largo, Monroe County",USA,Florida,N
+2022,08-Oct-2022,,Unprovoked,M,40,Shipwreck,25 miles off Empire,USA,Louisiana,N
+2022,02-Oct-2022,15h30,Unprovoked,M,31,Surfing,Centerville Beach,USA,California,N
+2022,22-Sep-2022,,Unprovoked,M,26,Spearfishing,"Marathon, Monroe County",USA,Florida,N
+2022,03-Sep-2022,16h10,Unprovoked,F,51,Swimming  or Snorkeling,"Lower Paia Beach Park, Maui",USA,Hawaii,N
+2022,15-Aug-2022,11h17,Unprovoked,F,,Swimming,"Myrtle Beach, Horry County",USA,South Carolina,N
+2022,15-Aug-2022,12h00,Unprovoked,F,,Standing,"Myrtle Beach, Horry County",USA,South Carolina,N
+2022,13-Aug-2022,16h00,Unprovoked,M,10,Snorkeling,"Looe Key, Monroe County",USA,Florida,N
+2022,10-Aug-2022,11h30,Unprovoked,M,,Paddleboarding,"Lovers Point, Pacific Grove, Monterey County",USA,California,N
+2022,27-Jul-2022,,Unprovoked,M,13,Lobstering,"Florida Keys, Monroe County",USA,Florida,N
+2022,25-Jul-2022,15h00,Unprovoked,M,33,Wading,"Daytona Beach, Volusia County",USA,Florida,N
+2022,20-Jul-2022,17h45,Unprovoked,M,16,Surfing,"Kismet Beach, Long Island",USA,New York,N
+2022,19-Jul-2022,10jh45,Questionable,,,,"Cape Canaveral, Brevard County",USA,Florida,N
+2022,19-Jul-2022,Early  morning,Unprovoked,F,,Surfing,"Topsail Beach, Pender County",USA,Noirth Carolina,N
+2022,17-Jul-2022,17h30,Provoked,M,,Fishing,"Content Keys, Monroe County",USA,Florida,N
+2022,16-Jul-2022,13h12,Unprovoked,F,40,,"Daytona Beach Shores, Volusia County",USA,Florida,N
+2022,13-Jul-2022,18h00,Unprovoked,M,49,,"Seaview Beach, Suffolk County",USA,New York,N
+2022,13-Jul-2022,07h30,Unprovoked,M,41,Surfing,"Smith Point Beach, Suffolk County",USA,New York,N
+2022,10-Jul-2022,,Unprovoked,M,30s,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2022,07-Jul-2022,11hoo,Unprovoked,M,17,Lifeguard Training Exercise,"Ocean Beach, Long Island",USA,New York,N
+2022,03-Jul-2022,11h43,Unprovoked,M,28,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2022,03-Jul-2022,10h15,Unprovoked,M,,Lifeguard Exercises,"Smith Point Beach, Suffolk County",USA,New York,N
+2022,30-Jun-2022,13h00,Unprovoked,M,,Swimming,"Jones Beach, Nassau County",USA,New York,N
+2022,30-Jun-2022,15h00,Unprovoked,F,17,Scalloping,"Keaton Beach, ",USA,Florida,N
+2022,29-Jun-2022,20h00,Unprovoked,F,35,Swimming,"Sawyer Key , Monroe County",USA,Florida,N
+2022,29-Jun-2022,Afternoon,Unprovoked,M,,Jumped into water,"Summerland Key, Monroe County",USA,Florida,N
+2022,23-Jun-2022,,Unprovoked,F,,,"Redington Beach, Pinellas County",USA,Florida,N
+2022,22-Jun-2022,10h40,Unprovoked,M,62,Swimming,"Pacific Grove, Monterey County",USA,California,N
+2022,21-Jun-2022,,Unprovoked,M,teen,,"Myrtle Beach, Horry County",USA,South Carolina,N
+2022,03-May-2022,19h12,Provoked,M,,Fishing,"Île de Saint Simon, Glynn County",USA,Georgia,N
+2022,17-Apr-2022,16h00,Unprovoked, M,56,,"Whale Harbor, Islamorada, Monroe County",USA,Florida,N
+2022,12-Apr-2022,Afternoon,Unprovoked,M,17,Swimming,"Gulf Shores, Baldwin County",USA,Alabama,N
+2022,11-Apr-2022,16h00,Unprovoked,M,Teen,Standing,"Higkand Beach, Palm Beach County",USA,Florida,N
+2022,09-Apr-2022,Afternoon,Provoked,F,12,Feeding sharks & stingrays,Tutle Back Zoo,USA,New Jersey,N
+2022,07-Apr-2022,10h00,Unprovoked,M,,Kayaking,Canaveral National Seashore,USA,Florida,N
+2022,31-Mar-2022,Morning,Provoked,M,50s,Fishing,"Lake Worth Beach, Palm Beach County",USA,Florida,n
+2022,13-Mar-2022,15h00,Unprovoked,M,20,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2022,09-Mar-2022,15h30,Provoked,M,21,Fishing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2022,26-Feb-2022,11h24,Unprovoked,M,42,Boogie boarding,"San Miguel Islandl, Santa Barbara County",USA,California,Y
+2022,11-Feb-2022,17h30,Unprovoked,M,18,Surfing,"Cocoa Beach, Brevard  County",USA,Florida,N
+2022,06-Jan-2022,14h45,Unprovoked,F,42,Wing Foil Surfing,"Anna Maria Island, Manatee County",USA,Florida,N
+2021,24-Dec-2021,1040hrs,Unprovoked,M,31,Boogie Boarding,Morro Strand San Luis Obispo,USA,Los Angeles,Y
+2021,22-Dec-2021,,Unprovoked,F,42,Wing Foil Surfing,"Anna Maria Island, Manatee County",USA,Florida,N
+2021,04-Dec-2021,,Unprovoked,M,,Surfing,"Banyans, Kailua-Kona",USA,Hawaii,N
+2021,07-Nov-2021,10h30,Unprovoked,F,27,Spearfishing,"Lahaina, Maui",USA,Hawaii,N
+2021,04-Oct-2021,,Unprovoked,M,25,Surfing,"Fort Pierce State Park, St. Lucie County",USA,Florida,N
+2021,03-Oct-2021,12h00,Unprovoked,M,,Swimming,"Jensen Beach, Martin County",USA,Florida,N
+2021,03-Oct-2021,09h00,Unprovoked,M,38,Surfing,"Salmon Creek Beach, Sonoma County",USA,California,N
+2021,09-Sep-2021,13h20,Unprovoked,M,!6,Surfing,"Ponce Inlet, Volusia County",USA,Florida,N
+2021,03-Sep-2021,14h00,Unprovoked,M,64,"Fishing, fell in water",off Grand Isle,USA,Louisiana,N
+2021,28-Aug-2021,11h45,Unprovoked,M,!!,Boogie boarding,"Galveston Island, Galveston County",USA,Texas,N
+2021,21-Aug-2021,06h40,Unprovoked,M,41,Surfing,"Walton Beach Psrk, St. Lucie County",USA,Florida,N
+2021,07-Aug-2021,10h00,Unprovoked,M,35,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2021,07-Aug-2021,07h51,Unprovoked,M,15,Snorkeling,"Key Largo, Monroe County",USA,Florida,N
+2021,03-Aug-2021,11h46,Unprovoked,M,,,"Hilton Head Island, Beaufort County",USA,South Carolina,N
+2021,02-Aug-2021,15h00,Unprovoked,F,12,Swimming,"Ocean City, Worcester County",USA,Maryland,N
+2021,30-Jul-2021,11h00,Provoked,M,47,Fishing,"Ponce Inlet, Volusia County",USA,Florida,N
+2021,27-Jul-2021,13h30,Unprovoked,M,15,Standing,Wrightsville Beach,USA,North Carolina,N
+2021,27-Jul-2021,,Unprovoked,M,58,Surfing,"Tybee Island, Chatham County",USA,Georgia,N
+2021,26-Jul-2021,11h00,Unprovoked,M,,Swimming,"Jones Beach, Nassau County",USA,New York,N
+2021,21-Jul-2021,,Unprovoked,F,,Surfing,"Capitola Beach, Santa Cruz County",USA,California,N
+2021,21-Jul-2021,12h23,,F,35,,"Near Patrick AFB, Brevard County",USA,Florida,N
+2021,15-Jul-2021,16h30,Unprovoked,M,11,Boogie boarding,"New Smyrna Beach, Volusia County",USA,Florida,N
+2021,10-Jul-2021,16h39,Unprovoked,F,9,Playing,"Bathtub Beach, Martin County",USA,Florida,N
+2021,10-Jul-2021,,Unprovoked,M,36,Spearfishing,"46 miles off Mayport, Duval County",USA,Florida,Y
+2021,04-Jul-2021,16h00,Unprovoked,M,8,Standing,"Ponce Inlet, Volusia County",USA,Florida,N
+2021,04-Jul-2021,,Provoked,F,19,Spearfishing,,USA,BAHAMAS,N
+2021,30-Jun-2021,07h15,Unprovoked,M,15,Canoeing,"Catalina Island, Orange County",USA,California,N
+2021,28-Jun-2021,,Unprovoked,F,,Surfing,"Block Houe Beach, Brevard County",USA,Florida,Nq
+2021,27-Jun-2021,11h30,Unprovoked,F,7,Swimming,"Ocean Isle, Brunswick County",USA,North Carolina,N
+2021,26-Jun-2021,09h15,Unprovoked,M,38,Swimming,"Gray Whale Beach Cove State Beach, San Mateo County",USA,California,N
+2021,18-Jun-2021,15h57,Unprovoked,M,12,Standing,"Bethune Beach, Volusia County",USA,Florida,N
+2021,17-Jun-2021,14h30,Unprovoked,M,14,Swimming,"Grayton Beach State Park,   Walton County",USA,Florida,N
+2021,14-Jun-2021,,Unprovoked,M,12,Standing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2021,14-Jun-2021,,Unprovoked,M,71,Standing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2021,23-May-2021,,Unprovoked,M,26,Swimming,"Burkes Beach, Hilton Head, Beaufort County",USA,South Carolina,N
+2021,15-May-2021,16h45,Unprovoked,M,35,Kite Foiling,"Kanaha Beach Park, Maui",USA,Hawaii,N
+2021,06-May-2021,11h30,Unprovoked,F,21,Wading,"Daytona Beach Shores, Volusia County",USA,Florida,N
+2021,03-May-2021,16h00,Unprovoked,M,14,Surfing,"Marine Corps Base, Oahu",USA,Hawaii,N
+2021,30-Apr-2021,09h00,Unprovoked,F,64,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2021,29-Apr-2021,10j30,Unprovoked,M,54,Boggie boarding,"Vero Beach, Indian River County",USA,Florida,N
+2021,20-Apr-2021,08h56,Unprovoked,F,57,Swimming,Kukio Bay,USA,Hawaii,N
+2021,17-Apr-2021,,Provoked,,,Tagging sharks,Outer Banks,USA,North Carolina,N
+2021,02-Apr-2021,,Unprovoked,M,36,Swimming,"Key Biscayne, Miami-Dade County",USA,Florida,N
+2021,30-Mar-2021,13h00,Unprovoked,M,,,"Vero Beach, Indian River County",USA,Florida,N
+2021,25-Mar-2021,11h45,Unprovoked,F,16,,Indian River County,USA,Florida,N
+2021,25-Mar-2021,,Unprovoked,M,7,Swimming,"Fort Lauderdale, Broward County",USA,Florida,N
+2021,21-Mar-2021,14h00,Unprovoked,M,9,Body surfing,"Miami Beach, Miami-Dade County",USA,Florida,N
+2021,18-Mar-2021,Afternoon,Unprovoked,M,20,Wading,"Juno Beach, Palm Beach County",USA,Florida,N
+2021,06-Feb-2021,16h30,Unprovoked,M,,Surfing,"Waiokapua Bay, Kaui",USA,Hawaii,N
+2021,02-Feb-2021,14h00,Watercraft,M,45 and 15,Kayaking,Ukumehama ,USA,Maui,N
+2021,22-Jan-2021,,Watercraft,,,Fishing,Off Tampa Bay,USA,Florida,N
+2021,22-Jan-2021,07h45,Unprovoked,M,73,Snorkeling,Maui,USA,Hawaii,N
+2021,03-Jan-2021,10h30,Unprovoked,M,19,Surfing,"Cocoa Beach, Brevard  County",USA,Florida,N
+2021,02-Jan-2021,10h30,Unprovoked,M,17,Surfing,"Cocoa Beach, Brevard  County",USA,Florida,N
+2021,02-Jan-2021,08h00,Unprovoked,F,68,Swimming,"Anaehoomalu Bay
+Waikoloa, Hawaii County",USA,Hawaii,N
+2020,30-Dec-2020,Afternoon,Unprovoked,M,,Swimming,"Coronado, San Diego County",USA,California,N
+2020,08-Dec-2020,07h45,Unprovoked,M,56,Surfing,Honolua Bay,USA,Hawaii,Y
+2020,06-Dec-2020,15h20,Unprovoked,M,20,Surfing,"Seaside Cove, Clatsop County",USA,Oregon,N
+2020,26-Nov-2020,14h00,Unprovoked,F,35,Snorkeling,Maui,USA,Hawaii,N
+2020,31-Oct-2020,16h00,Unprovoked,M,17,Swimming,Ormond Beach,USA,Florida,N
+2020,29-Oct-2020,13h00,Unprovoked,M,,Surfing,St George Island,USA,"Franklin County, Florida",N
+2020,21-Oct-2020,Sunset,,M,,Surfing,"Emerald Isle, Carteret County",USA,North Carolina,N
+2020,07-Oct-2020,Afternoon,Unprovoked,M,31,Body Surfing,"Miami Beach, Miami-Dade County",USA,Florida,N
+2020,29-Sep-2020,,Provoked,M,,,Near Key Largo,USA,Florida,N
+2020,21-Sep-2020,11h00,,F,61,Swimming,"Charley Young Beach, Maui",USA,Hawaii,N
+2020,20-Sep-2020,10h30,Unprovoked,M,30,Snorkeling,"Sombero Key Light, Monroe County",USA,Florida,N
+2020,16-Sep-2020,15h20,,M,48,Swimming,"Daytona Beach Shores, Volusia County",USA,Florida,N
+2020,15-Sep-2020,10h45,Unprovoked,M,15,Surfing,"Ponce Inlet, Volusia County",USA,Florida,N
+2020,15-Sep-2020,08h15,Unprovoked,M,25,Surfing,"Melbourne Beach, Brevard County",USA,Florida,N
+2020,08-Sep-2020,,,M,54,Surf fishing,Canaveral National Seashore,USA,Florida,N
+2020,06-Sep-2020,16h30,Unprovoked,F,70,Snorkeling,Puako,USA,Hawaii,N
+2020,02-Sep-2020,,Unprovoked,M,,,"Jensen Beach, Martin County",USA,Florida,N
+2020,30-Aug-2020,11h30,Unprovoked,M,12,Surfing,"Folly Beach, Charleston County",USA,South Carolina,N
+2020,28-Aug-2020,Afternoon,Unprovoked,M,,Kayak fishing,"Shelter Cove, Humboldt County",USA,California,N
+2020,23-Aug-2020,15h00,Unprovoked,M,23,Standing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2020,22-Aug-2020,Morning,Unprovoked,M,14,Surfing,"St. Augustine Beach, Anastasia Island, St. Johns County",USA,Florida,N
+2020,20-Aug-2020,11h00,Unprovoked,F,50,Boogie boarding,"New Smyrna Beach, Volusia County",USA,Florida,N
+2020,19-Aug-2020,1415,,F,,Wading,"Myrtle Beach, Horry County",USA,South Carolina,N
+2020,10-Aug-2020,16h00,Provoked,M,55,Fishing,"Off Gasparilla Island, Charlotte County",USA,Florida,N
+2020,02-Aug-2020,14h00,Unprovoked,F,,Snorkeling,"Candle Reef, St. Croix",USA,Virgin Islands,N
+2020,01-Aug-2020,14h00-15h00,Unprovoked,M,54,Surfing,"Surf City, Pender County",USA,North Carolina,N
+2020,31-Jul-2020,17h00,Unprovoked,F,22,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2020,31-Jul-2020,13h00,Unprovoked,M,14,Swimming,"Orange Beach, Baldwin County",USA,Alabama,N
+2020,29-Jul-2020,,Unprovoked,M,38,Diving,Florida Keys,USA,Florida,N
+2020,27-Jul-2020,15h59,Unprovoked,F,63,Swimming,"Bailey Island, Cumberland County",USA,Maine,Y
+2020,23-Jul-2020,12h00,Unprovoked,M,23,Spearfishing,Spanish Cay,USA,Bahamas,N
+2020,23-Jul-2020,,Unprovoked,M,11,Standing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2020,22-Jul-2020,17h30,Unprovoked,M,,Treading water,"Neuse River, Craven County",USA,North Carolina,N
+2020,19-Jul-2020,Afternoon,Unprovoked,F,12,Wading,"Cocoa Beach, Brevard  County",USA,Florida,N
+2020,14-Jul-2020,,Unprovoked,F,14,Wading,"Melbourne Beach, Brevard County",USA,Florida,N
+2020,10-Jul-202,08h00,Unprovoked,F,15,Surfing,"Cocoa Beach, Brevard  County",USA,Florida,N
+2020,22-Jun-2020,,Unprovoked,M,7,Playing,"Homestead, Miami-Dade County",USA,Florida,N
+2020,20-Jun-2020,16h00,Unprovoked,M,16,Body Surfing,"Salvo, Dare County",USA,North Carolina,N
+2020,04-Jun-2020,13h00,,M,12,Skimboarding,"Herring Point, Sussex County",USA,Delaware,N
+2020,01-Jun-2020,08h30,Unprovoked,M,,Surfing,"Davidsons Beach, Kauai",USA,Hawaii,N
+2020,09-May-2020,13h30,Unprovoked,M,26,Surfing,"Sand Dollar Beach, Santa Cruz County",USA,California,Y
+2020,01-May-2020,14h30,Unprovoked,F,57,Swimming,"Summerland, Santa Barbara County",USA,California,N
+2020,29-Apr-2020,17h45,,M,16,Body Boarding,"Moonlight Beach, San Diego County",USA,California,N
+2020,07-Apr-2020,10h00,Unprovoked,F,,Surfing,"Cocoa Beach, Brevard  County",USA,Florida,N
+2020,27-Mar-2020,Evening,Unprovoked,M,Teen,Stand-Up Paddleboarding,"Pleasure Point, Santa Cruz County",USA,California,N
+2020,22-Mar-2020,12h20,Unprovoked,M,,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2020,22-Mar-2020,10h50,Unprovoked,M,,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2020,05-Feb-2020,09h40,Unprovoked,M,,Stand-Up Paddle boarding,Wailea,USA,Maui,N
+2020,13-Jan-2020,14h33,Unprovoked,M,26,Surfing,"Rodanthe, Dare County",USA,North Carolina,N
+2019,21-Dec-2019,16h15,Unprovoked,M,37,Surfing,"Santa Rosa Island, Ventura County",USA,California,N
+2019,03-Dec-2019,10h00,Unprovoked,M,57,Stand-Up Paddleboarding,"Cove Park, Kihei, Maui",USA,Hawaii,N
+2019,30-Nov-2019,,Unprovoked,M,9,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2019,12-Nov-2019,,Unprovoked,M,30,Surfing,"Cocoa Beach, Brevard  County",USA,Florida,N
+2019,06-Nov-2019,08h00,Unprovoked,F,,Surfing,"San Onofre, San Diego County ",USA,California,N
+2019,27-Oct-2019,12h45,Provoked,M,32,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2018,25-Oct-2019,08h30,Unprovoked,M,,Kayak fishing,"Cambria, San Luis Obispo County",USA,California,N
+2019,08-Oct-2019,12h00,Unprovoked,M,20,Surfing,"Fort Pierce, St. Lucie County",USA,Florida,N
+2019,05-Oct-2019,16h30,Watercraft,M,51,Kayaking,"Ship Rock near Catalina, Los Angeles County",USA,California,N
+2019,Reported 04-Oct-2019,,Unprovoked,M,,Surfing,Talofofo Bay ,USA,Guam,N
+2019,26-Sep-2019,09h15,Unprovoked,F,,Surfing,"Kihei, South Maui",USA,Hawaii,N
+2019,24-Sep-2019,17h00,Unprovoked,M,,Swimming,"Huguenot Park, Jacksonville, Duval County",USA,Florida,N
+2019,24-Sep-2019,16h30,Unprovoked,M,13,Surfing,"Satellite Beach, Brevard County",USA,Florida,N
+2019,18-Sep-2019,10h40,Unprovoked,,"22, 57, 31",Snorkeling,"Haleiwa, Oahu",USA,Hawaii,N
+2019,15-Sep-2019,,Unprovoked,F,22,,"Isle of Palms,  Charleston County",USA,South Carolina,N
+2019,31-Aug-2019,,Unprovoked,M,70,Spearfishing,Grand Cayman,USA,Cayman Islands,N
+2019,31-Aug-2019,Afternoon,Unprovoked,M,60s,,"Jacksonville Beach, Duval County",USA,Florida,N
+2019,27-Aug-2019,11h55,Provoked,M,40,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2019,21-Aug-2019,09h00,Unprovoked,M,11,Wading,"Fort Lauderdale, Broward County",USA,Florida,N
+2019,20-Aug-2019,08h00,Unprovoked,F,26,Swimming/ Treading water,"Napoopoo Park in Kealakekua Bay, The Big Island",USA,Hawaii,N
+2019,16-Aug-2019,11h00,Unprovoked,M,9,Wading,"New Smyrna Beach, Volusia County",USA,Florida,N
+2019,11-Aug-2019,19h30,Unprovoked,M,16,Surfing,"Makaha Beach, Oahu",USA,Hawaii,N
+2019,04-Aug-2019,15h00,Unprovoked,M,51,Standing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2019,03-Aug-2019,16h00,Unprovoked,F,21,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2019,03-Aug-2019,15h30,Unprovoked,M,20,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2019,03-Aug-2019,,Unprovoked,M,37,Spearfishing / Diving,Off Key Biscayne,USA,Florida,N
+2019,29-Jul-2019,22h20,Unprovoked,M,49,Swimming,Molokai Channel/,USA,Hawaii,N
+2019,30-Jul-2019,,Provoked,M,,Fishing ,"Off Cape Hatteras, Dare County",USA,North Carolina,N
+2019,29-Jul-2019,13h30,Unprovoked,M,18,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2019,27-Jul-2019,16h30,Unprovoked,M,49,Boogie boarding,"New Smyrna Beach, Volusia County",USA,Florida,N
+2019,27-Jul-2019,,Unprovoked,M,23,Surfing,"Jacksonville Beach, Duval County",USA,Florida,N
+2019,22-Jul-2019,18h30,Unprovoked,M,18,Surfing,"Moonstone Beach, South Kingstown, Washington County",USA,Rhode Island,N
+2019,18-Jul-2019,,Unconfirmed,,,Diving,"Haulover Inlet, Miami-Dade County",USA,Florida,
+2019,16-Jul-2019,16h30,Unprovoked,F,,Body-surfing,"Sunset Beach, Brunswick County",USA,North Carolina,N
+2019,12-Jul-2019,07h30,Unprovoked,F,16,Boogie boarding,"Amelia Island, Nassau County",USA,Florida,N
+2019,30-Jun-2019,16h30,Unprovoked,M,18,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2019,16-Jun-2019,16h00,Unprovoked,M,8,Swimming,"Bald Head Island, Brunswick County",USA,North Carolina,N
+2019,16-Jun-2019,09h00,Unprovoked,M,64,Swimming,"Wilmington River, Chatham County",USA,Georgia,N
+2019,10-Jun-2019,14h00,Unprovoked,M,19,Surfing,"Ocean Isle, Brunswick County",USA,North Carolina,N
+2019,02-Jun-2019,12h20,Unprovoked,F,17,Standing,"Fort Macon State Beach, Carteret County",USA,North Carolina,N
+2019,25-May-2019,08h48,Unprovoked,M,65,Swimming,"Honokowai Point, Maui",USA,Hawaii,Y
+2019,20-May-2019,,Unprovoked,M,67,Body Boarding,"Ship Bottom, Ocean County",USA,New Jersey,N
+2019,14-May-2019,08h30,Unprovoked,M,,Surfing,"Browns, Oahu",USA,Hawaii,N
+2019,08-May-2019,09h00,Unprovoked,F,34,Swimming with sharks,O'ahu,USA,Hawaii,N
+2019,07-May-2019,,Unprovoked,F,28,Surfing,"North Salmon Creek Beach, Sonoma County",USA,California,N
+2019,01-May-2019,18h45,Unprovoked,M,,Fishing,"Off Boca Grande, Lee County",USA,Florida,N
+2019,23-Apr-2019,08h30,Unprovoked,F,65,Kayaking,"Anaehoomalu Bay, Hawaii",USA,Hawaii,N
+2019,21-Apr-2019,17h30,Unprovoked,M,25,,"Jacksonville Beach, Duval County",USA,Florida,N
+2019,12-Apr-2019,17h45,Questionable,F,10,Boogie boarding,"Crescent Beach, St Johns County",USA,Florida,N
+2019,06-Apr-2019,Night,Questionable,M,58,Picking opihi,"North Koahala, Big Island",USA,Hawaii,N
+2019,06-Apr-2019,01h00,Unprovoked,M,23,Swimming,Kaiwi Channel,USA,Hawaii,N
+2019,26-Mar-2019,10h00,Watercraft,M,74,Paddling an outrigger canoe,Waikoloa area,USA,Hawaii,N
+2019,22-Mar-2019,16h00,Unprovoked,M,46,Surfing,"Hobe Sound, Martin County",USA,Florida,N
+2019,16-Mar-2019,03h00,Unprovoked,M,58,Swimming,Kaiwi Channel,USA,Hawaii,N
+2019,12-Mar-2019,14h00,Unprovoked,M,11,Boogie boarding,"Stuart Beach, Martin County",USA,Florida,N
+2019,05-Mar-2019,08h30,Unprovoked,M,,Surfing,"Cape Kiwanda, Tillamook County",USA,Oregon,N
+2019,18-Feb-2018,08h15,Unprovoked,M,,Surfing,"Dog Beach, Huntington Beach",USA,California,N
+2019,04-Feb-2019,13h40,Unprovoked,M,,Surfing,"Hanalei Bay, Kauai",USA,Hawaii,N
+2019,02-Feb-2019,10h00,Unprovoked,M,50,Spearfishing,Key Biscayne,USA,Florida,N
+2019,8-Jan-2019,10h00,Unprovoked,M,19,Surfing,"Sandspit Beach, Montaña de Oro State Park ",USA,California,N
+2018,24-Nov-2018,17h00,Unprovoked,M,48,Surfing,"Juno Beach, Palm Beach County",USA,Florida,N
+2018,23-Oct-2018,Early afternoon,Unprovoked,F,,Surfing,"Near Patrick AFB, Brevard County",USA,Florida,N
+2018,23-Oct-2018,,Unprovoked,M,29,Surfing,"Ponce Inlet, Volusia County",USA,Florida,N
+2018,23-Oct-2018,Morning,Unprovoked,M,,Diving / Filming,Farallon Islands,USA,California,N
+2018,11-Oct-2018,Morning,Unprovoked,F,,Surfing,"Bethune Beach, Volusia County",USA,Florida,N
+2018,29-Sep-2018,06h55,Unprovoked,M,13,Diving,"Beacons Beach, San Diego County",USA,California,N
+2018,27-Sep-2018,15h00,Watercraft,M,55,Fishing,Humboldt County,USA,California,N
+2018,20-Sep-2018,12h00,Questionable,F,,,"Jacksonville Beach, Duval County",USA,Florida,N
+2018,15-Sep-2018,12h00,Unprovoked,M,26,Boogie boarding,"Newcomb Hollow Beach, Wellfleet, Barnstable County",USA,Massachusetts,Y
+2018,08-Sep-2018,13h15,Unprovoked,M,39,Surfing,"Ponce Inlet, Volusia County",USA,Florida,N
+2018,08-Sep-2018,08h30,Unprovoked,M,23,Stand-Up Paddleboarding,"Pounders Beach, Oahu",USA,Hawaii,N
+2018,07-Sep-2018,09h29,Unprovoked,M,60s,Surfing,"Fort Pierce, St. Lucie County",USA,Florida,N
+2018,24-Aug-2018,20h00,Unprovoked,M,14,Swimming,"Huntington Beach, Orange County",USA,California,N
+2018,18-Aug-2018,10h47,Unprovoked,M,14,Surfing,"Atlantic Beach, Carteret  County",USA,North Carolina,N
+2018,15-Aug-2018,Sunset,Questionable,M,,,"Rhode River, Chesapeake Bay",USA,Maryland,N
+2018,15-Aug-2018,16h00,Unprovoked,M,61,Swimming,"Longnook Beach, Truro, Barnstable County",USA,Massachusetts,N
+2018,09-Aug-2018,10h00,Unprovoked,M,42,Spearfishing,"Crystal Beach, Galveston  County",USA,Texas,N
+2018,05-Aug-2018,,Unprovoked,M,16,Standing,"Bald Head Island, Brunswick County",USA,North Carolina,N
+2018,05-Aug-2018,10h30,Unprovoked,F,a minor,Swimming/Standing,"Bald Head Island, Brunswick County",USA,North Carolina,N
+2018,29-Jul-2018,,Unprovoked,M,14,Surfing,"St Augustine, St Johns County",USA,Florida,N
+2018,18-Jul-2018,12h00,Unprovoked,M,13,Boogie Boarding,"Atlantique Beach, Fire Island, Suffolk County",USA,New York,N
+2018,18-Jul-2018,11h15,Unprovoked,F,12,Wading,"Sailors Haven, Fire Island, Suffolk County",USA,New York,N
+2018,Reported 16-Jul-2018,18h00,Invalid,F,,Surfing,Galveston,USA,Texas,
+2018,14-Jul-2018,14h11,Provoked,F,58,Wading,"Trinidad Beach, Huboldt County",USA,California,N
+2018,14-Jul-2018,13h30,Under investigation,F,14,Surfing,"Playalinda Beach, Brevard County",USA,Florida,N
+2018,13-Jul-2018,15h40,Unprovoked,M,17,Wading,"Fernandina Beach, Nassau County",USA,Florida,N
+2018,13-Jul-2018,15h35,Unprovoked,M,30,Surfing,"Fernandina Beach, Nassau County",USA,Florida,N
+2018,11-Jul-2018,11h30,Unprovoked,M,14,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2018,07-Jul-2018,13h30,Invalid,M,,Snorkeling,"John Pennekamp Coral Reef State Park, Monroe County",USA,Florida,N
+2018,02-Jul-2018,14h40,Unprovoked,F,11,Boogie boarding,Myrtle Beach,USA,South Carolina,N
+2018,25-Jun-2018,18h00,Watercraft,F,57,Paddling,"Oceanside, San Diego County",USA,California,N
+2018,18-Jun-2018,,Provoked,M,,Fishing,"Near the Bahia Honda Bridge, Monroe County",USA,Florida,N
+2018,18-Jun-2018,14h00  -15h00,Unprovoked,F,11,Standing,"St. Simon Island, Glynn County",USA,Georgia,N
+2018,09-Jun-2018,07h45,Invalid,M,48,Surfing,"Habush, Oahu",USA,Hawaii,N
+2018,27-May-2018,,Provoked,M,52,Fishing,"Lighhouse Point Park, Ponce Inlet, Volusia County",USA,Florida,N
+2018,26-May-2018,17h00,Unprovoked,M,15,Walking,"Cocoa Beach, Brevard  County",USA,Florida,N
+2018,26-May-2018,14h00,Unprovoked,M,12,Standing,"Daytona Beach, Volusia County",USA,Florida,N
+2018,21-May-2018,,Unprovoked,M,10,Boogie boarding,"Isle of Palms,  Charleston County",USA,South Carolina,N
+2018,13-May-2018,15h00,Unprovoked,M,10,Swimming,"Hilton Head Island, Beaufort County",USA,South Carolina,N
+2018,28-Apr-2018,,Provoked,M,,Fishing,Galveston Bay,USA,Texas,N
+2018,19-Apr-2018,,Unprovoked,M,29,Body boarding,"Shipwreck’s Beach, Keoneloa Bay, Kauai",USA,Hawaii,N
+2018,31-Mar-2018,09h30,Unprovoked,M,25,Stand-Up Paddleboarding,Kukio Beach,USA,Hawaii,N
+2017,31-Dec-2017,18h00,Unprovoked,F,54,Surfing,"Hultin's Beach, Oahu",USA,Hawaii,N
+2017,30-Dec-2017,12h00,Unprovoked,F,35,Surfing,"Drakes Estero, Point Reyes, Marin County",USA,California,N
+2017,24-Nov-2017,13h45,Unprovoked,M,25,Spearfishing,"Stillwater Cove, Monterey County",USA,California,N
+2017,18-Nov-2017,Late afternoon,Unprovoked,F,14,Surfing,"Floridana Beach, Brevard County",USA,Florida,N
+2017,02-Nov-2017,14h15,Unprovoked,M,20s,Surfing,Makaha,USA,Hawaii,N
+2017,26-Oct-2017,15h00,Unprovoked,M,,Stand-Up Paddleboarding,"White Plains Beach, Oahu",USA,Hawaii,N
+2017,23-Oct-2017,17h00,Unprovoked,M,17,Surfing ,"Juno Beach, Palm Beach County",USA,Florida,N
+2017,23-Oct-2017,08h00,Unprovoked,F,60,Swimming,"Ocean Reef Park, Singer Island, Palm Beach County",USA,Florida,N
+2017,18-Oct-2017,14h30,Unprovoked,M,,Swimming,"Lantana Beach, Palm Beach County",USA,Florida,N
+2017,09-Oct-2017,18h30,Unprovoked,M,54,Surfing,"Davidsons Beach, Kekaha, Kauai",USA,Hawaii,N
+2017,05-Oct-2017,12h30,Unprovoked,F,40,Snorkeling,"Kama‘ole Beach Park, Maui ",USA,Hawaii,N
+2017,25-Sep-2017,Morning,Unprovoked,M,,Surfing,"Hanna Park, Jacksonville, Duval County",USA,Florida,N
+2017,24-Sep-2017,15h30,Invalid,M,33,Surfing,Rockaway,USA,New York,
+2017,24-Sep-2017,14h00,Unprovoked,M,,Surfing,Fort Worth,USA,Florida,N
+2017,20-Sep-2017,Morning,Unprovoked,M,,Surfing,Palm Beach County,USA,Florida,N
+2017,16-Sep-2017,16h30,Unprovoked,M,28,Surfing,"Ponce Inlet, Volusia County",USA,Florida,N
+2017,13-Sep-2017,18h45,Unprovoked,M,18,Surfing,"Ponce Inlet, Volusia County",USA,Florida,N
+2017,02-Sep-2017,,Unprovoked,M,,Swimming,"Marathon, Monroe County",USA,Florida,N
+2017,02-Sep-2017,,Unprovoked,F,,Swimming,"South Padre Island, Cameron County",USA,Texas,N
+2017,02-Sep-2017,10h44,Unprovoked,M,17,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2017,27-Aug-2017,13h19,Unprovoked,F,3,Wading,Bathtub Beach ,USA,Florida,N
+2017,23-Aug-2017,10h00,Unprovoked,M,69,SUP,"Marconi Beach, Wellfleet, Barnstable County",USA,Massachusetts,N
+2017,10-Aug-2017,13h30,Unprovoked,M,13,Swimming,"Sea Pines Resort, Hilton Head Island, Beaufort County",USA,South Carolina,N
+2017,03-Aug-2017,23h30,Provoked,M,34,Fishing,"Menauhant Beach, Falmouth,
+Barnstable County",USA,Massachusetts,N
+2017,01-Aug-2017,10h45,Watercraft,M,,Fishing,"Between Pescadero Point & Bean Hollow Beach, San Mateo County",USA,California,N
+2017,31-Jul-2017,18h30,Unprovoked,M,15,Skimboarding,"Jacksonvlle, Duval County",USA,Florida,N
+2017,29-Jul-2017,15h00,Invalid,M,10,Swimming,"Hilton Head Island, Beaufort County",USA,South Carolina,
+2017,29-Jul-2017,Afternoon,Unprovoked,F,12,,"DeBordieu Colony, Georgetown County",USA,South Carolina,N
+2017,23-Jul-2017,,Unprovoked,F,,,Ventnor,USA,New Jersey,N
+2017,22-Jul-2017,12h30,Unprovoked,F,40,,"Snipes Point, Monroe County",USA,Florida,N
+2017,20-Jul-2017,,Invalid,F,8,Swimming,"Hilton Head Island, Beaufort County",USA,South Carolina,
+2017,20-Jul-2017,11h20,Watercraft,M,40,Kayaking,"Stearns Wharf, Santa Barbara",USA,California,N
+2017,20-Jul-2017,07h45,Unprovoked,M,50,SUP,"Seal Rock, Goleta Beach, Santa Barbara",USA,California,N
+2017,14-Jul-2017,18h30,Unprovoked,M,,Surfing,"South Beach, Westport, Grays Harbor County",USA,Washington,N
+2017,11-Jul-2017,11h00,Watercraft,M,,Kayaking,"Santa Cruz, Santa Cruz County",USA,California,N
+2017,09-Jul-2017,15h30,Unprovoked,M,46,Swimming,"Haulover Beach, Miami-Dade County",USA,Florida,N
+2017,29-Jun-2017,19h30,Invalid,M,,Fishing,Wrightsville Beach,USA,South Carolina,
+2017,21-Jun-2017,,Unprovoked,F,16,Swimming,"South Forest Beach, Hilton Head Island, Beaufort County",USA,South Carolina,N
+2017,19-Jun-2017,Morning,Unprovoked,M,,Surfing,"Singer Island, Palm Beach County",USA,Florida,N
+2017,18-Jun-2017,,Unprovoked,F,14,Swimming,"Burkes Beach, Hilton Head, Beaufort County",USA,South Carolina,N
+2017,10-Jun-2017,10h00,Unprovoked,M,19,Surfing,"Ponce Inlet, Volusia County",USA,Florida,N
+2017,04-Jun-2017,,Unprovoked,M,,Spearfishing,"Middle Sambo Reef off Boca Chica, Monroe County",USA,Florida,N
+2017,30-May-2017,,Provoked,F,20,Touching a shark,"Awendaw, Charleston County",USA,South Carolina,N
+2017,28-May-2017,Morning,Unprovoked,M,,Feeding sharks,Off Jupiter,USA,Florida,N
+2017,03-May-2017,14h30,Invalid,F,18,Surfing,"Sunset Beach, Orange County",USA,California,
+2017,29-Apr-2017,17h34,Unprovoked,F,,Swimming,"San Onofre, San Diego County ",USA,California,N
+2017,29-Apr-2017,11h00,Unprovoked,F,33,Surfing,"Folly Beach, Charleston County",USA,South Carolina,N
+2017,26-Apr-2017,,Invalid,F,,Photo shoot,,USA,Florida,
+2017,20-Apr-2017,08h50,Invalid,M,,Swimming,Georgetown County,USA,South Carolina,
+2017,17-Apr-2017,Afternoon,Unprovoked,,,,"Daytona Beach, Volusia County",USA,Florida,N
+2017,14-Apr-2017,09h00,Unprovoked,M,28,Surfing,"Kekaha Beach, Kauai",USA,Hawaii,N
+2017,13-Apr-2017,13h30,Unprovoked,M,17,Surfing,"Hanna Park, Jacksonville, Duval County",USA,Florida,N
+2017,12-Apr-2017,13h45,Unprovoked,F,,Surfing,St. Augustine,USA,Florida,N
+2017,11-Apr-2017,16h00,Unprovoked,F,35,Surfing,"Ormond Beach, Volusia County",USA,Florida,N
+2017,10-Apr-2017,17h45,Unprovoked,F,10,Paddle boarding,"Melbourne Beach, Brevard County",USA,Florida,N
+2017,10-Apr-2017,17h00,Unprovoked,F,21,Swimming,"Melbourne Beach, Brevard County",USA,Florida,N
+2017,06-Apr-2017,,Unprovoked,M,16,Swimming,"Daytona, Volusia County",USA,Florida,N
+2017,05-Apr-2017,13h00,Unprovoked,F,51,Swimming,"New Smyrna Beach, Volusia County",USA,Florida,N
+2017,02-Apr-2017,15h00,Unprovoked,F,17,Swimming,"Destin, Okaloosa County",USA,Florida,N
+2017,27-Mar-2017,10h00,Unprovoked,M,58,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2017,18-Mar-2017,14h30,Watercraft,M,,Kayaking,Monterey Bay,USA,California,N
+2017,11-Feb-2017,13h30,Unprovoked,M,22,Swimming,"Melbourne Beach, Brevard County",USA,Florida,N
+2017,01-Feb-2017,,Watercraft,,,Fishing,16 miles off Hilton Head,USA,South Carolina,N
+2017,00.Feb.2017,Not stated,Unprovoked,m,13,Not stated,Southern USA,USA,,N
+2017,22-Jan-2017,14h00,Unprovoked,M,Teen,,"Vero Beach, Indian River County",USA,Florida,N
+2017,13-Jan-2017,Morning,Unprovoked,M,,,Jensen Beach,USA,Florida,N
+2017,05-Jan-2017,12h30,Unprovoked,M,47,Wading,"Blockhouse Beach, Brevard County",USA,Florida,N
+2016,27-Dec-2016,17h00,Unprovoked,M,16,Surfing,"Avalon State Park Beach, North Hutchinson Island, St Lucie County",USA,Florida,N
+2016,11-Dec-2016,Afternoon,Invalid,M,19,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,
+2016,14-Nov-2016,10h30,Unprovoked,F,58,Floating,"Kamaole Beach Park I, Maui",USA,Hawaii,N
+2016,30-Oct-2016,Afternoon,Unprovoked,M,41,Surfing,"Mayport Naval Station Beach, Duval County",USA,Florida,N
+2016,29-Oct-2016,Afternoon,Unprovoked,M,42,Surfing,Mayport Naval Station  Duval County,USA,Florida,N
+2016,21-Oct-2016,17h00,Unprovoked,M,36,Surfing,"Hooipa Beach Park, Maui",USA,Hawaii,N
+2016,14-Oct-2016,09h50,Unprovoked,F,66,Snorkeling,"Charlie Young Beach, Kihei, Maui",USA,Hawaii,N
+2016,10-Oct-2016,16h00,Unprovoked,M,29,Surfing,"Indian Beach, Ecola State Park, Clatsop County",USA,Oregon,N
+2016,02-Oct-2016,11h30,Unprovoked,M,21,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2016,01-Oct-2016,17h30,Unprovoked,M,32,Surfng,"New Smyrna Beach, Volusia County",USA,Florida,N
+2016,18-Sep-2016,13h00,Unprovoked,M,16,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2016,18-Sep-2016,11h00,Unprovoked,M,36,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2016,18-Sep-2016,10h43,Unprovoked,M,43,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2016,17-Sep-2016,After noon,Unprovoked,M,43,Surfing,"Bunkers, Humboldt Bay, Eureka, Humboldt County",USA,California,N
+2016,11-Sep-2016,15h15,Unprovoked,M,60s,Wading,"Ponte Vedra, St. Johns County",USA,Florida,N
+2016,07-Sep-2016,14h30,Unprovoked,F,51,Swimming,"Makaha, Oahu",USA,Hawaii,N
+2016,05-Sep-2016,Late afternoon,Unprovoked,F,12,Boogie boarding,"Kingston Plantation, Myrtle Beach, Horry County",USA,South Carolina,N
+2016,04-Sep-2016,,Unprovoked,M,9,Body boarding,"New Smyrna Beach, Volusia County",USA,Florida,N
+2016,01-Sep-2016,,Unprovoked,M,22,Spearfishing,"Refugio State Beach, Santa Barbara County",USA,California,N
+2016,29-Aug-2016,15h00,Unprovoked,M,25,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2016,29-Aug-2016,14h00,Unprovoked,M,37,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2016,25-Aug-2016,16h00,Unprovoked,M,49,Wading,"Ponte Vedra, St. Johns County",USA,Florida,N
+2016,06-Aug-2016,16h30,Unprovoked,M,21,SUP Foil boarding,Maui,USA,Hawaii,N
+2016,04-Aug-2016,,Unprovoked,M,22,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2016,27-Jul-2016,,Provoked,M,43,Lobstering,"Florida Keys, Monroe County",USA,Florida,N
+2016,17-Jul-2016,,Watercraft,,,Fishing,8 miles off Mobile,USA,Alabama,N
+2016,16-Jul-2016,1300,Unprovoked,F,9,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2016,16-Jul-2016,11h00,Unprovoked,F,11,,"New Smyrna Beach, Volusia County",USA,Florida,N
+2016,15-Jul-2016,17h00,Unprovoked,M,61,Kite surfing,"Surfside, Orange County",USA,California,N
+2016,15-Jul-2016,,Unprovoked,M,,Swimming,"North Myrtle Beach, Horry County",USA,South Carolina,N
+2016,08-Jul-2016,,Watercraft,M,,Fishing ,"Capitola, Santa Cruz County",USA,California,N
+2016,07-Jul-2016,10h00,Provoked,M,59,Fishing,"Off Gloucester, Essec County",USA,Massachusetts,N
+2016,07-Jul-2016,,Watercraft,M,,Fishing ,"Off Palos Verdes peninsula, Los Angeles County",USA,California,N
+2016,06-Jul-2016,14h30 / 15h30,Unprovoked,F,42,Swimming,"Melbourne Beach, Brevard County",USA,Florida,N
+2016,27-Jun-2016,16h20,Unprovoked,M,35,,Sullivan's Island,USA,South Carolina,N
+2016,25-Jun-2016,14h34,Unprovoked,M,11,Surfing,"Atlantic Beach, Emerald Isle, Carteret County",USA,North Carolina,N
+2016,21-Jun-2016,15h25,Unprovoked,M,42,Floating,"North Myrtle Beach, Horry County",USA,South Carolina,N
+2016,21-Jun-2016,14h55,Unprovoked,M,,Wading,"Pelican Beach Park, Satellite Beach, Brevard County",USA,Florida,N
+2016,15-Jun-2016,06h00,Unprovoked,M,,Surfing,"Kalapaki Beach, Kauai",USA,Hawaii,N
+2016,14-Jun-2016,17h30,Unprovoked,F,6,Floating in tube,"Pirates Beach, Galveston",USA,Texas,N
+2016,11-Jun-2016,15h00,Unprovoked,M,19,Standing,"Atlantic Beach, Emerald Isle, Carteret County",USA,North Carolina,N
+2016,07-Jun-2016,11h30,Invalid,M,27,Surfing,"Folly Beach, Charleston County",USA,South Carolina,
+2016,05-Jun-2016,08h30,Unprovoked,M,64,Swimming,"Flagler Beach, Flagler County",USA,Florida,N
+2016,29-May-2016,16h00,Unprovoked,F,52,Swimming,"Corona Del Mar, Newport, Orange County",USA,California,N
+2016,29-May-2016,15h45,Unprovoked,M,13,Swimming,"Neptune, Duval County",USA,Florida,N
+2016,22-May-2016,12h00,Unprovoked,F,57,Swimming,"Vero Beach, Indian River County",USA,Florida,N
+2016,21-May-2016,18h00,Unprovoked,F,22,Swimming,"St. Petersburg, Pinellas County",USA,Florida,N
+2016,21-May-2016,17h46,Unprovoked,F,11,Swimming,"Hugenot Beach , Jacksonville, Duval County",USA,Florida,N
+2016,18-May-2016,Morning ,Unprovoked,M,48,Swimming,"Ponte Vedra, St. Johns County",USA,Florida,N
+2016,15-May-2016,13h20,Provoked,F,23,Teasing a shark,"Boca Raton, Palm Beach County",USA,Florida,N
+2016,03-May-2016,15h49,Unprovoked,M,59,Floating,"Wailea Beach, Maui",USA,Hawaii,N
+2016,May 2016,,Unprovoked,F,33,Wading,,USA,Louisiana,N
+2016,23-Apr-2016,17h30,Unprovoked,M,15,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2016,13-Apr-2016,,Unprovoked,M,26,Spearfishing,"Off Singer Island, Palm Beach County",USA,Florida,N
+2016,07-Apr-2016,,Unprovoked,M,34,Fishing,"Florida Keys, Monroe County",USA,Florida,N
+2016,07-Apr-2016,,Invalid,M,,SUP,"Corners Beach, Jupiter, Palm Beach County",USA,Florida,
+2016,31-Mar-2016,11h00,Unprovoked,F,46,Snorkeling,"Olowalu, Maui",USA,Hawaii,N
+2016,28-Mar-2016,,Unprovoked,M,Teen,,"Fort Myers Beach, Lee County",USA,Florida,
+2016,13-Mar-2016,Morning,Invalid,,,Surfing,"Bolsa Chica State Park, Orange County",USA,California,
+2016,11-Mar-2016,13h30,Unprovoked,M,19,Body surfing,"Vero Beach, St. Lucie County",USA,Florida,N
+2016,04-Mar-2016,Afternoon,Unprovoked,M,12,,"Ocean Reef Park, Singer Island, Palm Beach County",USA,Florida,N
+2016,28-Jan-2016,14h00,Unprovoked,M,,Surfing,"Hanalei Bay, Kauai",USA,Hawaii,N
+2016,25-Jan-2016,11h30,Unprovoked,F,15,Surfing,"Hanalei Bay, Kauai, ",USA,Hawaii,N
+2016,24-Jan-2016,09h30 / 10h00,Unprovoked,M,,Spearfishing,Off Surfside,USA,Texas,N
+2016,23-Jan-2016,Morning,Unprovoked,M,48,Paddle boarding,"Wailea Beach, Maui",USA,Hawaii,N
+2015,22-Dec-2015,Morning,Unprovoked,M,71,Paddle boarding,La'aloa Beach Park,USA,Hawaii,N
+2015,16-Nov-2015,Afternoon,Unprovoked,M,,Surfing,"Playalinda Beach, Brevard County",USA,Florida,N
+2015,15-Nov-2015,11h00,Unprovoked,F,,Swimming,"Palm Beach, Palm Beach County",USA,Florida,N
+2015,15-Nov-2015,,Unprovoked,M,28,Surfing,"Ocean Reef Park, Singer Island, Palm Beach County",USA,Florida,N
+2015,07-Nov-2015,11h00,Invalid,F,9,Surfing,"Paradise Beach, Melbourne, Brevard County",USA,Florida,
+2015,03-Nov-2015,11h00,Unprovoked,M,54,Swimming,"Kehena Beach, Hawaii",USA,Hawaii,N
+2015,01-Nov-2015,14h00,Unprovoked,F,28,Wading,"Cocoa Beach, Brevard  County",USA,Florida,N
+2015,28-Oct-2015,14h50,Unprovoked,M,10,Body boarding,"Malaka, Oahu",USA,Hawaii,N
+2015,21-Oct-2015,14h30,Unprovoked,M,21,Surfing,"Playalinda Beach, Brevard County",USA,Florida,N
+2015,19-Oct-2015,13h50,Unprovoked,M,21,Surfing,"Deerfield Beach, Broward County",USA,Florida,N
+2015,17-Oct-2015,19h20,Invalid,M,32,Surfing,"Waikiki, ",USA,Hawaii,
+2015,17-Oct-2015,11h30,Unprovoked,M,44,Swimming,"Lanikai Beach, Kailua, Oahu",USA,Hawaii,N
+2015,13-Oct-2015,11h00,Watercraft,M,,Fishing,"Off Leffingwell Landing, San Luis Obispo County",USA,California,N
+2015,09-Oct-2015,16h20,Unprovoked,F,9,Boogie boarding,"Shipyard Beach Club, Hilton Head Island, Beaufort County",USA,South Carolina,N
+2015,09-Oct-2015,10h25,Unprovoked,M,25,Surfing,"Leftovers, Oahu",USA,Hawaii,N
+2015,05-Oct-2015,13h00,Unprovoked,M,22,Body boarding,"Pepper Park Beach, St. Lucie County",USA,Florida,N
+2015,05-Oct-2015,10h00,Unprovoked,M,13,Wading,Galveston,USA,Texas,N
+2015,04-Oct-2015,08h30,Unprovoked,M,14,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2015,29-Sep-2015,16h20,Unprovoked,M,22,Surfing,"Vilano Beach, St.  Johns County",USA,Florida,N
+2015,24-Sep-2015,10h45-11h15,Watercraft,M,,Kayak fishing,"Horseshoe Rock, Santa Barbara County",USA,California,N
+2015,20-Sep-2015,16h45,Unprovoked,M,14,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2015,20-Sep-2015,15h52,Unprovoked,M,27,Spearfishing,"Upolu Point, North Kohala, Big Island",USA,Hawaii,N
+2015,20-Sep-2015,12h30,Unprovoked,M,12,Wading,"Fernandina Beach, Amelia Island, Nassau County",USA,Florida,N
+2015,20-Sep-2015,07h30,Unprovoked,M,16,Photographing fish,"Vilano Beach, St.  Johns County",USA,Florida,N
+2015,19-Sep-2015,,Watercraft,M,,Kayak Fishing,"Gaviota State Beach, Santa Barbara County",USA,California,N
+2015,18-Sep-2015,19h00,Unprovoked,M,,Swimming,"Big Talbot Island, Duval County",USA,Florida,N
+2015,17-Sep-2015,15h00,Unprovoked,M,20,Surfing,"Jacksonville Beach, Duval County",USA,Florida,N
+2015,06-Sep-2015,17h30,Unprovoked,F,50,Stand-Up Paddleboarding,"El Pescador Beach, Los Angeles County",USA,California,N
+2015,05-Sep-2015,14h40,Provoked,M,29,Kayak Fishing,"Deer Creek Beach, Ventura County",USA,California,N
+2015,03-Sep-2015,16h00,Unprovoked,M,,,"Myrtle Beach, Horry County",USA,South Carolina,N
+2015,29-Aug-2015,10h25,Unprovoked,F,54,Surfing,"Morro Strand State Beach, San Luis Obispo County",USA,California,N
+2015,29-Aug-2015,10h00,Unprovoked,M,21,Surfing,"Morro Bay, San Luis Obispo County",USA,California,N
+2015,22-Aug-2015,19h45,Invalid,M,,,"Cocoa Beach, Brevard  County",USA,Florida,
+2015,20-Aug-2015,12h30,Unprovoked,M,15,Surfing,"Murrells Inlet, Georgetown County",USA,South Carolina,N
+2015,19-Aug-2015,15h30,Unprovoked,F,10,Walking,"Jacksonville Beach, Duval County",USA,Florida,N
+2015,18-Aug-2015,07h30,Watercraft,M,22,Kayak Fishing,Santa Barbara County,USA,California,N
+2015,10-Aug-2015,08h00,Provoked,M,57,Spearfishing,Cortes Bank,USA,California,N
+2015,26-Jul-2015,19h00,Unprovoked,M,25,Surfing,"Daytona Beach, Volusia County",USA,Florida,N
+2015,26-Jul-2015,10h10,Invalid,F,35,Floating,"Edisto Beach, Colleton County",USA,South Carolina,
+2015,23-Jul-2015,,Provoked,M,31,Kayak Fishing,"La Jolla, San Diego County",USA,California,N
+2015,10-Jul-2015,08h45,Unprovoked,M,38,Surfing,"Huntington Beach, Orange County",USA,California,N
+2015,08-Jul-2015,,Invalid,M,39,Treading water,"Huntington Beach, Orange County",USA,California,
+2015,04-Jul-2015,Evening,Unprovoked,M,32,,"Off Surf City, Pender County",USA,North Carolina,N
+2015,01-Jul-2015,12h10,Unprovoked,M,68,Swimming,"Ocracoke, Lifeguard Beach, National Park Service, Hyde County",USA,North Carolina,N
+2015,30-Jun-2015,18h05,Unprovoked,M,12,Playing in the water,"Isle of Palms County Park, Isle of Palms, Charleston County",USA,South Carolina,N
+2015,27-Jun-2015,16h00,Unprovoked,M,18,Swimming,"Rodanthe, Dare County",USA,North Carolina,N
+2015,26-Jun-2015,19h30,Invalid,F,,Swimming,"Jacksonville Beach, Duval County",USA,Florida,
+2015,26-Jun-2015,11h00,Unprovoked,M,43,Standing,"South Beach, Hunting Island State Park, Beaufort County",USA,South Carolina,N
+2015,25-Jun-2015,11h41,Unprovoked,M,47,Body surfing?,"Avon, Hatteras Island, Outer Banks, Dare County",USA,North Carolina,N
+2015,24-Jun-2015,12h25,Unprovoked,M,6,Swimming,Surf City,USA,North Carolina,N
+2015,23-Jun-2015,,Unprovoked,M,9,Standing,"St. Helena Island, Beaufort County",USA,South Carolina,N
+2015,17-Jun-2015,13h00,Unprovoked,M,10,Swimming,Daytona Beach Shores,USA,Florida,N
+2015,14-Jun-2015,17h51,Unprovoked,M,16,Wading,"Oak Island, Brunswick County",USA,North Carolina,N
+2015,14-Jun-2015,16h12,Unprovoked,F,12,Wading,"Oak Island, Brunswick County",USA,North Carolina,N
+2015,13-Jun-2015,,Unprovoked,F,,,Off San Diego,USA,California,N
+2015,11-Jun-2015,12h45,Unprovoked,F,13,Boogie boarding,"Ocean Isle, Brunswick County",USA,North Carolina,N
+2015,07-Jun-2015,10h50,Unprovoked,M,11,Playing,"Lori Wilson Park, Cocoa Beach, Brevard  County",USA,Florida,N
+2015,05-Jun-2015,,Unprovoked,F,17,Attempting to rescue a shark,Fort Lauderdale,USA,Florida,N
+2015,29-May-2015,15h00,Unprovoked,F,14,Standing,"Cocoa Beach, Brevard  County",USA,Florida,N
+2015,29-May-2015,13h45,Unprovoked,F,19,Wading,"New Smyrna Beach, Volusia County",USA,Florida,N
+2015,24-May-2015,,Unprovoked,F,13,Swimming,"Cocoa Beach, Brevard  County",USA,Florida,N
+2015,20-May2015,10h30,Unprovoked,M,18,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2015,15-May-2015,14h15,Unprovoked,M,30,,Sullivan's Island,USA,South Carolina,N
+2015,07-May-2015,15h00,Unprovoked,M,,Swimming,"Cocoa Beach, Brevard  County",USA,Florida,N
+2015,29-Apr-2015,09h00,Unprovoked,F,65,Snorkeling,Kanahena Cove ,USA,Hawaii,Y
+2015,26-Apr-2015,16h30,Unprovoked,M,63,Wading,"Resident's Beach, Marco Island",USA,Florida,N
+2015,13-Apr-2015,,Unprovoked,M,48,Photographing the shark,"Florida Keys, Monroe County",USA,Florida,N
+2015,03-Apr-2015,Afternoon,Unprovoked,M,70,Spearfishing,"3 miles off Jupiter, Palm Beach County",USA,Florida,N
+2015,18-Mar-2015,11h45,Unprovoked,M,58,Standing / Snorkeling,Hapuna Beach,USA,Hawaii,N
+2015,27-Jan-2015,03h30,Provoked,M,20,Shark fishing,Lahaina,USA,Hawaii,N
+2015,19-Jan-2015,,Watercraft,M,,Fishing,Off Panama City,USA,Florida,N
+2015,08-Jan-2015,Night,Invalid,M,38,Swimming after falling overboard,,USA,Florida,
+2015,01-Jan-2015,Afternoon,Unprovoked,M,12,,"Windsor Beach, Indian River County",USA,Florida,N
+2014,28-Dec-2014,11h30,Unprovoked,M,50,Surfing,"Montaña de Oro State Park, San Luis Obispo County ",USA,California,N
+2014,Reported 17-Nov-2014,,Watercraft,,,,"Franklin Point, San Mateo County",USA,California,N
+2014,16-Nov-2014,13h00,Unprovoked,M,44,Surfing,"Indian Harbor Beach, Brevard County",USA,Florida,N
+2014,13-Nov-2014,13h30,Unprovoked,M,53,Snorkeling,"Airplane Beach, Lahina, West Maui",USA,Hawaii,N
+2014,08-Nov-2014,16h30,Unprovoked,M,18,Surfing,"Fort Pierce Inlet State Park, St. Lucie County",USA,Florida,N
+2014,31-Oct-2014,11h00,Unprovoked,F,34,Surfing,"North Kohala, Hawaii County",USA,Hawaii,N
+2014,22-Oct-2014,10h00,Unprovoked,F,,Stand-Up Paddleboarding,"Kihei, Maui",USA,Hawaii,N
+2014,20-Oct-2014,08h00,Unprovoked,M,,Stand-Up Paddleboarding,"Kahului, Maui",USA,Hawaii,N
+2014,19-Oct-2014,,Watercraft,F,,Canoeing,"Leadbetter Beach, Santa Barbara County",USA,California,N
+2014,14-Oct-2014,,Unprovoked,F,7,Standing in inner tube,"Hilton Head Island, Beaufort County",USA,South Carolina,N
+2014,12-Oct-2014,15h30,Unprovoked,F,,Body surfing or Boogie boarding,"Melbourne Beach, Brevard County",USA,Florida,N
+2014,05-Oct-2014,11h30,Unprovoked,M,29,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2014,07-Oct-2014,Afternoon,Unprovoked,F,40,Fishing,"Cherie Down Park, Brevard County",USA,Florida,N
+2014,05-Oct-2014,11h00,Unprovoked,M,15,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2014,03-Oct-2014,14h00,Watercraft,M,,Kayaking,Santa Barbara County,USA,California,N
+2014,03-Oct-2014,11h30,Watercraft,M,,Kayaking ,Santa Barbara County,USA,California,N
+2014,02-Oct-2014,17h30,Unprovoked,M,28,Surfing,"Walls Beach, Vandenberg AFB, Santa Barbara County",USA,California,N
+2014,21-Sep-2014,11h30,Unprovoked,M,,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2014,13-Sep-2014,18h45,Invalid,M,,Surfing,"Manresa State Beach, Santa Cruz County",USA,California,
+2014,06-Sep-2014,13h00,Unprovoked,M,43,Fishing ,"Katrina Cut, Dauphin Island, Mobile County",USA,Alabama,N
+2014,03-Sep-2014,18h00,Watercraft,F,20s,Kayaking ,"Manomet Point, Plymouth, Plymouth County",USA,Massachusetts,N
+2014,02-Sep-2014,20h00,Provoked,M,52,Fishing,"Fletcher Beach, Hutchinson Island, Martin County",USA,Florida,N
+2014,31-Aug-2014,16h40,Unprovoked,F,13,Body surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2014,29-Aug-2014,,Unprovoked,M,17,Surfing,"Ponce Inlet, Volusia County",USA,Florida,N
+2014,29-Aug-2014,16h18,Invalid,,,,"Atlantic Beach, Duval County",USA,Florida,
+2014,28-Aug-2014,,Provoked,M,33,Fishing,Assateague National Seashore,USA,Maryland,N
+2014,27-Aug-2014,,Unprovoked,M,29,Surfing,"Figure Eight Island,  New Hanover County",USA,North Carolina,N
+2014,27-Aug-2014,15h00,Unprovoked,F,,Standing,"Surfside Beach, Horry  County",USA,South Carolina,N
+2014,Reported 25-Aug-2014,,Provoked,M,,Fishing for sharks,Apalachicola Bay ,USA,Florida,N
+2014,24-Aug-2014,,Unprovoked,,,Kite boarding,"Off Masonboro Island, New Hanover County",USA,North Carolina,N
+2014,12-Aug-2014,11h10,Unprovoked,M,,Standing,"3 to 4 miles west of Indian Pass, Gulf County",USA,Florida,N
+2014,10-Aug-2014,,Unprovoked,M,26,,"Hallandale Beach, Broward County",USA,Florida,N
+2014,09-Aug-2014,13h30,Unprovoked,F,10,Swimming,"Lori Wilson Park, Cocoa Beach, Brevard  County",USA,Florida,N
+2014,08-Aug-2014,Afternoon,Unprovoked,M,7,Swimming,"Lake Ponchartain off Southshore Harbor, New Orleans",USA,Louisiana,N
+2014,06-Aug-2014,14h00,Unprovoked,M,10,Boogie boarding,"Folly Beach, Charleston County",USA,South Carolina,N
+2014,05-Aug-2014,,Unprovoked,F,45,Swimming,"Cocoa Beach, Brevard  County",USA,Florida,N
+2014,02-Aug-2014,,Unprovoked,M,50s,Surfing,"South of Cocoa Beach, Brevard County",USA,Florida,N
+2014,02-Aug-2014,13h00,Unprovoked,M,8,Boogie boarding,"Table Beach, Brevard County",USA,Florida,N
+2014,27-Jul-2014,,Unprovoked,M,Teen,Swimming,"Sunset Beach, Brunswick County",USA,North Carolina,N
+2014,21-Jul-2014,Early afternoon,Unprovoked,M,8,Standing,"Indialantic, Brevard County",USA,Florida,N
+2014,16-Jul-2014,17h50,Unprovoked,M,61,Swimming,"Paia Bay, Maui",USA,Hawaii,N
+2014,14-Jul-2014,14h30,Unprovoked,M,39,Swimming,Okaloosa Island,USA,Florida,N
+2014,12-Jul-2014,,Unprovoked,M,,Body surfing,"Masonboro Island, New Hanover County",USA,North Carolina,N
+2014,9-Jul-2014,14h00,Unprovoked,M,14,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2014,5-Jul-2014,09h30,Provoked,M,,Swimming,"Manhattan Beach, Los Angeles County",USA,California,N
+2014,5-Jul-2014,07h00 - 08h00,Unprovoked,M,,Surfing,"Oceano Dunes State Beach, San Luis Obispo County",USA,California,N
+2014,3-Jul-2014,18h15-18h30,Unprovoked,M,19,Body surfing,"Isle of Palms, Charleston County",USA,South Carolina,N
+2014,09-Jun-2014,17h00,Unprovoked,M,16,Standing,"Cape Henlopen State Park, Sussex County",USA,Delaware,N
+2014,07-Jun-2014,Afternoon,Unprovoked,F,14,Kneeling in the water,"West Beach, Galveston",USA,Texas,N
+2014,01-Jun-2014,13h30,Unprovoked,F,22,Swimming,Fort Lauderdale,USA,Florida,N
+2014,01-Jun-2014,,Unprovoked,F,37,Tagging sharks,,USA,Palmyra Atoll,N
+2014,15-May-2014,11h30,Unprovoked,F,38,Body boarding,"Juan Ponce de León Landing, Melbourne Beach, Brevard County",USA,Florida,N
+2014,13-May2014,11h00,Unprovoked,F,44,Wading,"Jacksonville Beach, Duval County",USA,Florida,N
+2014,11-May-2014,,Unprovoked,M,12,Surfing,"Tybee Island, Chatham County",USA,Georgia,N
+2014,Reported 10-May-2014,,Invalid,M,,Diving,"Bethel Shoals, Indian River County",USA,Florida,
+2014,06-May-2014,15h00,Unprovoked,F,40,Swimming,"Coligny Beach, Hilton Head, Beaufort County",USA,South Carolina,N
+2014,01-May-2014,15h00,Unprovoked,M,23,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2014,22-Apr-2014,15h30,Unprovoked,M ,42,Swimming,"Cocoa Beach, Brevard  County",USA,Florida,N
+2014,15-Apr-2014,09h57,Unprovoked,M,25,Wading,"New Smyrna Beach, Volusia County",USA,Florida,N
+2014,04-Apr-2014,13h50,Unprovoked,M,13,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2014,04-Apr-2014,13h30,Unprovoked,M,14,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2014,22-Mar-2014,,Unprovoked,M,,Kite Surfing,Delray Beach,USA,Florida,N
+2014,21-Mar-2014,,Unprovoked,M,9,Surfing,Macarthur State Park,USA,Florida,N
+2014,02-Mar-2014,,Unprovoked,M,21,Surfing,"Santa Lucea Beach, South Hutchinson Island, St. Lucie County",USA,Florida,N
+2014,2014,,Unprovoked,M,,Free diving / Photographing pilot whales,,USA,Hawaii,N
+2013,11-Dec-2013,08h00,Unprovoked,M,29,Boogie boarding,"Ninole Bay, Hawaii County",USA,Hawaii,N
+2013,10-Dec-2013,14h30,Unprovoked,M,30,Surfing,"Cocoa Beach, Brevard  County",USA,Florida,N
+2013,02-Dec-2013,09h00,Unprovoked,M,57,Kayaking / Fishing,"Between  Makena & Molokini, Maui",USA,Hawaii,Y
+2013,29-Nov2013,13h00,Unprovoked,F,58,Snorkeling,"Keawekapu Beach, Kihei, Maui",USA,Hawaii,N
+2013,22-Nov-2013,10h30,Unprovoked,M,25,Surfing,"Gleneden Beach, Lincoln County",USA,Oregon,N
+2013,07-Nov-2013,Afternoon,Unprovoked,M,16,Body boarding,"Bay Head, Ocean County",USA,New Jersey,N
+2013,07-Nov-2013,,Unprovoked,M,,Surfing,"Floridana Beach, Brevard County",USA,Florida,N
+2013,31-Oct-2013,15h19,Unprovoked,M,46,Kiteboarding,"Kanaha Beach, Maui",USA,Hawaii,N
+2013,23-Oct-2013,15h55,Unprovoked,M,45,Diving ,"Waiehu, Maui",USA,Hawaii,N
+2013,20-Oct-2013,11h00,Unprovoked,M,25,Surfing,"Pila'a Beach, Kaua'i",USA,Hawaii,N
+2013,19-Oct-2013,Late afternoon,Unprovoked,M,6,Wading,Miami Beach,USA,Florida,N
+2013,06-Oct-2013,08h45,Unprovoked,M,45,Surfing,"Bunkers, Humboldt Bay, Eureka, Humboldt County",USA,California,N
+2013,10-Oct-2013,15h30,Unprovoked,M,12,Wading,"Destin, Okaloosa County",USA,Florida,N
+2013,29-Sep-2013,10h00,Unprovoked,M,50,Surfing,"Melbourne Beach, Brevard County",USA,Florida,N
+2013, 25-Sep-2013,10h30,Unprovoked,M,7,Standing,"Panama City, Bay County",USA,Florida,N
+2013, 21-Sep-2013,13h00,Unprovoked,M,45,Swimming,"Ormond Beach, Volusia County",USA,Florida,N
+2013, 21-Sep-2013,Morning,Unprovoked,M,,Surfing,"Carlin Park, Jupiter, Palm Beach County",USA,Florida,N
+2013, 14-Sep-2013,15h30,Unprovoked,M,21,Swimming,"Casino Beach, Pensacola, Escambia County",USA,Florida,N
+2013, 12-Sep-2013,13h00,Unprovoked,F,13,Surfing,"New Smyrna Beach,  Volusia County",USA,Florida,N
+2013,08-Sep-2013,,Unprovoked,F,,,"St. Helena Island, Beaufort County",USA,South Carolina,UNKNOWN
+2013, 07-Sep-2013,16h00,Provoked,M,43,Surfing,"New Smyrna Beach,  Volusia County",USA,Florida,N
+2013, 07-Sep-2013,16h00,Unprovoked,M,25,Standing,"New Smyrna Beach,  Volusia County",USA,Florida,N
+2013, 02-Sep-2013,13h00,Unprovoked,M,17,Swimming,"Ormond Beach, Volusia County",USA,Florida,N
+2013, 01-Sep-2013,,Provoked,M,3,,Key West Aquarium,USA,Florida,N
+2013, 01-Sep-2013,12h00,Unprovoked,M,9,Casting a net,"St Augustine Beach, St Johns County",USA,Florida,N
+2013,31-Aug-2013,23h00,Unprovoked,M,,Swimming,"Butterfly Beach, Montecito, Santa Barbara County",USA,California,N
+2013,29-Aug-2013,,Invalid,F,47,Marathon swimming,Catalina Channel,USA,California,
+2013, 25-Aug-2013,17h00,Unprovoked,F,11,Boogie boarding,"Winterhaven Park,           Ponce Inlet, Volusia County",USA,Florida,N
+2013, 18-Aug-2013,13h00,Unprovoked,M,16,Surfing,Pohoiki ,USA,Hawaii,N
+2013,17-Aug-2013,12h40,Unprovoked,F,,Surfing,"Pillar Point, Half-Moon Bay, San Mateo County",USA,California,N
+2013, 14-Aug-2013,16h30,Unprovoked,F,20,Snorkeling,"Makenat, Maui",USA,Hawaii,Y
+2013, 13-Aug-2013,13h55,Unprovoked,F,19,Kiteboarding,"Ka'a Point, Maui",USA,Hawaii,N
+2013,11-Aug-2013,17h30,Unprovoked,M,10,Surfing,Folly Beach,USA,South Carolina,N
+2013, 05-Aug-2013,15h00,Unprovoked,M,17,Fishing,"Sanibel Island, Lee County",USA,Florida,N
+2013,  31-Jul-2013,08h45,Unprovoked,F,56,Snorkeling,"Ulua Beach, Maui",USA,Hawaii,N
+2013,  30-Jul-2013,,Unprovoked,M,32,Swimming,"Isle of Palms, Charleston County",USA,South Carolina,N
+2013,  29-Jul-2013,14h10,Unprovoked,M,18,Surfing,"White Plains Beach, Oahu",USA,Hawaii,N
+2013,19-Jul-2013,14h30,Unprovoked,F,50,Walking in surf,"Gulf Shores, Baldwin County",USA,Alabama,N
+2013,Reported 17-Jul-2013,,Unprovoked,M,teen,Swimming ,"Butler Beach, St Augustine,       St. Johns County",USA,Florida,N
+2013,11-Jul-2013,15h20,Unprovoked,F,63,Wading,Holden Beach. Brunswick County,USA,North Carolina,N
+2013,25-Jun-2013,15h30,Watercraft,M,,Kayaking / Fishing,"Pacific State , San Mateo County",USA,California,N
+2013,25-Jun-2013,,Unprovoked,M,,Swimming,"Jacksonville, Duval County",USA,Florida,N
+2013,25-Jun-2013,12h45,Unprovoked,M,14,Swimming,"Kiawah Island, Charleston County",USA,South Carolina,N
+2013,18-Jun-2013,12h50,Unprovoked,M,28,Swimming,Kona Coast State Park,USA,Hawaii,N
+2013,17-Jun-2013,14h45,Unprovoked,M,15,Swimming,"Surfside Beach, Brazoria County",USA,Texas,N
+2013,15-Jun-2013,,Unprovoked,F,,Surfing,"Atlantic Beach, Duval County",USA,Florida,N
+2013,Reported 14-Jun-2013,Afternoon,Unprovoked,F,10,Boogie Boarding,"Myrtle Beach, Horry County",USA,South Carolina,N
+2013,06-Jun-2013,,Provoked,M,58,Fishing for sharks,"Off Snipe Point, Florida Keys, Monroe County",USA,Florida,N
+2013,27-May-2013,,Unprovoked,M,32,Diving,"Halewia, Oahu",USA,Hawaii,N
+2013,27-May-2013,Afternoon,Unprovoked,M,11,Swimming,"Ormond Beach, Volusia County",USA,Florida,N
+2013,08-May-2013,,Invalid,M,42,Surfing,"Tourmaline Surf Park, San Diego County",USA,California,
+2013,04-May-2013,11h15,Unprovoked,M,16,Surfing,"Melbourne Beach, Brevard County",USA,Florida,N
+2013,17-Apr-2013,10h30,Unprovoked,M,9,Playing in the surf,"Near Boynton Beach, Palm Beach County",USA,Florida,N
+2013,13-Apr-2013,13h30,Unprovoked,M,21,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2013,04-Apr-2013,,Unprovoked,M,50,Swimming,"Jensen Beach, Martin County ",USA,Florida,N
+2013,02-Apr-2013,08h30,Unprovoked,M,58,Surfing,Ka’anapali Shores,USA,Hawaii,N
+2013,21-Feb-2013,18h00,Unprovoked,,,Surfing,"Ka'anapali, Honokowai, Maui",USA,Hawaii,N
+2013,21-Feb-2013,18h00,Unprovoked,M,,Surfing,"Paia Bay, Maui",USA,Hawaii,N
+2013,10-Feb-2013,14h00,Unprovoked,M,16,Surfing,"""Stuart Rocks"", Martin County",USA,Florida,N
+2013,16-Jan-2013,16h30,Unprovoked,M,43,Surfing,Kiholo Bay,USA,Hawaii,N
+2012,31-Dec-2012,14h00,Unprovoked,M,,Swimming,"Jensen Beach, Martin County ",USA,Florida,N
+2012,05-Dec-2012,13h20,Unprovoked,M,60,Surfing,Kauai,USA,Hawaii,N
+2012,30-Nov-2012,09h40,Unprovoked,M,61,Snorkeling,"Kihei, Maui",USA,Hawaii,N
+2012,19-Nov-2012,17h30,Unprovoked,M,14,Surfing,"Melbourne Beach, Brevard County",USA,Florida,N
+2012,04-Nov-2012,08h30,Unprovoked,M,30,Diving,"Makena Landing, Maui",USA,Hawaii,N
+2012,04-Nov-2012,08h10,Unprovoked,M,43,Surfing,"Davidson's Surf Break, Kekaha, Kaua'i",USA,Hawaii,N
+2012,30-Oct-2012,12h00,Unprovoked,M,25,Surfing,"Humboldt Bay, Eureka, Humboldt County",USA,California,N
+2012,27-Oct-2012,15h56,Unprovoked,F,51,Swimming,"Makena Landing, Maui",USA,Hawaii,N
+2012,23-Oct-2012,11h00,Unprovoked,M,39,Surfing,"Surf Beach, Lompoc, Santa Barbara County",USA,California,Y
+2012,19-Oct-2012,,Unprovoked,F,35,,"Seaport, Brevard County",USA,Florida,N
+2012,18-Oct-2012,10h30,Unprovoked,M,24,Surfing,"Ponce Inlet, Volusia County",USA,Florida,N
+2012,18-Oct-2012,07h30,Unprovoked,M,55,Paddle boarding,"Kanaha Beach, Maui",USA,Hawaii,N
+2012,16-Oct-2012,17h00,Invalid,M,,,Hobe Sound,USA,Florida,
+2012,10-Oct-2012,18h30,Unprovoked,M,42,Windsurfing,"Davenport Landing, Santa Cruz County",USA,California,N
+2012,25-Sep-2012,16h30,Unprovoked,M,21,Surfing,"Melbourne Beach, Brevard County",USA,Florida,N
+2012,24-Sep-2012,Afternoon,Unprovoked,M,22,Surfing,"Spanish House Beach, Brevard County",USA,Florida,N
+2012,16-Sep-2012,15h00,Unprovoked,M,52,Surfing," Cocoa Beach, Brevard  County",USA,Florida,N
+2012,09-Sep-2012,14h20,Unprovoked,,19,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2012,08-Sep-2012,12h00,Unprovoked,M,25,Surfing,"Lori Wilson Park, Cocoa Beach, Brevard  County",USA,Florida,N
+2012,08-Sep-2012,Afternoon,Unprovoked,M,,Swimming,"South Beach, Miami-Dade County",USA,Florida,N
+2012,06-Sep-2012,Just before noon,Unprovoked,M,30s,Surfing,"Neptune Beach, Duval County",USA,Florida,N
+2012,06-Sep-2012,11h30,Unprovoked,M,37,Surfing,"St. Augustine Beach, St. John's County",USA,Florida,N
+2012,04-Sep-2012,07h56,Unprovoked,M,32,Surfing,"Melbourne Beach, Brevard County",USA,Florida,N
+2012,02-Sep-2012,18h30,Unprovoked,F,8,Boogie boarding,"New Smyrna Beach, Volusia County",USA,Florida,N
+2012,02-Sep-2012,12h00,Provoked,,,Spearfishing,"Spreckelsville, Maui",USA,Hawaii,N
+2012,02-Sep-2012,16h30,Unprovoked,F,56,Swimming or boogie boarding,"New Smyrna Beach, Volusia County",USA,Florida,N
+2012,15-Aug-2012,,Unprovoked,M,31,Wading or swimming,"Gulf Shores, Baldwin County",USA,Alabama,N
+2012,08-Aug-2012,1600,Unprovoked,M,56,Free diving ,Key Largo,USA,Florida,N
+2012,31-Jul-2012,06h45,Unprovoked,M,17,Surfing,"Topanga Beach, Los Angeles County",USA,California,N
+2012,30-Jul-2012,16h35,Unprovoked,M,44,Surfing,"Maha‘ulepu Beach, Kauai",USA,Hawaii,N
+2012,30-Jul-2012,15h30,Unprovoked,M,50,Body surfing,"Ballston Beach, Truro, Cape Cod",USA,Massachusetts,N
+2012,24-Jul-2012,11h45,Invalid,M,12,,"Ocean Isle, Brunswick County",USA,North Carolina,
+2012,08-Jul-2012,17h30,Unprovoked,F,43,Swimming,"North Topsail Beach, Onslow County",USA,North Carolina,N
+2012,07-Jul-2012,08h30,Watercraft,M,52,Kayaking,"Pleasure Point, Santa Cruz County",USA,California,N
+2012,26-Jun-2012,19h00,Unprovoked,M,6,Swimming,"Juno Beach, Palm Beach County",USA,Florida,N
+2012,26-Jun-2012,15h00,Unprovoked,M,26,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2012,26-Jun-2012,09h45,Unprovoked,F,16,Sitting in the water,"Kahana Beach, Maui",USA,Hawaii,N
+2012,22-Jun-2012,16h30,Unprovoked,M,12,Swimming,"Bathtub Reef  Beach, Stuart, Martin County",USA,Florida,N
+2012,19-Jun-2012,,Invalid,M,16,Standing,"Myrtle Beach, Horry County",USA,South Carolina,
+2012,18-Jun-2012,11h00,Unprovoked,F,6,Wading,"Ocean Isle, Brunswick County",USA,North Carolina,N
+2012,15-Jun-2012,14h20,Provoked,M,23,Fishing,"Summerland Key, Monroe County",USA,Florida,N
+2012,14-Jun-2012,Afternoon,Unprovoked,F,18,Swimming,"Myrtle Beach, Horry County",USA,South Carolina,N
+2012,14-Jun-2012,Afternoon,Unprovoked,M,,Swimming,"Myrtle Beach, Horry County",USA,South Carolina,N
+2012,14-Jun-2012,Afternoon,Unprovoked,M,,Swimming,"Myrtle Beach, Horry County",USA,South Carolina,N
+2012,14-Jun-2012,13h20,Unprovoked,M,16,Swimming,"Myrtle Beach, Horry County",USA,South Carolina,N
+2012,02-Jun-2012,,Unprovoked,F,12,Surfing,"Bethune Beach, Volusia County",USA,Florida,N
+2012,02-Jun-2012,19h45,Unprovoked,M,25,Boogie Boarding,"Myrtle Beach, Horry County",USA,South Carolina,N
+2012,31-May-2012,13h30,Unprovoked,F,33,Wading,"Avon, Hatteras Island, Outer Banks, Dare County",USA,North Carolina,N
+2012,23-May-2012,15h00,Unprovoked,M,22,Surfing,"Jacksonville, Duval County",USA,Florida,N
+2012,20-May-2012,Morning,Watercraft,M,,Kayak Fishing,"Iroquiois Point, Oahu",USA,Hawaii,N
+2012,12-May-2012,14h30,Watercraft,M,30,Kayaking / Fishing,"Leffingwell Landing, Cambria,  San Luis Obispo County",USA,California,N
+2012,09-May-2012,11h30,Unprovoked,F,47,Swimming,"Vero Beach, Indian River County",USA,Florida,N
+2012,06-May-2012,07h20,Unprovoked,F,15,Paddle boarding,Off Catalina Island,USA,California,N
+2012,19-Apr-2012,19h28,Unprovoked,M,28,Surfing,"Indialantic, Brevard County",USA,Florida,N
+2012,03-Apr-2012,12h38,Unprovoked,M,28,Surfing,"Leftovers near Chun's Reef, Oahu",USA,Hawaii,N
+2012,Apr-2013,,Unprovoked,M,,,"Sanibel Island, Lee County",USA,Florida,N
+2012,24-Mar-2012,14h00,Unprovoked,M,21,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2012,15-Mar-2012,15h50,Unprovoked,M,61,Surfing,"Jensen Beach, Martin County ",USA,Florida,N
+2012,14-Mar-2012,16h00,Unprovoked,F,15,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2012,14-Mar-2012,16h05,Unprovoked,M,17,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2012,04-Mar-2012,13h00,Unprovoked,M,19,Kite Surfing,"Playalinda Beach, Brevard County",USA,Florida,N
+2012,26-Feb-2012,14h00,Provoked,M,,Kite Surfing,"Palm Beach Inlet, Palm Beach County",USA,Florida,N
+2012,27-Jan-2012,11h05,Unprovoked,,,Snorkeling,Lanai,USA,Hawaii,N
+2012,13-Jan-2012,,Unprovoked,M,53,Surfing,"Lincoln City, Lincoln County",USA,Oregon,N
+2011,31-Dec-2011,18h00,Unprovoked,M,,,"Jupiter, Palm Beach County",USA,Florida,N
+2011,23-Dec-2011,12h30,Unprovoked,M,27,Surfing,New Smyrna Beach,USA,Florida,N
+2011,21-Dec-2011,,Provoked,M,,Canoeing,"Makahuena Point, Kauai",USA,Hawaii,N
+2011,06-Dec-2011,09h00,Unprovoked,F,,Surfing,Seaside Cove,USA,Oregon,N
+2011,22-Nov-2011,,Watercraft,M,,Kayaking,Pigeon Point,USA,California,N
+2011,  29-Oct-2011,,Unprovoked,M,27,Surfing,"Marina State Beach, Monterey County",USA,California,N
+2011,20-Oct-2011,,Unprovoked,M,41,Surfing,"Newport, Lincoln County",USA,Oregon,N
+2011,11-Oct-2011,,Unprovoked,M,,Surfing,Cape Canaveral,USA,Florida,N
+2011,10-Oct-2011,,Unprovoked,M,,Surfing,Seaside,USA,Oregon,N
+2011,02-Oct-2011,Afternoon,Unprovoked,M,,Wade fishing,"Santa Maria Island, Manatee County",USA,Florida,N
+2011,01-Oct-2011,,Unprovoked,M,29,,"Gulf Shores, Baldwin County",USA,Alabama,N
+2011,30-Sep-2011,09h50,Invalid,M,27,Surfing,Hatillo Beach,USA,Puerto Rico,
+2011,24-Sep-2011,15h00,Unprovoked,M,21,Spearfishing,"Santa Maria Island, Manatee County",USA,Florida,N
+2011,24-Sep-2011,10h00,Unprovoked,M,5,Jumping in the waves,"North Myrtle Beach, Horry County",USA,South Carolina,N
+2011,20-Sep-2011,15h00,Watercraft,M,,Canoeing,Kauai,USA,Hawaii,N
+2011,16-Sep-2011,11h00,Unprovoked,M,25,Surfing,New Smyrna Beach,USA,Florida,N
+2011,11-Sep-2011,12h20,Unprovoked,M,37,Surfing,"Samoa Beach, Humboldt County",USA,California,N
+2011,04-Sep-2011,13h00,Unprovoked,,,Surfing,"Nimitz State Beach, Oahu",USA,Hawaii,N
+2011,02-Sep-2011,11h00,Unprovoked,M,19,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2011,31-Aug-2011,11h00,Unprovoked,M,19,Surfing,Crescent Beach St. Johns County,USA,Florida,N
+2011,28-Aug-2011,19h00,Unprovoked,F,39,Wade Fishing,"Grass Island, Aransas County",USA,Texas,N
+2011,24-Aug-2011 ,,Unprovoked,M,21,Surfing,"Buxton Beach, Dare County",USA,North Carolina,N
+2011,24-Aug-2011 ,15h30,Unprovoked,M,10,,Holden Beach. Brunswick County,USA,North Carolina,N
+2011,17-Aug-2011,17h00,Unprovoked,F,20s,Wading,"Kure Beach, New Hanover County",USA,North Carolina,N
+2011,17-Aug-2011,16h00,Invalid,M,12,,"Wrightsville Beach, New Hanover County",USA,North Carolina,
+2011,16-Aug--2011,Night,Unprovoked,M,27,Floating , Vieques,USA,Puerto Rico,N
+2011,15-Aug-2011,,Invalid,M,7,Playing in the surf,"Myrtle Beach, Horry County",USA,South Carolina,N
+2011,11-Aug--2011,14h00,Unprovoked,M,54,Swimming,Beaufort Inlet,USA,North Carolina,N
+2011,25-Jul-2011,Night,Unprovoked,M,,Wade Fishing,"Egg Harbor, Atlantic County",USA,New Jersey,N
+2011,19-Jul-2011,17h30,Unprovoked,F,6,Boogie Boarding,"Ocracoke Island, Hyde County",USA,North Carolina,N
+2011,13-Jul-2011,20h30,Unprovoked,M,,Surf fishing,"South Padre Island, Cameron County",USA,Texas,N
+2011,07-Jul-2011,17h00,Unprovoked,M,12,Swimming,"Sunday Beach, Matagorda Island, Calhoun  County",USA,Texas,N
+2011,07-Jul-2011,,Unprovoked,M,14,Wade Fishing,"Mustang Island, Nueces County",USA,Texas,N
+2011,26-Jun-2008,Afternoon,Unprovoked,F,10,Playing in the surf,"North Topsail Beach, Onslow County",USA,North Carolina,N
+2011,24-Jun-2011,13h30,Unprovoked,M,,Surfing,"San Onofre State Beach, San Diego County",USA,California,N
+2011,21-Jun-2011,Afternoon,Unprovoked,M,20,Jet skiing,"Perdido Key, Escambia County",USA,Florida,N
+2011,12-Jun-2011,14h30,Unprovoked,M,28,Scuba diving,"Off Jupiter Inlet, Palm Beach County",USA,Florida,N
+2011,06-Jun-2011,,Unprovoked,M,28,Spearfishing,"La Jolla, San Diego County",USA,California,N
+2011,06-Jun-2011,12h00,Unprovoked,M,19,Wading,"New Smyrna Beach, Volusia County",USA,Florida,N
+2011,30-May-2011,15h00,Unprovoked,F,22,Standing or boogie boardin,"Follett's Island, Brazoria County",USA,Texas,N
+2011,25-May-2011,13h15,Unprovoked,F,,Surfing,"Lyman Beach, Kailua-Kona",USA,Hawaii,N
+2011,22-May-2011,12h00,Unprovoked,F,,Paddle boarding,"Lyman Beach, Kailua-Kona",USA,Hawaii,N
+2011,13-May-2011,15h30,Unprovoked,M,86,Body surfing,"Ponte Vedra Beach, St Johns County",USA,Florida,N
+2011,13-May-2011,06h30,Unprovoked,M,37,Surfing,"Ormond Beach, Volusia County",USA,Florida,N
+2011,10-May-2011,,Provoked,M,,Fishing ,Miami,USA,Florida,N
+2011,26-Apr-2011,,Unprovoked,M,32,Spearfishing,"Riviera Beach, Palm Beach County",USA,Florida,N
+2011,22-Apr-2011,15h30,Unprovoked,M,49,Surfing ,"New Smyrna Beach, Volusia County",USA,Florida,N
+2011,Reported 29-Mar-2011,,Provoked,M,,"Standing, holding shark pup",Matagorda Beach,USA,Texas,N
+2010,26-Dec-2010,15h35,Unprovoked,M,16,Body boarding," Kahului, Maui",USA,Hawaii,N
+2010,11-Dec-2010,13h51,Unprovoked,M,46,Surfing,"Tavares Bay, Maui",USA,Hawaii,N
+2010,19-Nov-2010,13h30,Provoked,M,33,Snorkeling,,USA,Palmyra Atoll,N
+2010,28-Oct-2010,15h20,Unprovoked,M,,Surfing,Florence,USA,Oregon,N
+2010,23-Oct-2010,Afternoon,Unprovoked,M,30,Scuba diving,"Burnt Cove near Eastport, Washington County",USA,Maine,N
+2010,22-Oct-2010,08h50,Unprovoked,M,19,Body boarding,"Surf Beach, Vandenberg AFB, Santa Barbara County",USA,California,Y
+2010,27-Sep-2010,16h00,Unprovoked,M,29,Surfing,Winchester Bay,USA,Oregon,N
+2010,24-Sep-2010,16h30,Unprovoked,M,18,Surfing,Sandridge Beach,USA,Virginia,N
+2010,07-Sep-2010,,Unprovoked,M,27,Swimming,"St. Augustine, St. John's County",USA,Florida,N
+2010, 04-Sep-2010,,Unprovoked,M,,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2010,03-Sep-2010,12h00,Unprovoked,M,24,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2010,03-Sep-2010,09h00,Unprovoked,M,24,Surfing,"New Smyrna Beach, Volusia County",USA,Florida,N
+2010,18-Aug-2010,09h00,Unprovoked,M,10,Boogie Boarding,Crescent Beach St. Johns County,USA,Florida,N
+2010,14-Aug-2010,,Watercraft,M,45,Kayak Fishing,"Pigeon Point, San Mateo County",USA,California,N
+2010,07-Aug-2010,15h00,Unprovoked,M,25,Surfing,"Figure Eight Island, Wilmington, New Hanover County",USA,North Carolina,N
+2010,05-Aug-2010,19h15,Invalid,F,,Swimming,"Bethune Beach, Volusia County",USA,Florida,
+2010,02-Aug-2010,12h40,Watercraft,M,,Kayaking,"Near oil rig Hondo, 5 nm from Gaviota, Santa Barbara County",USA,California,N
+2010,02-Aug-2010,11h00,Unprovoked,F,37,Standing,"Micklers Landing, St. Johns County",USA,Florida,N
+2010,25-Jul-2010,,Unprovoked,M,16,Standing,"Isle of Palms, Charleston County",USA,South Carolina,N
+2010,23-Jul-2010,16h30,Unprovoked,M,20,Surfing,"Jacksonville Beach, Duval County",USA,Florida,N
+2010,19-Jul-2010,10h35,Unprovoked,M,10,Swimming,Myrtle Beach,USA,South Carolina,N
+2010,17-Jul-2010,13h30,Unprovoked,F,13,Swimming,"Wrightsville Beach, New Hanover County",USA,North Carolina,N
+2010,17-Jul-2010,,Unprovoked,M,55,Surfing,New Smyrna Beach,USA,Florida,N
+2010,16-Jul-2010,,Unprovoked,M,,Fishing,Galveston,USA,Texas,N
+2010,11-Jul-2010,,Provoked,M,,Fishing,"Lauderdale-by-the-Sea, Broward County",USA,Florida,N
+2010,03-Jul-2010,12h30,Provoked,M,20,Fishing,Off Long Island,USA,New York,N
+2010,02-Jul-2010,Evening,Unprovoked,M,19,Surfing,"Pismo Beach, San Luis  Obispo County",USA,California,N
+2010,02-Jul-2010,15h15,Unprovoked,M,48,Stand-Up Paddleboarding,"Dog Patch, San Onofre",USA,California,N
+2010,27-Jun-2010,,Unprovoked,M,20,Surfing,"Eight Mile Beach, Galveston",USA,Texas,N
+2010,25-Jun-2010,,Unprovoked,F,6,Boogie Boarding,Fripp Island,USA,South Carolina,N
+2010,25-Jun-2010,13h00,Unprovoked,F,13,Swimming,"Topsail Island, Pender County",USA,North Carolina,N
+2010,10-Jun-2010,12h30,Unprovoked,F,18,Boogie Boarding,Jacksonville,USA,Florida,N
+2010,Jun-2010,,Unprovoked,M,20,Surfing,"Ponte Vedra Beach, St Johns County",USA,Florida,N
+2010,30-May-2010,08h45,Provoked,M,49,Fishing,Off Tarpon Springs,USA,Florida,N
+2010,01-May-2010,10h30,Unprovoked,F,10,Wading,New Smyrna Beach,USA,Florida,N
+2010,28-Apr-2010,Afternoon,Provoked,M,29,Measuring sharks,Hanalei Bay,USA,Florida,N
+2010,19-Apr-2010,16h00,Unprovoked,M,68,Surfing,"Hanalei Bay, Kauai",USA,Hawaii,N
+2010,06-Feb-2010,15h00,Provoked,M,,Surf fishing / wading,Riviera Beach,USA,Florida,N
+2010,03-Feb-2010,15h44,Unprovoked,M,38,Kite Boarding,"Stuart, Martin County",USA,Florida,Y
+2010,06-Jan-2010,10h15,Unprovoked,M,32,Spearfishing,Elliot Key,USA,Florida,N
