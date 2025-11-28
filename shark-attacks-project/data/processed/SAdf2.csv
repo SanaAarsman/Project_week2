@@ -1,0 +1,769 @@
+Year,Date,Time,Type,Sex,Age,Activity,Location,Country,State,Fatal Y/N,Time_Range,Activity_clean,Activity_grouped
+2024,October,,Unprovoked,M,27,Surfing,Martin County,USA,Florida,N,Unknown,surfing,Surfing
+2024,October,,Unprovoked,M,16,Surfing,Brevard County,USA,Florida,N,Unknown,surfing,Surfing
+2024,July,11:15:00,Unprovoked,M,14,Diving into Water,Ponce de Leon Inlet Volusia County,USA,Florida,N,Morning,diving into water,Diving
+2024,July,16:15:00,Unprovoked,M,26,Wading,Volusia County,USA,Florida,N,Afternoon,wading,Wading/Standing
+2024,July,,Unprovoked,Y,45,Swimming,Cameron County,USA,Texas,N,Unknown,swimming,Swimming
+2024,July,11:00:00,Unprovoked,M,21,Playing football in the water,Volusia County,USA,Florida,N,Morning,playing football in the water,Other
+2024,July,11:00:00,Unprovoked,M,,Swimming,Volusia County,USA,Florida,N,Morning,swimming,Swimming
+2024,June,,Unprovoked,M,49,Surfing,Goat Island (Moku'auia) La'ie Bay,USA,Hawaii,Y,Unknown,surfing,Surfing
+2024,June,14:00:00,Unprovoked,Y,25,Unconfirmed Possibly swimming near the boat harbour,Oahu County,USA,Hawaii,N,Afternoon,unconfirmed possibly swimming near the boat harbour,Swimming
+2024,June,15:00:00,Unprovoked,Y,15,Wading,Rosemary Beach Walton County,USA,Florida,N,Afternoon,wading,Wading/Standing
+2024,June,13:15:00,Unprovoked,Y,45,Swimming,Water Sound  Beach Walton County,USA,Florida,N,Afternoon,swimming,Swimming
+2024,June,09:00:00,Unprovoked,M,46,Swimming ocean training ,Del Mar Beach San Diego,USA,California,N,Morning,swimming ocean training,Swimming
+2024,May,14:00:00,Unprovoked,Y,19,Wading,Jamaica Beach,USA,Galveston,N,Afternoon,wading,Wading/Standing
+2024,May,13:30:00,Unprovoked,M,65,Spearfishing,Y-73' Ledge reef Chareston Coast,USA,South Carolina,N,Afternoon,spearfishing,Fishing
+2023,June,,Unprovoked,Y,2,Swimming,Brevard County,USA,Florida,N,Unknown,swimming,Swimming
+2023,June,10:10:00,Unprovoked,M,,Fishing,Dade County,USA,Florida,N,Morning,fishing,Fishing
+2023,June,,Unprovoked,M,,Filming,Laysan,USA,Hawaii,N,Unknown,filming,Photography
+2023,May,,Provoked,Y,26,Shark Feeding,Sea Quest Aquarium Layton Davis County,USA,Utah,N,Unknown,shark feeding,Animal Interaction
+2023,May,15:00:00,Unprovoked,Y,15,Surfing,Cape May County,USA,New Jersey,N,Afternoon,surfing,Surfing
+2023,May,20:00:00,Provoked,M,35,Fishing,Monroe County,USA,Florida,N,Evening,fishing,Fishing
+2023,May,15:00:00,Unprovoked,M,20,Spearfishing,Monroe County,USA,Florida,N,Afternoon,spearfishing,Fishing
+2023,May,17:00:00,Unprovoked,Y,24,Swimming,Charleston County,USA,South Carolina,N,Evening,swimming,Swimming
+2023,May,,Unprovoked,Y,13,Sitting,Lucie County,USA,Florida,N,Unknown,sitting,Other
+2023,May,,Provoked,M,,Kayak fishing,Oahu County,USA,Hawaii,N,Unknown,kayak fishing,Fishing
+2023,May,11:30:00,Unprovoked,M,22,Spearfishing,Monroe County,USA,Florida,N,Morning,spearfishing,Fishing
+2023,April,,Unprovoked,M,,Spearfishing,Manatee County,USA,Florida,N,Unknown,spearfishing,Fishing
+2023,April,15:00:00,Unprovoked,Y,50,Windsurfing,Monroe County,USA,Florida,N,Afternoon,windsurfing,Surfing
+2023,April,07:00:00,Unknown,M,,Kayak fishing,Palm Beach County,USA,Florida,N,Morning,kayak fishing,Fishing
+2023,April,07:00:00,Unprovoked,M,58,Surfing,Oahu County,USA,Hawaii,N,Morning,surfing,Surfing
+2023,March,14:00:00,Unprovoked,M,67,Kite-Surfing,Monroe County,USA,Florida,N,Afternoon,kite-surfing,Surfing
+2023,March,12:30:00,Unprovoked,M,60,Swimming,Anaehoomalu Bay,USA,Hawaii,N,Afternoon,swimming,Swimming
+2023,February,17:30:00,Unprovoked,M,60,Surfing,Martin County,USA,Florida,N,Evening,surfing,Surfing
+2023,January,14:00:00,Unprovoked,M,34,Swimming,Monroe County,USA,Florida,N,Afternoon,swimming,Swimming
+2023,January,14:50:00,Provoked,M,30,Spearishing,70 miles off Pensacola,USA,Florida,N,Afternoon,spearishing,Fishing
+2022,December,08:00:00,Unprovoked,M,68,Swimming,Anaeho'imalu Bay,USA,Hawaii,N,Morning,swimming,Swimming
+2022,December,12:00:00,Unprovoked,M,43,Diving,Pago Pago Harbor,USA,Samoa,N,Afternoon,diving,Diving
+2022,December,12:00:00,Unprovoked,Y,60,Snorkeling,Maui County,USA,Hawaii,Y,Afternoon,snorkeling,Diving
+2022,December,,Unprovoked,M,,Surfing,nan,USA,Texas,N,Unknown,surfing,Surfing
+2022,November,,Unprovoked,Y,10,Swimming,Hobe Sound,USA,Florida,N,Unknown,swimming,Swimming
+2022,November,10:00:00,Unprovoked,Y,50,Swimming,San Diego County,USA,California,N,Morning,swimming,Swimming
+2022,November,15:30:00,Provoked,M,29,Fishing,Gulf County,USA,Florida,N,Afternoon,fishing,Fishing
+2022,October,17:17:00,Unprovoked,M,,Surfing,"Otter Point, Pacific Grove",USA,California,N,Evening,surfing,Surfing
+2022,October,,Unknown,M,40,Fishing,25 mikes from Empire,USA,Louisiana,N,Unknown,fishing,Fishing
+2022,October,,Provoked,M,,Fishing,Horn Island,USA,Mississippi,N,Unknown,fishing,Fishing
+2022,October,,Provoked,M,15,Fishing,Monroe County,USA,Florida,N,Unknown,fishing,Fishing
+2022,October,,Unprovoked,M,40,Shipwreck,25 miles off Empire,USA,Louisiana,N,Unknown,shipwreck,Other
+2022,October,15:30:00,Unprovoked,M,31,Surfing,Centerville Beach,USA,California,N,Afternoon,surfing,Surfing
+2022,September,,Unprovoked,M,26,Spearfishing,Monroe County,USA,Florida,N,Unknown,spearfishing,Fishing
+2022,September,16:10:00,Unprovoked,Y,51,Swimming  or Snorkeling,Maui County,USA,Hawaii,N,Afternoon,swimming  or snorkeling,Swimming
+2022,August,11:17:00,Unprovoked,Y,,Swimming,Horry County,USA,South Carolina,N,Morning,swimming,Swimming
+2022,August,12:00:00,Unprovoked,Y,,Standing,Horry County,USA,South Carolina,N,Afternoon,standing,Wading/Standing
+2022,August,16:00:00,Unprovoked,M,10,Snorkeling,Monroe County,USA,Florida,N,Afternoon,snorkeling,Diving
+2022,August,11:30:00,Unprovoked,M,,Paddleboarding,Monterey County,USA,California,N,Morning,paddleboarding,Paddleboarding
+2022,July,,Unprovoked,M,13,Lobstering,Monroe County,USA,Florida,N,Unknown,lobstering,Fishing
+2022,July,15:00:00,Unprovoked,M,33,Wading,Volusia County,USA,Florida,N,Afternoon,wading,Wading/Standing
+2022,July,17:45:00,Unprovoked,M,16,Surfing,"Kismet Beach, Long Island",USA,New York,N,Evening,surfing,Surfing
+2022,July,,Unknown,Y,,,Brevard County,USA,Florida,N,Unknown,,Unknown
+2022,July,,Unprovoked,Y,,Surfing,Pender County,USA,Noirth Carolina,N,Unknown,surfing,Surfing
+2022,July,17:30:00,Provoked,M,,Fishing,Monroe County,USA,Florida,N,Evening,fishing,Fishing
+2022,July,13:12:00,Unprovoked,Y,40,,Volusia County,USA,Florida,N,Afternoon,,Unknown
+2022,July,18:00:00,Unprovoked,M,49,,Suffolk County,USA,New York,N,Evening,,Unknown
+2022,July,07:30:00,Unprovoked,M,41,Surfing,Suffolk County,USA,New York,N,Morning,surfing,Surfing
+2022,July,,Unprovoked,M,30,Surfing,Volusia County,USA,Florida,N,Unknown,surfing,Surfing
+2022,July,,Unprovoked,M,17,Lifeguard Training Exercise,"Ocean Beach, Long Island",USA,New York,N,Unknown,lifeguard training exercise,Other
+2022,July,11:43:00,Unprovoked,M,28,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2022,July,10:15:00,Unprovoked,M,,Lifeguard Exercises,Suffolk County,USA,New York,N,Morning,lifeguard exercises,Other
+2022,June,13:00:00,Unprovoked,M,,Swimming,Nassau County,USA,New York,N,Afternoon,swimming,Swimming
+2022,June,15:00:00,Unprovoked,Y,17,Scalloping,"Keaton Beach,",USA,Florida,N,Afternoon,scalloping,Other
+2022,June,20:00:00,Unprovoked,Y,35,Swimming,Monroe County,USA,Florida,N,Evening,swimming,Swimming
+2022,June,,Unprovoked,M,,Jumped into water,Monroe County,USA,Florida,N,Unknown,jumped into water,Other
+2022,June,,Unprovoked,Y,,,Pinellas County,USA,Florida,N,Unknown,,Unknown
+2022,June,10:40:00,Unprovoked,M,62,Swimming,Monterey County,USA,California,N,Morning,swimming,Swimming
+2022,June,,Unprovoked,M,15,,Horry County,USA,South Carolina,N,Unknown,,Unknown
+2022,May,19:12:00,Provoked,M,,Fishing,Glynn County,USA,Georgia,N,Evening,fishing,Fishing
+2022,April,16:00:00,Unprovoked,M,56,,Monroe County,USA,Florida,N,Afternoon,,Unknown
+2022,April,,Unprovoked,M,17,Swimming,Baldwin County,USA,Alabama,N,Unknown,swimming,Swimming
+2022,April,16:00:00,Unprovoked,M,15,Standing,Palm Beach County,USA,Florida,N,Afternoon,standing,Wading/Standing
+2022,April,,Provoked,Y,12,Feeding sharks & stingrays,Tutle Back Zoo,USA,New Jersey,N,Unknown,feeding sharks & stingrays,Animal Interaction
+2022,April,10:00:00,Unprovoked,M,,Kayaking,Canaveral National Seashore,USA,Florida,N,Morning,kayaking,Paddleboarding
+2022,March,,Provoked,M,50,Fishing,Palm Beach County,USA,Florida,N,Unknown,fishing,Fishing
+2022,March,15:00:00,Unprovoked,M,20,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2022,March,15:30:00,Provoked,M,21,Fishing,Volusia County,USA,Florida,N,Afternoon,fishing,Fishing
+2022,February,11:24:00,Unprovoked,M,42,Boogie boarding,Santa Barbara County,USA,California,Y,Morning,boogie boarding,Other
+2022,February,17:30:00,Unprovoked,M,18,Surfing,Brevard County,USA,Florida,N,Evening,surfing,Surfing
+2022,January,14:45:00,Unprovoked,Y,42,Wing Foil Surfing,Manatee County,USA,Florida,N,Afternoon,wing foil surfing,Surfing
+2021,December,10:40:00,Unprovoked,M,31,Boogie Boarding,Morro Strand San Luis Obispo,USA,Los Angeles,Y,Morning,boogie boarding,Other
+2021,December,,Unprovoked,Y,42,Wing Foil Surfing,Manatee County,USA,Florida,N,Unknown,wing foil surfing,Surfing
+2021,December,,Unprovoked,M,,Surfing,"Banyans, Kailua-Kona",USA,Hawaii,N,Unknown,surfing,Surfing
+2021,November,10:30:00,Unprovoked,Y,27,Spearfishing,Maui County,USA,Hawaii,N,Morning,spearfishing,Fishing
+2021,October,,Unprovoked,M,25,Surfing,Lucie County,USA,Florida,N,Unknown,surfing,Surfing
+2021,October,12:00:00,Unprovoked,M,,Swimming,Martin County,USA,Florida,N,Afternoon,swimming,Swimming
+2021,October,09:00:00,Unprovoked,M,38,Surfing,Sonoma County,USA,California,N,Morning,surfing,Surfing
+2021,September,13:20:00,Unprovoked,M,6,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2021,September,14:00:00,Unprovoked,M,64,"Fishing, fell in water",off Grand Isle,USA,Louisiana,N,Afternoon,"fishing, fell in water",Fishing
+2021,August,11:45:00,Unprovoked,M,,Boogie boarding,Galveston County,USA,Texas,N,Morning,boogie boarding,Other
+2021,August,06:40:00,Unprovoked,M,41,Surfing,Lucie County,USA,Florida,N,Morning,surfing,Surfing
+2021,August,10:00:00,Unprovoked,M,35,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2021,August,07:51:00,Unprovoked,M,15,Snorkeling,Monroe County,USA,Florida,N,Morning,snorkeling,Diving
+2021,August,11:46:00,Unprovoked,M,,,Beaufort County,USA,South Carolina,N,Morning,,Unknown
+2021,August,15:00:00,Unprovoked,Y,12,Swimming,Worcester County,USA,Maryland,N,Afternoon,swimming,Swimming
+2021,July,11:00:00,Provoked,M,47,Fishing,Volusia County,USA,Florida,N,Morning,fishing,Fishing
+2021,July,13:30:00,Unprovoked,M,15,Standing,Wrightsville Beach,USA,North Carolina,N,Afternoon,standing,Wading/Standing
+2021,July,,Unprovoked,M,58,Surfing,Chatham County,USA,Georgia,N,Unknown,surfing,Surfing
+2021,July,11:00:00,Unprovoked,M,,Swimming,Nassau County,USA,New York,N,Morning,swimming,Swimming
+2021,July,,Unprovoked,Y,,Surfing,Santa Cruz County,USA,California,N,Unknown,surfing,Surfing
+2021,July,12:23:00,Unknown,Y,35,,Brevard County,USA,Florida,N,Afternoon,,Unknown
+2021,July,16:30:00,Unprovoked,M,11,Boogie boarding,Volusia County,USA,Florida,N,Afternoon,boogie boarding,Other
+2021,July,16:39:00,Unprovoked,Y,9,Playing,Martin County,USA,Florida,N,Afternoon,playing,Other
+2021,July,,Unprovoked,M,36,Spearfishing,Duval County,USA,Florida,Y,Unknown,spearfishing,Fishing
+2021,July,16:00:00,Unprovoked,M,8,Standing,Volusia County,USA,Florida,N,Afternoon,standing,Wading/Standing
+2021,July,,Provoked,Y,19,Spearfishing,nan,USA,Bahamas,N,Unknown,spearfishing,Fishing
+2021,June,07:15:00,Unprovoked,M,15,Canoeing,Orange County,USA,California,N,Morning,canoeing,Paddleboarding
+2021,June,,Unprovoked,Y,,Surfing,Brevard County,USA,Florida,N,Unknown,surfing,Surfing
+2021,June,11:30:00,Unprovoked,Y,7,Swimming,Brunswick County,USA,North Carolina,N,Morning,swimming,Swimming
+2021,June,09:15:00,Unprovoked,M,38,Swimming,San Mateo County,USA,California,N,Morning,swimming,Swimming
+2021,June,15:57:00,Unprovoked,M,12,Standing,Volusia County,USA,Florida,N,Afternoon,standing,Wading/Standing
+2021,June,14:30:00,Unprovoked,M,14,Swimming,Walton County,USA,Florida,N,Afternoon,swimming,Swimming
+2021,June,,Unprovoked,M,12,Standing,Volusia County,USA,Florida,N,Unknown,standing,Wading/Standing
+2021,June,,Unprovoked,M,71,Standing,Volusia County,USA,Florida,N,Unknown,standing,Wading/Standing
+2021,May,,Unprovoked,M,26,Swimming,Beaufort County,USA,South Carolina,N,Unknown,swimming,Swimming
+2021,May,16:45:00,Unprovoked,M,35,Kite Foiling,Maui County,USA,Hawaii,N,Afternoon,kite foiling,Surfing
+2021,May,11:30:00,Unprovoked,Y,21,Wading,Volusia County,USA,Florida,N,Morning,wading,Wading/Standing
+2021,May,16:00:00,Unprovoked,M,14,Surfing,Oahu County,USA,Hawaii,N,Afternoon,surfing,Surfing
+2021,April,09:00:00,Unprovoked,Y,64,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2021,April,,Unprovoked,M,54,Boggie boarding,Indian River County,USA,Florida,N,Unknown,boggie boarding,Other
+2021,April,08:56:00,Unprovoked,Y,57,Swimming,Kukio Bay,USA,Hawaii,N,Morning,swimming,Swimming
+2021,April,,Provoked,Y,,Tagging sharks,Outer Banks,USA,North Carolina,N,Unknown,tagging sharks,Other
+2021,April,,Unprovoked,M,36,Swimming,Dade County,USA,Florida,N,Unknown,swimming,Swimming
+2021,March,13:00:00,Unprovoked,M,,,Indian River County,USA,Florida,N,Afternoon,,Unknown
+2021,March,11:45:00,Unprovoked,Y,16,,Indian River County,USA,Florida,N,Morning,,Unknown
+2021,March,,Unprovoked,M,7,Swimming,Broward County,USA,Florida,N,Unknown,swimming,Swimming
+2021,March,14:00:00,Unprovoked,M,9,Body surfing,Dade County,USA,Florida,N,Afternoon,body surfing,Surfing
+2021,March,,Unprovoked,M,20,Wading,Palm Beach County,USA,Florida,N,Unknown,wading,Wading/Standing
+2021,February,16:30:00,Unprovoked,M,,Surfing,"Waiokapua Bay, Kaui",USA,Hawaii,N,Afternoon,surfing,Surfing
+2021,February,14:00:00,Unknown,M,45,Kayaking,Ukumehama,USA,Maui,N,Afternoon,kayaking,Paddleboarding
+2021,January,,Unknown,Y,,Fishing,Off Tampa Bay,USA,Florida,N,Unknown,fishing,Fishing
+2021,January,07:45:00,Unprovoked,M,73,Snorkeling,Maui County,USA,Hawaii,N,Morning,snorkeling,Diving
+2021,January,10:30:00,Unprovoked,M,19,Surfing,Brevard County,USA,Florida,N,Morning,surfing,Surfing
+2021,January,10:30:00,Unprovoked,M,17,Surfing,Brevard County,USA,Florida,N,Morning,surfing,Surfing
+2021,January,08:00:00,Unprovoked,Y,68,Swimming,Hawaii County,USA,Hawaii,N,Morning,swimming,Swimming
+2020,December,,Unprovoked,M,,Swimming,San Diego County,USA,California,N,Unknown,swimming,Swimming
+2020,December,07:45:00,Unprovoked,M,56,Surfing,Honolua Bay,USA,Hawaii,Y,Morning,surfing,Surfing
+2020,December,15:20:00,Unprovoked,M,20,Surfing,Clatsop County,USA,Oregon,N,Afternoon,surfing,Surfing
+2020,November,14:00:00,Unprovoked,Y,35,Snorkeling,Maui County,USA,Hawaii,N,Afternoon,snorkeling,Diving
+2020,October,16:00:00,Unprovoked,M,17,Swimming,Ormond Beach,USA,Florida,N,Afternoon,swimming,Swimming
+2020,October,13:00:00,Unprovoked,M,,Surfing,St George Island,USA,"Franklin County, Florida",N,Afternoon,surfing,Surfing
+2020,October,,Unknown,M,,Surfing,Carteret County,USA,North Carolina,N,Unknown,surfing,Surfing
+2020,October,,Unprovoked,M,31,Body Surfing,Dade County,USA,Florida,N,Unknown,body surfing,Surfing
+2020,September,,Provoked,M,,,Near Key Largo,USA,Florida,N,Unknown,,Unknown
+2020,September,11:00:00,Unknown,Y,61,Swimming,Maui County,USA,Hawaii,N,Morning,swimming,Swimming
+2020,September,10:30:00,Unprovoked,M,30,Snorkeling,Monroe County,USA,Florida,N,Morning,snorkeling,Diving
+2020,September,15:20:00,Unknown,M,48,Swimming,Volusia County,USA,Florida,N,Afternoon,swimming,Swimming
+2020,September,10:45:00,Unprovoked,M,15,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2020,September,08:15:00,Unprovoked,M,25,Surfing,Brevard County,USA,Florida,N,Morning,surfing,Surfing
+2020,September,,Unknown,M,54,Surf fishing,Canaveral National Seashore,USA,Florida,N,Unknown,surf fishing,Surfing
+2020,September,16:30:00,Unprovoked,Y,70,Snorkeling,Puako,USA,Hawaii,N,Afternoon,snorkeling,Diving
+2020,September,,Unprovoked,M,,,Martin County,USA,Florida,N,Unknown,,Unknown
+2020,August,11:30:00,Unprovoked,M,12,Surfing,Charleston County,USA,South Carolina,N,Morning,surfing,Surfing
+2020,August,,Unprovoked,M,,Kayak fishing,Humboldt County,USA,California,N,Unknown,kayak fishing,Fishing
+2020,August,15:00:00,Unprovoked,M,23,Standing,Volusia County,USA,Florida,N,Afternoon,standing,Wading/Standing
+2020,August,,Unprovoked,M,14,Surfing,Johns County,USA,Florida,N,Unknown,surfing,Surfing
+2020,August,11:00:00,Unprovoked,Y,50,Boogie boarding,Volusia County,USA,Florida,N,Morning,boogie boarding,Other
+2020,August,14:15:00,Unknown,Y,,Wading,Horry County,USA,South Carolina,N,Afternoon,wading,Wading/Standing
+2020,August,16:00:00,Provoked,M,55,Fishing,Charlotte County,USA,Florida,N,Afternoon,fishing,Fishing
+2020,August,14:00:00,Unprovoked,Y,,Snorkeling,"Candle Reef, St. Croix",USA,Virgin Islands,N,Afternoon,snorkeling,Diving
+2020,August,,Unprovoked,M,54,Surfing,Pender County,USA,North Carolina,N,Unknown,surfing,Surfing
+2020,July,17:00:00,Unprovoked,Y,22,Surfing,Volusia County,USA,Florida,N,Evening,surfing,Surfing
+2020,July,13:00:00,Unprovoked,M,14,Swimming,Baldwin County,USA,Alabama,N,Afternoon,swimming,Swimming
+2020,July,,Unprovoked,M,38,Diving,Florida Keys,USA,Florida,N,Unknown,diving,Diving
+2020,July,15:59:00,Unprovoked,Y,63,Swimming,Cumberland County,USA,Maine,Y,Afternoon,swimming,Swimming
+2020,July,12:00:00,Unprovoked,M,23,Spearfishing,Spanish Cay,USA,Bahamas,N,Afternoon,spearfishing,Fishing
+2020,July,,Unprovoked,M,11,Standing,Volusia County,USA,Florida,N,Unknown,standing,Wading/Standing
+2020,July,17:30:00,Unprovoked,M,,Treading water,Craven County,USA,North Carolina,N,Evening,treading water,Swimming
+2020,July,,Unprovoked,Y,12,Wading,Brevard County,USA,Florida,N,Unknown,wading,Wading/Standing
+2020,July,,Unprovoked,Y,14,Wading,Brevard County,USA,Florida,N,Unknown,wading,Wading/Standing
+2020,July,08:00:00,Unprovoked,Y,15,Surfing,Brevard County,USA,Florida,N,Morning,surfing,Surfing
+2020,June,,Unprovoked,M,7,Playing,Dade County,USA,Florida,N,Unknown,playing,Other
+2020,June,16:00:00,Unprovoked,M,16,Body Surfing,Dare County,USA,North Carolina,N,Afternoon,body surfing,Surfing
+2020,June,13:00:00,Unknown,M,12,Skimboarding,Sussex County,USA,Delaware,N,Afternoon,skimboarding,Other
+2020,June,08:30:00,Unprovoked,M,,Surfing,Kauai County,USA,Hawaii,N,Morning,surfing,Surfing
+2020,May,13:30:00,Unprovoked,M,26,Surfing,Santa Cruz County,USA,California,Y,Afternoon,surfing,Surfing
+2020,May,14:30:00,Unprovoked,Y,57,Swimming,Santa Barbara County,USA,California,N,Afternoon,swimming,Swimming
+2020,April,17:45:00,Unknown,M,16,Body Boarding,San Diego County,USA,California,N,Evening,body boarding,Other
+2020,April,10:00:00,Unprovoked,Y,,Surfing,Brevard County,USA,Florida,N,Morning,surfing,Surfing
+2020,March,,Unprovoked,M,15,Stand-Up Paddleboarding,Santa Cruz County,USA,California,N,Unknown,stand-up paddleboarding,Paddleboarding
+2020,March,12:20:00,Unprovoked,M,,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2020,March,10:50:00,Unprovoked,M,,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2020,February,09:40:00,Unprovoked,M,,Stand-Up Paddle boarding,Wailea,USA,Maui,N,Morning,stand-up paddle boarding,Paddleboarding
+2020,January,14:33:00,Unprovoked,M,26,Surfing,Dare County,USA,North Carolina,N,Afternoon,surfing,Surfing
+2019,December,16:15:00,Unprovoked,M,37,Surfing,Ventura County,USA,California,N,Afternoon,surfing,Surfing
+2019,December,10:00:00,Unprovoked,M,57,Stand-Up Paddleboarding,Maui County,USA,Hawaii,N,Morning,stand-up paddleboarding,Paddleboarding
+2019,November,,Unprovoked,M,9,Surfing,Volusia County,USA,Florida,N,Unknown,surfing,Surfing
+2019,November,,Unprovoked,M,30,Surfing,Brevard County,USA,Florida,N,Unknown,surfing,Surfing
+2019,November,08:00:00,Unprovoked,Y,,Surfing,San Diego County,USA,California,N,Morning,surfing,Surfing
+2019,October,12:45:00,Provoked,M,32,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2018,October,08:30:00,Unprovoked,M,,Kayak fishing,San Luis Obispo County,USA,California,N,Morning,kayak fishing,Fishing
+2019,October,12:00:00,Unprovoked,M,20,Surfing,Lucie County,USA,Florida,N,Afternoon,surfing,Surfing
+2019,October,16:30:00,Unknown,M,51,Kayaking,Los Angeles County,USA,California,N,Afternoon,kayaking,Paddleboarding
+2019,October,,Unprovoked,M,,Surfing,Talofofo Bay,USA,Guam,N,Unknown,surfing,Surfing
+2019,September,09:15:00,Unprovoked,Y,,Surfing,Maui County,USA,Hawaii,N,Morning,surfing,Surfing
+2019,September,17:00:00,Unprovoked,M,,Swimming,Duval County,USA,Florida,N,Evening,swimming,Swimming
+2019,September,16:30:00,Unprovoked,M,13,Surfing,Brevard County,USA,Florida,N,Afternoon,surfing,Surfing
+2019,September,10:40:00,Unprovoked,Y,22,Snorkeling,Oahu County,USA,Hawaii,N,Morning,snorkeling,Diving
+2019,September,,Unprovoked,Y,22,,Charleston County,USA,South Carolina,N,Unknown,,Unknown
+2019,August,,Unprovoked,M,70,Spearfishing,Grand Cayman,USA,Cayman Islands,N,Unknown,spearfishing,Fishing
+2019,August,,Unprovoked,M,60,,Duval County,USA,Florida,N,Unknown,,Unknown
+2019,August,11:55:00,Provoked,M,40,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2019,August,09:00:00,Unprovoked,M,11,Wading,Broward County,USA,Florida,N,Morning,wading,Wading/Standing
+2019,August,08:00:00,Unprovoked,Y,26,Swimming/ Treading water,"Napoopoo Park in Kealakekua Bay, The Big Island",USA,Hawaii,N,Morning,swimming/ treading water,Swimming
+2019,August,11:00:00,Unprovoked,M,9,Wading,Volusia County,USA,Florida,N,Morning,wading,Wading/Standing
+2019,August,19:30:00,Unprovoked,M,16,Surfing,Oahu County,USA,Hawaii,N,Evening,surfing,Surfing
+2019,August,15:00:00,Unprovoked,M,51,Standing,Volusia County,USA,Florida,N,Afternoon,standing,Wading/Standing
+2019,August,16:00:00,Unprovoked,Y,21,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2019,August,15:30:00,Unprovoked,M,20,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2019,August,,Unprovoked,M,37,Spearfishing / Diving,Off Key Biscayne,USA,Florida,N,Unknown,spearfishing / diving,Diving
+2019,July,22:20:00,Unprovoked,M,49,Swimming,Molokai Channel/,USA,Hawaii,N,Night,swimming,Swimming
+2019,July,,Provoked,M,,Fishing ,Dare County,USA,North Carolina,N,Unknown,fishing,Fishing
+2019,July,13:30:00,Unprovoked,M,18,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2019,July,16:30:00,Unprovoked,M,49,Boogie boarding,Volusia County,USA,Florida,N,Afternoon,boogie boarding,Other
+2019,July,,Unprovoked,M,23,Surfing,Duval County,USA,Florida,N,Unknown,surfing,Surfing
+2019,July,18:30:00,Unprovoked,M,18,Surfing,Washington County,USA,Rhode Island,N,Evening,surfing,Surfing
+2019,July,,Unknown,Y,,Diving,Dade County,USA,Florida,,Unknown,diving,Diving
+2019,July,16:30:00,Unprovoked,Y,,Body-surfing,Brunswick County,USA,North Carolina,N,Afternoon,body-surfing,Surfing
+2019,July,07:30:00,Unprovoked,Y,16,Boogie boarding,Nassau County,USA,Florida,N,Morning,boogie boarding,Other
+2019,June,16:30:00,Unprovoked,M,18,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2019,June,16:00:00,Unprovoked,M,8,Swimming,Brunswick County,USA,North Carolina,N,Afternoon,swimming,Swimming
+2019,June,09:00:00,Unprovoked,M,64,Swimming,Chatham County,USA,Georgia,N,Morning,swimming,Swimming
+2019,June,14:00:00,Unprovoked,M,19,Surfing,Brunswick County,USA,North Carolina,N,Afternoon,surfing,Surfing
+2019,June,12:20:00,Unprovoked,Y,17,Standing,Carteret County,USA,North Carolina,N,Afternoon,standing,Wading/Standing
+2019,May,08:48:00,Unprovoked,M,65,Swimming,Maui County,USA,Hawaii,Y,Morning,swimming,Swimming
+2019,May,,Unprovoked,M,67,Body Boarding,Ocean County,USA,New Jersey,N,Unknown,body boarding,Other
+2019,May,08:30:00,Unprovoked,M,,Surfing,Oahu County,USA,Hawaii,N,Morning,surfing,Surfing
+2019,May,09:00:00,Unprovoked,Y,34,Swimming with sharks,O'ahu,USA,Hawaii,N,Morning,swimming with sharks,Swimming
+2019,May,,Unprovoked,Y,28,Surfing,Sonoma County,USA,California,N,Unknown,surfing,Surfing
+2019,May,18:45:00,Unprovoked,M,,Fishing,Lee County,USA,Florida,N,Evening,fishing,Fishing
+2019,April,08:30:00,Unprovoked,Y,65,Kayaking,"Anaehoomalu Bay, Hawaii",USA,Hawaii,N,Morning,kayaking,Paddleboarding
+2019,April,17:30:00,Unprovoked,M,25,,Duval County,USA,Florida,N,Evening,,Unknown
+2019,April,17:45:00,Unknown,Y,10,Boogie boarding,St Johns County,USA,Florida,N,Evening,boogie boarding,Other
+2019,April,,Unknown,M,58,Picking opihi,"North Koahala, Big Island",USA,Hawaii,N,Unknown,picking opihi,Other
+2019,April,01:00:00,Unprovoked,M,23,Swimming,Kaiwi Channel,USA,Hawaii,N,Night,swimming,Swimming
+2019,March,10:00:00,Unknown,M,74,Paddling an outrigger canoe,Waikoloa area,USA,Hawaii,N,Morning,paddling an outrigger canoe,Paddleboarding
+2019,March,16:00:00,Unprovoked,M,46,Surfing,Martin County,USA,Florida,N,Afternoon,surfing,Surfing
+2019,March,03:00:00,Unprovoked,M,58,Swimming,Kaiwi Channel,USA,Hawaii,N,Night,swimming,Swimming
+2019,March,14:00:00,Unprovoked,M,11,Boogie boarding,Martin County,USA,Florida,N,Afternoon,boogie boarding,Other
+2019,March,08:30:00,Unprovoked,M,,Surfing,Tillamook County,USA,Oregon,N,Morning,surfing,Surfing
+2019,February,08:15:00,Unprovoked,M,,Surfing,"Dog Beach, Huntington Beach",USA,California,N,Morning,surfing,Surfing
+2019,February,13:40:00,Unprovoked,M,,Surfing,Kauai County,USA,Hawaii,N,Afternoon,surfing,Surfing
+2019,February,10:00:00,Unprovoked,M,50,Spearfishing,Key Biscayne,USA,Florida,N,Morning,spearfishing,Fishing
+2019,January,10:00:00,Unprovoked,M,19,Surfing,"Sandspit Beach, Montaa de Oro State Park",USA,California,N,Morning,surfing,Surfing
+2018,November,17:00:00,Unprovoked,M,48,Surfing,Palm Beach County,USA,Florida,N,Evening,surfing,Surfing
+2018,October,,Unprovoked,Y,,Surfing,Brevard County,USA,Florida,N,Unknown,surfing,Surfing
+2018,October,,Unprovoked,M,29,Surfing,Volusia County,USA,Florida,N,Unknown,surfing,Surfing
+2018,October,,Unprovoked,M,,Diving / Filming,Farallon Islands,USA,California,N,Unknown,diving / filming,Diving
+2018,October,,Unprovoked,Y,,Surfing,Volusia County,USA,Florida,N,Unknown,surfing,Surfing
+2018,September,06:55:00,Unprovoked,M,13,Diving,San Diego County,USA,California,N,Morning,diving,Diving
+2018,September,15:00:00,Unknown,M,55,Fishing,Humboldt County,USA,California,N,Afternoon,fishing,Fishing
+2018,September,12:00:00,Unknown,Y,,,Duval County,USA,Florida,N,Afternoon,,Unknown
+2018,September,12:00:00,Unprovoked,M,26,Boogie boarding,Barnstable County,USA,Massachusetts,Y,Afternoon,boogie boarding,Other
+2018,September,13:15:00,Unprovoked,M,39,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2018,September,08:30:00,Unprovoked,M,23,Stand-Up Paddleboarding,Oahu County,USA,Hawaii,N,Morning,stand-up paddleboarding,Paddleboarding
+2018,September,09:29:00,Unprovoked,M,60,Surfing,Lucie County,USA,Florida,N,Morning,surfing,Surfing
+2018,August,20:00:00,Unprovoked,M,14,Swimming,Orange County,USA,California,N,Evening,swimming,Swimming
+2018,August,10:47:00,Unprovoked,M,14,Surfing,Carteret County,USA,North Carolina,N,Morning,surfing,Surfing
+2018,August,,Unknown,M,,,"Rhode River, Chesapeake Bay",USA,Maryland,N,Unknown,,Unknown
+2018,August,16:00:00,Unprovoked,M,61,Swimming,Barnstable County,USA,Massachusetts,N,Afternoon,swimming,Swimming
+2018,August,10:00:00,Unprovoked,M,42,Spearfishing,Galveston County,USA,Texas,N,Morning,spearfishing,Fishing
+2018,August,,Unprovoked,M,16,Standing,Brunswick County,USA,North Carolina,N,Unknown,standing,Wading/Standing
+2018,August,10:30:00,Unprovoked,Y,10,Swimming/Standing,Brunswick County,USA,North Carolina,N,Morning,swimming/standing,Swimming
+2018,July,,Unprovoked,M,14,Surfing,St Johns County,USA,Florida,N,Unknown,surfing,Surfing
+2018,July,12:00:00,Unprovoked,M,13,Boogie Boarding,Suffolk County,USA,New York,N,Afternoon,boogie boarding,Other
+2018,July,11:15:00,Unprovoked,Y,12,Wading,Suffolk County,USA,New York,N,Morning,wading,Wading/Standing
+2018,July,18:00:00,Unknown,Y,,Surfing,Galveston County,USA,Texas,,Evening,surfing,Surfing
+2018,July,14:11:00,Provoked,Y,58,Wading,Huboldt County,USA,California,N,Afternoon,wading,Wading/Standing
+2018,July,13:30:00,Unknown,Y,14,Surfing,Brevard County,USA,Florida,N,Afternoon,surfing,Surfing
+2018,July,15:40:00,Unprovoked,M,17,Wading,Nassau County,USA,Florida,N,Afternoon,wading,Wading/Standing
+2018,July,15:35:00,Unprovoked,M,30,Surfing,Nassau County,USA,Florida,N,Afternoon,surfing,Surfing
+2018,July,11:30:00,Unprovoked,M,14,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2018,July,13:30:00,Unknown,M,,Snorkeling,Monroe County,USA,Florida,N,Afternoon,snorkeling,Diving
+2018,July,14:40:00,Unprovoked,Y,11,Boogie boarding,Horry County,USA,South Carolina,N,Afternoon,boogie boarding,Other
+2018,June,18:00:00,Unknown,Y,57,Paddling,San Diego County,USA,California,N,Evening,paddling,Other
+2018,June,,Provoked,M,,Fishing,Monroe County,USA,Florida,N,Unknown,fishing,Fishing
+2018,June,,Unprovoked,Y,11,Standing,Glynn County,USA,Georgia,N,Unknown,standing,Wading/Standing
+2018,June,07:45:00,Unknown,M,48,Surfing,Oahu County,USA,Hawaii,N,Morning,surfing,Surfing
+2018,May,,Provoked,M,52,Fishing,Volusia County,USA,Florida,N,Unknown,fishing,Fishing
+2018,May,17:00:00,Unprovoked,M,15,Walking,Brevard County,USA,Florida,N,Evening,walking,Wading/Standing
+2018,May,14:00:00,Unprovoked,M,12,Standing,Volusia County,USA,Florida,N,Afternoon,standing,Wading/Standing
+2018,May,,Unprovoked,M,10,Boogie boarding,Charleston County,USA,South Carolina,N,Unknown,boogie boarding,Other
+2018,May,15:00:00,Unprovoked,M,10,Swimming,Beaufort County,USA,South Carolina,N,Afternoon,swimming,Swimming
+2018,April,,Provoked,M,,Fishing,Galveston Bay,USA,Texas,N,Unknown,fishing,Fishing
+2018,April,,Unprovoked,M,29,Body boarding,Kauai County,USA,Hawaii,N,Unknown,body boarding,Other
+2018,March,09:30:00,Unprovoked,M,25,Stand-Up Paddleboarding,Kukio Beach,USA,Hawaii,N,Morning,stand-up paddleboarding,Paddleboarding
+2017,December,18:00:00,Unprovoked,Y,54,Surfing,Oahu County,USA,Hawaii,N,Evening,surfing,Surfing
+2017,December,12:00:00,Unprovoked,Y,35,Surfing,Marin County,USA,California,N,Afternoon,surfing,Surfing
+2017,November,13:45:00,Unprovoked,M,25,Spearfishing,Monterey County,USA,California,N,Afternoon,spearfishing,Fishing
+2017,November,,Unprovoked,Y,14,Surfing,Brevard County,USA,Florida,N,Unknown,surfing,Surfing
+2017,November,14:15:00,Unprovoked,M,20,Surfing,Makaha,USA,Hawaii,N,Afternoon,surfing,Surfing
+2017,October,15:00:00,Unprovoked,M,,Stand-Up Paddleboarding,Oahu County,USA,Hawaii,N,Afternoon,stand-up paddleboarding,Paddleboarding
+2017,October,17:00:00,Unprovoked,M,17,Surfing ,Palm Beach County,USA,Florida,N,Evening,surfing,Surfing
+2017,October,08:00:00,Unprovoked,Y,60,Swimming,Palm Beach County,USA,Florida,N,Morning,swimming,Swimming
+2017,October,14:30:00,Unprovoked,M,,Swimming,Palm Beach County,USA,Florida,N,Afternoon,swimming,Swimming
+2017,October,18:30:00,Unprovoked,M,54,Surfing,Kauai County,USA,Hawaii,N,Evening,surfing,Surfing
+2017,October,12:30:00,Unprovoked,Y,40,Snorkeling,Maui County,USA,Hawaii,N,Afternoon,snorkeling,Diving
+2017,September,,Unprovoked,M,,Surfing,Duval County,USA,Florida,N,Unknown,surfing,Surfing
+2017,September,15:30:00,Unknown,M,33,Surfing,Rockaway,USA,New York,,Afternoon,surfing,Surfing
+2017,September,14:00:00,Unprovoked,M,,Surfing,Fort Worth,USA,Florida,N,Afternoon,surfing,Surfing
+2017,September,,Unprovoked,M,,Surfing,Palm Beach County,USA,Florida,N,Unknown,surfing,Surfing
+2017,September,16:30:00,Unprovoked,M,28,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2017,September,18:45:00,Unprovoked,M,18,Surfing,Volusia County,USA,Florida,N,Evening,surfing,Surfing
+2017,September,,Unprovoked,M,,Swimming,Monroe County,USA,Florida,N,Unknown,swimming,Swimming
+2017,September,,Unprovoked,Y,,Swimming,Cameron County,USA,Texas,N,Unknown,swimming,Swimming
+2017,September,10:44:00,Unprovoked,M,17,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2017,August,13:19:00,Unprovoked,Y,3,Wading,Bathtub Beach,USA,Florida,N,Afternoon,wading,Wading/Standing
+2017,August,10:00:00,Unprovoked,M,69,SUP,Barnstable County,USA,Massachusetts,N,Morning,sup,Other
+2017,August,13:30:00,Unprovoked,M,13,Swimming,Beaufort County,USA,South Carolina,N,Afternoon,swimming,Swimming
+2017,August,23:30:00,Provoked,M,34,Fishing,Barnstable County,USA,Massachusetts,N,Night,fishing,Fishing
+2017,August,10:45:00,Unknown,M,,Fishing,San Mateo County,USA,California,N,Morning,fishing,Fishing
+2017,July,18:30:00,Unprovoked,M,15,Skimboarding,Duval County,USA,Florida,N,Evening,skimboarding,Other
+2017,July,15:00:00,Unknown,M,10,Swimming,Beaufort County,USA,South Carolina,,Afternoon,swimming,Swimming
+2017,July,,Unprovoked,Y,12,,Georgetown County,USA,South Carolina,N,Unknown,,Unknown
+2017,July,,Unprovoked,Y,,,Ventnor,USA,New Jersey,N,Unknown,,Unknown
+2017,July,12:30:00,Unprovoked,Y,40,,Monroe County,USA,Florida,N,Afternoon,,Unknown
+2017,July,,Unknown,Y,8,Swimming,Beaufort County,USA,South Carolina,,Unknown,swimming,Swimming
+2017,July,11:20:00,Unknown,M,40,Kayaking,"Stearns Wharf, Santa Barbara",USA,California,N,Morning,kayaking,Paddleboarding
+2017,July,07:45:00,Unprovoked,M,50,SUP,"Seal Rock, Goleta Beach, Santa Barbara",USA,California,N,Morning,sup,Other
+2017,July,18:30:00,Unprovoked,M,,Surfing,Grays Harbor County,USA,Washington,N,Evening,surfing,Surfing
+2017,July,11:00:00,Unknown,M,,Kayaking,Santa Cruz County,USA,California,N,Morning,kayaking,Paddleboarding
+2017,July,15:30:00,Unprovoked,M,46,Swimming,Dade County,USA,Florida,N,Afternoon,swimming,Swimming
+2017,June,19:30:00,Unknown,M,,Fishing,Wrightsville Beach,USA,South Carolina,,Evening,fishing,Fishing
+2017,June,,Unprovoked,Y,16,Swimming,Beaufort County,USA,South Carolina,N,Unknown,swimming,Swimming
+2017,June,,Unprovoked,M,,Surfing,Palm Beach County,USA,Florida,N,Unknown,surfing,Surfing
+2017,June,,Unprovoked,Y,14,Swimming,Beaufort County,USA,South Carolina,N,Unknown,swimming,Swimming
+2017,June,10:00:00,Unprovoked,M,19,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2017,June,,Unprovoked,M,,Spearfishing,Monroe County,USA,Florida,N,Unknown,spearfishing,Fishing
+2017,May,,Provoked,Y,20,Touching a shark,Charleston County,USA,South Carolina,N,Unknown,touching a shark,Animal Interaction
+2017,May,,Unprovoked,M,,Feeding sharks,Off Jupiter,USA,Florida,N,Unknown,feeding sharks,Animal Interaction
+2017,May,14:30:00,Unknown,Y,18,Surfing,Orange County,USA,California,,Afternoon,surfing,Surfing
+2017,April,17:34:00,Unprovoked,Y,,Swimming,San Diego County,USA,California,N,Evening,swimming,Swimming
+2017,April,11:00:00,Unprovoked,Y,33,Surfing,Charleston County,USA,South Carolina,N,Morning,surfing,Surfing
+2017,April,,Unknown,Y,,Photo shoot,nan,USA,Florida,,Unknown,photo shoot,Photography
+2017,April,08:50:00,Unknown,M,,Swimming,Georgetown County,USA,South Carolina,,Morning,swimming,Swimming
+2017,April,,Unprovoked,Y,,,Volusia County,USA,Florida,N,Unknown,,Unknown
+2017,April,09:00:00,Unprovoked,M,28,Surfing,Kauai County,USA,Hawaii,N,Morning,surfing,Surfing
+2017,April,13:30:00,Unprovoked,M,17,Surfing,Duval County,USA,Florida,N,Afternoon,surfing,Surfing
+2017,April,13:45:00,Unprovoked,Y,,Surfing,St. Augustine,USA,Florida,N,Afternoon,surfing,Surfing
+2017,April,16:00:00,Unprovoked,Y,35,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2017,April,17:45:00,Unprovoked,Y,10,Paddle boarding,Brevard County,USA,Florida,N,Evening,paddle boarding,Paddleboarding
+2017,April,17:00:00,Unprovoked,Y,21,Swimming,Brevard County,USA,Florida,N,Evening,swimming,Swimming
+2017,April,,Unprovoked,M,16,Swimming,Volusia County,USA,Florida,N,Unknown,swimming,Swimming
+2017,April,13:00:00,Unprovoked,Y,51,Swimming,Volusia County,USA,Florida,N,Afternoon,swimming,Swimming
+2017,April,15:00:00,Unprovoked,Y,17,Swimming,Okaloosa County,USA,Florida,N,Afternoon,swimming,Swimming
+2017,March,10:00:00,Unprovoked,M,58,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2017,March,14:30:00,Unknown,M,,Kayaking,Monterey Bay,USA,California,N,Afternoon,kayaking,Paddleboarding
+2017,February,13:30:00,Unprovoked,M,22,Swimming,Brevard County,USA,Florida,N,Afternoon,swimming,Swimming
+2017,February,,Unknown,Y,,Fishing,16 miles off Hilton Head,USA,South Carolina,N,Unknown,fishing,Fishing
+2017,January,14:00:00,Unprovoked,M,15,,Indian River County,USA,Florida,N,Afternoon,,Unknown
+2017,January,,Unprovoked,M,,,Jensen Beach,USA,Florida,N,Unknown,,Unknown
+2017,January,12:30:00,Unprovoked,M,47,Wading,Brevard County,USA,Florida,N,Afternoon,wading,Wading/Standing
+2016,December,17:00:00,Unprovoked,M,16,Surfing,St Lucie County,USA,Florida,N,Evening,surfing,Surfing
+2016,December,,Unknown,M,19,Surfing,Volusia County,USA,Florida,,Unknown,surfing,Surfing
+2016,November,10:30:00,Unprovoked,Y,58,Floating,Maui County,USA,Hawaii,N,Morning,floating,Other
+2016,October,,Unprovoked,M,41,Surfing,Duval County,USA,Florida,N,Unknown,surfing,Surfing
+2016,October,,Unprovoked,M,42,Surfing,Mayport Naval Station  Duval County,USA,Florida,N,Unknown,surfing,Surfing
+2016,October,17:00:00,Unprovoked,M,36,Surfing,Maui County,USA,Hawaii,N,Evening,surfing,Surfing
+2016,October,09:50:00,Unprovoked,Y,66,Snorkeling,Maui County,USA,Hawaii,N,Morning,snorkeling,Diving
+2016,October,16:00:00,Unprovoked,M,29,Surfing,Clatsop County,USA,Oregon,N,Afternoon,surfing,Surfing
+2016,October,11:30:00,Unprovoked,M,21,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2016,October,17:30:00,Unprovoked,M,32,Surfng,Volusia County,USA,Florida,N,Evening,surfng,Surfing
+2016,September,13:00:00,Unprovoked,M,16,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2016,September,11:00:00,Unprovoked,M,36,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2016,September,10:43:00,Unprovoked,M,43,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2016,September,,Unprovoked,M,43,Surfing,Humboldt County,USA,California,N,Unknown,surfing,Surfing
+2016,September,15:15:00,Unprovoked,M,60,Wading,Johns County,USA,Florida,N,Afternoon,wading,Wading/Standing
+2016,September,14:30:00,Unprovoked,Y,51,Swimming,Oahu County,USA,Hawaii,N,Afternoon,swimming,Swimming
+2016,September,,Unprovoked,Y,12,Boogie boarding,Horry County,USA,South Carolina,N,Unknown,boogie boarding,Other
+2016,September,,Unprovoked,M,9,Body boarding,Volusia County,USA,Florida,N,Unknown,body boarding,Other
+2016,September,,Unprovoked,M,22,Spearfishing,Santa Barbara County,USA,California,N,Unknown,spearfishing,Fishing
+2016,August,15:00:00,Unprovoked,M,25,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2016,August,14:00:00,Unprovoked,M,37,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2016,August,16:00:00,Unprovoked,M,49,Wading,Johns County,USA,Florida,N,Afternoon,wading,Wading/Standing
+2016,August,16:30:00,Unprovoked,M,21,SUP Foil boarding,Maui County,USA,Hawaii,N,Afternoon,sup foil boarding,Other
+2016,August,,Unprovoked,M,22,Surfing,Volusia County,USA,Florida,N,Unknown,surfing,Surfing
+2016,July,,Provoked,M,43,Lobstering,Monroe County,USA,Florida,N,Unknown,lobstering,Fishing
+2016,July,,Unknown,Y,,Fishing,8 miles off Mobile,USA,Alabama,N,Unknown,fishing,Fishing
+2016,July,13:00:00,Unprovoked,Y,9,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2016,July,11:00:00,Unprovoked,Y,11,,Volusia County,USA,Florida,N,Morning,,Unknown
+2016,July,17:00:00,Unprovoked,M,61,Kite surfing,Orange County,USA,California,N,Evening,kite surfing,Surfing
+2016,July,,Unprovoked,M,,Swimming,Horry County,USA,South Carolina,N,Unknown,swimming,Swimming
+2016,July,,Unknown,M,,Fishing ,Santa Cruz County,USA,California,N,Unknown,fishing,Fishing
+2016,July,10:00:00,Provoked,M,59,Fishing,Essec County,USA,Massachusetts,N,Morning,fishing,Fishing
+2016,July,,Unknown,M,,Fishing ,Los Angeles County,USA,California,N,Unknown,fishing,Fishing
+2016,July,,Unprovoked,Y,42,Swimming,Brevard County,USA,Florida,N,Unknown,swimming,Swimming
+2016,June,16:20:00,Unprovoked,M,35,,Sullivan's Island,USA,South Carolina,N,Afternoon,,Unknown
+2016,June,14:34:00,Unprovoked,M,11,Surfing,Carteret County,USA,North Carolina,N,Afternoon,surfing,Surfing
+2016,June,15:25:00,Unprovoked,M,42,Floating,Horry County,USA,South Carolina,N,Afternoon,floating,Other
+2016,June,14:55:00,Unprovoked,M,,Wading,Brevard County,USA,Florida,N,Afternoon,wading,Wading/Standing
+2016,June,06:00:00,Unprovoked,M,,Surfing,Kauai County,USA,Hawaii,N,Morning,surfing,Surfing
+2016,June,17:30:00,Unprovoked,Y,6,Floating in tube,"Pirates Beach, Galveston",USA,Texas,N,Evening,floating in tube,Other
+2016,June,15:00:00,Unprovoked,M,19,Standing,Carteret County,USA,North Carolina,N,Afternoon,standing,Wading/Standing
+2016,June,11:30:00,Unknown,M,27,Surfing,Charleston County,USA,South Carolina,,Morning,surfing,Surfing
+2016,June,08:30:00,Unprovoked,M,64,Swimming,Flagler County,USA,Florida,N,Morning,swimming,Swimming
+2016,May,16:00:00,Unprovoked,Y,52,Swimming,Orange County,USA,California,N,Afternoon,swimming,Swimming
+2016,May,15:45:00,Unprovoked,M,13,Swimming,Duval County,USA,Florida,N,Afternoon,swimming,Swimming
+2016,May,12:00:00,Unprovoked,Y,57,Swimming,Indian River County,USA,Florida,N,Afternoon,swimming,Swimming
+2016,May,18:00:00,Unprovoked,Y,22,Swimming,Pinellas County,USA,Florida,N,Evening,swimming,Swimming
+2016,May,17:46:00,Unprovoked,Y,11,Swimming,Duval County,USA,Florida,N,Evening,swimming,Swimming
+2016,May,,Unprovoked,M,48,Swimming,Johns County,USA,Florida,N,Unknown,swimming,Swimming
+2016,May,13:20:00,Provoked,Y,23,Teasing a shark,Palm Beach County,USA,Florida,N,Afternoon,teasing a shark,Other
+2016,May,15:49:00,Unprovoked,M,59,Floating,Maui County,USA,Hawaii,N,Afternoon,floating,Other
+2016,April,17:30:00,Unprovoked,M,15,Surfing,Volusia County,USA,Florida,N,Evening,surfing,Surfing
+2016,April,,Unprovoked,M,26,Spearfishing,Palm Beach County,USA,Florida,N,Unknown,spearfishing,Fishing
+2016,April,,Unprovoked,M,34,Fishing,Monroe County,USA,Florida,N,Unknown,fishing,Fishing
+2016,April,,Unknown,M,,SUP,Palm Beach County,USA,Florida,,Unknown,sup,Other
+2016,March,11:00:00,Unprovoked,Y,46,Snorkeling,Maui County,USA,Hawaii,N,Morning,snorkeling,Diving
+2016,March,,Unprovoked,M,15,,Lee County,USA,Florida,,Unknown,,Unknown
+2016,March,,Unknown,Y,,Surfing,Orange County,USA,California,,Unknown,surfing,Surfing
+2016,March,13:30:00,Unprovoked,M,19,Body surfing,Lucie County,USA,Florida,N,Afternoon,body surfing,Surfing
+2016,March,,Unprovoked,M,12,,Palm Beach County,USA,Florida,N,Unknown,,Unknown
+2016,January,14:00:00,Unprovoked,M,,Surfing,Kauai County,USA,Hawaii,N,Afternoon,surfing,Surfing
+2016,January,11:30:00,Unprovoked,Y,15,Surfing,Kauai County,USA,Hawaii,N,Morning,surfing,Surfing
+2016,January,,Unprovoked,M,,Spearfishing,Off Surfside,USA,Texas,N,Unknown,spearfishing,Fishing
+2016,January,,Unprovoked,M,48,Paddle boarding,Maui County,USA,Hawaii,N,Unknown,paddle boarding,Paddleboarding
+2015,December,,Unprovoked,M,71,Paddle boarding,La'aloa Beach Park,USA,Hawaii,N,Unknown,paddle boarding,Paddleboarding
+2015,November,,Unprovoked,M,,Surfing,Brevard County,USA,Florida,N,Unknown,surfing,Surfing
+2015,November,11:00:00,Unprovoked,Y,,Swimming,Palm Beach County,USA,Florida,N,Morning,swimming,Swimming
+2015,November,,Unprovoked,M,28,Surfing,Palm Beach County,USA,Florida,N,Unknown,surfing,Surfing
+2015,November,11:00:00,Unknown,Y,9,Surfing,Brevard County,USA,Florida,,Morning,surfing,Surfing
+2015,November,11:00:00,Unprovoked,M,54,Swimming,"Kehena Beach, Hawaii",USA,Hawaii,N,Morning,swimming,Swimming
+2015,November,14:00:00,Unprovoked,Y,28,Wading,Brevard County,USA,Florida,N,Afternoon,wading,Wading/Standing
+2015,October,14:50:00,Unprovoked,M,10,Body boarding,Oahu County,USA,Hawaii,N,Afternoon,body boarding,Other
+2015,October,14:30:00,Unprovoked,M,21,Surfing,Brevard County,USA,Florida,N,Afternoon,surfing,Surfing
+2015,October,13:50:00,Unprovoked,M,21,Surfing,Broward County,USA,Florida,N,Afternoon,surfing,Surfing
+2015,October,19:20:00,Unknown,M,32,Surfing,"Waikiki,",USA,Hawaii,,Evening,surfing,Surfing
+2015,October,11:30:00,Unprovoked,M,44,Swimming,Oahu County,USA,Hawaii,N,Morning,swimming,Swimming
+2015,October,11:00:00,Unknown,M,,Fishing,San Luis Obispo County,USA,California,N,Morning,fishing,Fishing
+2015,October,16:20:00,Unprovoked,Y,9,Boogie boarding,Beaufort County,USA,South Carolina,N,Afternoon,boogie boarding,Other
+2015,October,10:25:00,Unprovoked,M,25,Surfing,Oahu County,USA,Hawaii,N,Morning,surfing,Surfing
+2015,October,13:00:00,Unprovoked,M,22,Body boarding,Lucie County,USA,Florida,N,Afternoon,body boarding,Other
+2015,October,10:00:00,Unprovoked,M,13,Wading,Galveston County,USA,Texas,N,Morning,wading,Wading/Standing
+2015,October,08:30:00,Unprovoked,M,14,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2015,September,16:20:00,Unprovoked,M,22,Surfing,Johns County,USA,Florida,N,Afternoon,surfing,Surfing
+2015,September,,Unknown,M,,Kayak fishing,Santa Barbara County,USA,California,N,Unknown,kayak fishing,Fishing
+2015,September,16:45:00,Unprovoked,M,14,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2015,September,15:52:00,Unprovoked,M,27,Spearfishing,"Upolu Point, North Kohala, Big Island",USA,Hawaii,N,Afternoon,spearfishing,Fishing
+2015,September,12:30:00,Unprovoked,M,12,Wading,Nassau County,USA,Florida,N,Afternoon,wading,Wading/Standing
+2015,September,07:30:00,Unprovoked,M,16,Photographing fish,Johns County,USA,Florida,N,Morning,photographing fish,Fishing
+2015,September,,Unknown,M,,Kayak Fishing,Santa Barbara County,USA,California,N,Unknown,kayak fishing,Fishing
+2015,September,19:00:00,Unprovoked,M,,Swimming,Duval County,USA,Florida,N,Evening,swimming,Swimming
+2015,September,15:00:00,Unprovoked,M,20,Surfing,Duval County,USA,Florida,N,Afternoon,surfing,Surfing
+2015,September,17:30:00,Unprovoked,Y,50,Stand-Up Paddleboarding,Los Angeles County,USA,California,N,Evening,stand-up paddleboarding,Paddleboarding
+2015,September,14:40:00,Provoked,M,29,Kayak Fishing,Ventura County,USA,California,N,Afternoon,kayak fishing,Fishing
+2015,September,16:00:00,Unprovoked,M,,,Horry County,USA,South Carolina,N,Afternoon,,Unknown
+2015,August,10:25:00,Unprovoked,Y,54,Surfing,San Luis Obispo County,USA,California,N,Morning,surfing,Surfing
+2015,August,10:00:00,Unprovoked,M,21,Surfing,San Luis Obispo County,USA,California,N,Morning,surfing,Surfing
+2015,August,19:45:00,Unknown,M,,,Brevard County,USA,Florida,,Evening,,Unknown
+2015,August,12:30:00,Unprovoked,M,15,Surfing,Georgetown County,USA,South Carolina,N,Afternoon,surfing,Surfing
+2015,August,15:30:00,Unprovoked,Y,10,Walking,Duval County,USA,Florida,N,Afternoon,walking,Wading/Standing
+2015,August,07:30:00,Unknown,M,22,Kayak Fishing,Santa Barbara County,USA,California,N,Morning,kayak fishing,Fishing
+2015,August,08:00:00,Provoked,M,57,Spearfishing,Cortes Bank,USA,California,N,Morning,spearfishing,Fishing
+2015,July,19:00:00,Unprovoked,M,25,Surfing,Volusia County,USA,Florida,N,Evening,surfing,Surfing
+2015,July,10:10:00,Unknown,Y,35,Floating,Colleton County,USA,South Carolina,,Morning,floating,Other
+2015,July,,Provoked,M,31,Kayak Fishing,San Diego County,USA,California,N,Unknown,kayak fishing,Fishing
+2015,July,08:45:00,Unprovoked,M,38,Surfing,Orange County,USA,California,N,Morning,surfing,Surfing
+2015,July,,Unknown,M,39,Treading water,Orange County,USA,California,,Unknown,treading water,Swimming
+2015,July,,Unprovoked,M,32,,Pender County,USA,North Carolina,N,Unknown,,Unknown
+2015,July,12:10:00,Unprovoked,M,68,Swimming,Hyde County,USA,North Carolina,N,Afternoon,swimming,Swimming
+2015,June,18:05:00,Unprovoked,M,12,Playing in the water,Isle of Palms County,USA,South Carolina,N,Evening,playing in the water,Other
+2015,June,16:00:00,Unprovoked,M,18,Swimming,Dare County,USA,North Carolina,N,Afternoon,swimming,Swimming
+2015,June,19:30:00,Unknown,Y,,Swimming,Duval County,USA,Florida,,Evening,swimming,Swimming
+2015,June,11:00:00,Unprovoked,M,43,Standing,Beaufort County,USA,South Carolina,N,Morning,standing,Wading/Standing
+2015,June,11:41:00,Unprovoked,M,47,Body surfing?,Dare County,USA,North Carolina,N,Morning,body surfing?,Surfing
+2015,June,12:25:00,Unprovoked,M,6,Swimming,Surf City,USA,North Carolina,N,Afternoon,swimming,Swimming
+2015,June,,Unprovoked,M,9,Standing,Beaufort County,USA,South Carolina,N,Unknown,standing,Wading/Standing
+2015,June,13:00:00,Unprovoked,M,10,Swimming,Daytona Beach Shores,USA,Florida,N,Afternoon,swimming,Swimming
+2015,June,17:51:00,Unprovoked,M,16,Wading,Brunswick County,USA,North Carolina,N,Evening,wading,Wading/Standing
+2015,June,16:12:00,Unprovoked,Y,12,Wading,Brunswick County,USA,North Carolina,N,Afternoon,wading,Wading/Standing
+2015,June,,Unprovoked,Y,,,Off San Diego,USA,California,N,Unknown,,Unknown
+2015,June,12:45:00,Unprovoked,Y,13,Boogie boarding,Brunswick County,USA,North Carolina,N,Afternoon,boogie boarding,Other
+2015,June,10:50:00,Unprovoked,M,11,Playing,Brevard County,USA,Florida,N,Morning,playing,Other
+2015,June,,Unprovoked,Y,17,Attempting to rescue a shark,Fort Lauderdale,USA,Florida,N,Unknown,attempting to rescue a shark,Other
+2015,May,15:00:00,Unprovoked,Y,14,Standing,Brevard County,USA,Florida,N,Afternoon,standing,Wading/Standing
+2015,May,13:45:00,Unprovoked,Y,19,Wading,Volusia County,USA,Florida,N,Afternoon,wading,Wading/Standing
+2015,May,,Unprovoked,Y,13,Swimming,Brevard County,USA,Florida,N,Unknown,swimming,Swimming
+2015,May,10:30:00,Unprovoked,M,18,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2015,May,14:15:00,Unprovoked,M,30,,Sullivan's Island,USA,South Carolina,N,Afternoon,,Unknown
+2015,May,15:00:00,Unprovoked,M,,Swimming,Brevard County,USA,Florida,N,Afternoon,swimming,Swimming
+2015,April,09:00:00,Unprovoked,Y,65,Snorkeling,Kanahena Cove,USA,Hawaii,Y,Morning,snorkeling,Diving
+2015,April,16:30:00,Unprovoked,M,63,Wading,"Resident's Beach, Marco Island",USA,Florida,N,Afternoon,wading,Wading/Standing
+2015,April,,Unprovoked,M,48,Photographing the shark,Monroe County,USA,Florida,N,Unknown,photographing the shark,Photography
+2015,April,,Unprovoked,M,70,Spearfishing,Palm Beach County,USA,Florida,N,Unknown,spearfishing,Fishing
+2015,March,11:45:00,Unprovoked,M,58,Standing / Snorkeling,Hapuna Beach,USA,Hawaii,N,Morning,standing / snorkeling,Diving
+2015,January,03:30:00,Provoked,M,20,Shark fishing,Lahaina,USA,Hawaii,N,Night,shark fishing,Fishing
+2015,January,,Unknown,M,,Fishing,Off Panama City,USA,Florida,N,Unknown,fishing,Fishing
+2015,January,,Unknown,M,38,Swimming after falling overboard,nan,USA,Florida,,Unknown,swimming after falling overboard,Swimming
+2015,January,,Unprovoked,M,12,,Indian River County,USA,Florida,N,Unknown,,Unknown
+2014,December,11:30:00,Unprovoked,M,50,Surfing,San Luis Obispo County,USA,California,N,Morning,surfing,Surfing
+2014,November,,Unknown,Y,,,San Mateo County,USA,California,N,Unknown,,Unknown
+2014,November,13:00:00,Unprovoked,M,44,Surfing,Brevard County,USA,Florida,N,Afternoon,surfing,Surfing
+2014,November,13:30:00,Unprovoked,M,53,Snorkeling,Maui County,USA,Hawaii,N,Afternoon,snorkeling,Diving
+2014,November,16:30:00,Unprovoked,M,18,Surfing,Lucie County,USA,Florida,N,Afternoon,surfing,Surfing
+2014,October,11:00:00,Unprovoked,Y,34,Surfing,Hawaii County,USA,Hawaii,N,Morning,surfing,Surfing
+2014,October,10:00:00,Unprovoked,Y,,Stand-Up Paddleboarding,Maui County,USA,Hawaii,N,Morning,stand-up paddleboarding,Paddleboarding
+2014,October,08:00:00,Unprovoked,M,,Stand-Up Paddleboarding,Maui County,USA,Hawaii,N,Morning,stand-up paddleboarding,Paddleboarding
+2014,October,,Unknown,Y,,Canoeing,Santa Barbara County,USA,California,N,Unknown,canoeing,Paddleboarding
+2014,October,,Unprovoked,Y,7,Standing in inner tube,Beaufort County,USA,South Carolina,N,Unknown,standing in inner tube,Wading/Standing
+2014,October,15:30:00,Unprovoked,Y,,Body surfing or Boogie boarding,Brevard County,USA,Florida,N,Afternoon,body surfing or boogie boarding,Surfing
+2014,October,11:30:00,Unprovoked,M,29,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2014,October,,Unprovoked,Y,40,Fishing,Brevard County,USA,Florida,N,Unknown,fishing,Fishing
+2014,October,11:00:00,Unprovoked,M,15,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2014,October,14:00:00,Unknown,M,,Kayaking,Santa Barbara County,USA,California,N,Afternoon,kayaking,Paddleboarding
+2014,October,11:30:00,Unknown,M,,Kayaking ,Santa Barbara County,USA,California,N,Morning,kayaking,Paddleboarding
+2014,October,17:30:00,Unprovoked,M,28,Surfing,Santa Barbara County,USA,California,N,Evening,surfing,Surfing
+2014,September,11:30:00,Unprovoked,M,,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2014,September,18:45:00,Unknown,M,,Surfing,Santa Cruz County,USA,California,,Evening,surfing,Surfing
+2014,September,13:00:00,Unprovoked,M,43,Fishing ,Mobile County,USA,Alabama,N,Afternoon,fishing,Fishing
+2014,September,18:00:00,Unknown,Y,20,Kayaking ,Plymouth County,USA,Massachusetts,N,Evening,kayaking,Paddleboarding
+2014,September,20:00:00,Provoked,M,52,Fishing,Martin County,USA,Florida,N,Evening,fishing,Fishing
+2014,August,16:40:00,Unprovoked,Y,13,Body surfing,Volusia County,USA,Florida,N,Afternoon,body surfing,Surfing
+2014,August,,Unprovoked,M,17,Surfing,Volusia County,USA,Florida,N,Unknown,surfing,Surfing
+2014,August,16:18:00,Unknown,Y,,,Duval County,USA,Florida,,Afternoon,,Unknown
+2014,August,,Provoked,M,33,Fishing,Assateague National Seashore,USA,Maryland,N,Unknown,fishing,Fishing
+2014,August,,Unprovoked,M,29,Surfing,New Hanover County,USA,North Carolina,N,Unknown,surfing,Surfing
+2014,August,15:00:00,Unprovoked,Y,,Standing,Horry County,USA,South Carolina,N,Afternoon,standing,Wading/Standing
+2014,August,,Provoked,M,,Fishing for sharks,Apalachicola Bay,USA,Florida,N,Unknown,fishing for sharks,Fishing
+2014,August,,Unprovoked,Y,,Kite boarding,New Hanover County,USA,North Carolina,N,Unknown,kite boarding,Surfing
+2014,August,11:10:00,Unprovoked,M,,Standing,Gulf County,USA,Florida,N,Morning,standing,Wading/Standing
+2014,August,,Unprovoked,M,26,,Broward County,USA,Florida,N,Unknown,,Unknown
+2014,August,13:30:00,Unprovoked,Y,10,Swimming,Brevard County,USA,Florida,N,Afternoon,swimming,Swimming
+2014,August,,Unprovoked,M,7,Swimming,"Lake Ponchartain off Southshore Harbor, New Orleans",USA,Louisiana,N,Unknown,swimming,Swimming
+2014,August,14:00:00,Unprovoked,M,10,Boogie boarding,Charleston County,USA,South Carolina,N,Afternoon,boogie boarding,Other
+2014,August,,Unprovoked,Y,45,Swimming,Brevard County,USA,Florida,N,Unknown,swimming,Swimming
+2014,August,,Unprovoked,M,50,Surfing,Brevard County,USA,Florida,N,Unknown,surfing,Surfing
+2014,August,13:00:00,Unprovoked,M,8,Boogie boarding,Brevard County,USA,Florida,N,Afternoon,boogie boarding,Other
+2014,July,,Unprovoked,M,15,Swimming,Brunswick County,USA,North Carolina,N,Unknown,swimming,Swimming
+2014,July,,Unprovoked,M,8,Standing,Brevard County,USA,Florida,N,Unknown,standing,Wading/Standing
+2014,July,17:50:00,Unprovoked,M,61,Swimming,Maui County,USA,Hawaii,N,Evening,swimming,Swimming
+2014,July,14:30:00,Unprovoked,M,39,Swimming,Okaloosa Island,USA,Florida,N,Afternoon,swimming,Swimming
+2014,July,,Unprovoked,M,,Body surfing,New Hanover County,USA,North Carolina,N,Unknown,body surfing,Surfing
+2014,July,14:00:00,Unprovoked,M,14,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2014,July,09:30:00,Provoked,M,,Swimming,Los Angeles County,USA,California,N,Morning,swimming,Swimming
+2014,July,,Unprovoked,M,,Surfing,San Luis Obispo County,USA,California,N,Unknown,surfing,Surfing
+2014,July,,Unprovoked,M,19,Body surfing,Charleston County,USA,South Carolina,N,Unknown,body surfing,Surfing
+2014,June,17:00:00,Unprovoked,M,16,Standing,Sussex County,USA,Delaware,N,Evening,standing,Wading/Standing
+2014,June,,Unprovoked,Y,14,Kneeling in the water,"West Beach, Galveston",USA,Texas,N,Unknown,kneeling in the water,Other
+2014,June,13:30:00,Unprovoked,Y,22,Swimming,Fort Lauderdale,USA,Florida,N,Afternoon,swimming,Swimming
+2014,June,,Unprovoked,Y,37,Tagging sharks,nan,USA,Palmyra Atoll,N,Unknown,tagging sharks,Other
+2014,May,11:30:00,Unprovoked,Y,38,Body boarding,Brevard County,USA,Florida,N,Morning,body boarding,Other
+2014,May,11:00:00,Unprovoked,Y,44,Wading,Duval County,USA,Florida,N,Morning,wading,Wading/Standing
+2014,May,,Unprovoked,M,12,Surfing,Chatham County,USA,Georgia,N,Unknown,surfing,Surfing
+2014,May,,Unknown,M,,Diving,Indian River County,USA,Florida,,Unknown,diving,Diving
+2014,May,15:00:00,Unprovoked,Y,40,Swimming,Beaufort County,USA,South Carolina,N,Afternoon,swimming,Swimming
+2014,May,15:00:00,Unprovoked,M,23,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2014,April,15:30:00,Unprovoked,M,42,Swimming,Brevard County,USA,Florida,N,Afternoon,swimming,Swimming
+2014,April,09:57:00,Unprovoked,M,25,Wading,Volusia County,USA,Florida,N,Morning,wading,Wading/Standing
+2014,April,13:50:00,Unprovoked,M,13,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2014,April,13:30:00,Unprovoked,M,14,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2014,March,,Unprovoked,M,,Kite Surfing,Delray Beach,USA,Florida,N,Unknown,kite surfing,Surfing
+2014,March,,Unprovoked,M,9,Surfing,Macarthur State Park,USA,Florida,N,Unknown,surfing,Surfing
+2014,March,,Unprovoked,M,21,Surfing,Lucie County,USA,Florida,N,Unknown,surfing,Surfing
+2013,December,08:00:00,Unprovoked,M,29,Boogie boarding,Hawaii County,USA,Hawaii,N,Morning,boogie boarding,Other
+2013,December,14:30:00,Unprovoked,M,30,Surfing,Brevard County,USA,Florida,N,Afternoon,surfing,Surfing
+2013,December,09:00:00,Unprovoked,M,57,Kayaking / Fishing,Maui County,USA,Hawaii,Y,Morning,kayaking / fishing,Fishing
+2013,November,13:00:00,Unprovoked,Y,58,Snorkeling,Maui County,USA,Hawaii,N,Afternoon,snorkeling,Diving
+2013,November,10:30:00,Unprovoked,M,25,Surfing,Lincoln County,USA,Oregon,N,Morning,surfing,Surfing
+2013,November,,Unprovoked,M,16,Body boarding,Ocean County,USA,New Jersey,N,Unknown,body boarding,Other
+2013,November,,Unprovoked,M,,Surfing,Brevard County,USA,Florida,N,Unknown,surfing,Surfing
+2013,October,15:19:00,Unprovoked,M,46,Kiteboarding,Maui County,USA,Hawaii,N,Afternoon,kiteboarding,Surfing
+2013,October,15:55:00,Unprovoked,M,45,Diving ,Maui County,USA,Hawaii,N,Afternoon,diving,Diving
+2013,October,11:00:00,Unprovoked,M,25,Surfing,"Pila'a Beach, Kaua'i",USA,Hawaii,N,Morning,surfing,Surfing
+2013,October,,Unprovoked,M,6,Wading,Miami-Dade County,USA,Florida,N,Unknown,wading,Wading/Standing
+2013,October,08:45:00,Unprovoked,M,45,Surfing,Humboldt County,USA,California,N,Morning,surfing,Surfing
+2013,October,15:30:00,Unprovoked,M,12,Wading,Okaloosa County,USA,Florida,N,Afternoon,wading,Wading/Standing
+2013,September,10:00:00,Unprovoked,M,50,Surfing,Brevard County,USA,Florida,N,Morning,surfing,Surfing
+2013,September,10:30:00,Unprovoked,M,7,Standing,Bay County,USA,Florida,N,Morning,standing,Wading/Standing
+2013,September,13:00:00,Unprovoked,M,45,Swimming,Volusia County,USA,Florida,N,Afternoon,swimming,Swimming
+2013,September,,Unprovoked,M,,Surfing,Palm Beach County,USA,Florida,N,Unknown,surfing,Surfing
+2013,September,15:30:00,Unprovoked,M,21,Swimming,Escambia County,USA,Florida,N,Afternoon,swimming,Swimming
+2013,September,13:00:00,Unprovoked,Y,13,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2013,September,,Unprovoked,Y,,,Beaufort County,USA,South Carolina,Y,Unknown,,Unknown
+2013,September,16:00:00,Provoked,M,43,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2013,September,16:00:00,Unprovoked,M,25,Standing,Volusia County,USA,Florida,N,Afternoon,standing,Wading/Standing
+2013,September,13:00:00,Unprovoked,M,17,Swimming,Volusia County,USA,Florida,N,Afternoon,swimming,Swimming
+2013,September,,Provoked,M,3,,Key West Aquarium,USA,Florida,N,Unknown,,Unknown
+2013,September,12:00:00,Unprovoked,M,9,Casting a net,St Johns County,USA,Florida,N,Afternoon,casting a net,Other
+2013,August,23:00:00,Unprovoked,M,,Swimming,Santa Barbara County,USA,California,N,Night,swimming,Swimming
+2013,August,,Unknown,Y,47,Marathon swimming,Catalina Channel,USA,California,,Unknown,marathon swimming,Swimming
+2013,August,17:00:00,Unprovoked,Y,11,Boogie boarding,Volusia County,USA,Florida,N,Evening,boogie boarding,Other
+2013,August,13:00:00,Unprovoked,M,16,Surfing,Pohoiki,USA,Hawaii,N,Afternoon,surfing,Surfing
+2013,August,12:40:00,Unprovoked,Y,,Surfing,San Mateo County,USA,California,N,Afternoon,surfing,Surfing
+2013,August,16:30:00,Unprovoked,Y,20,Snorkeling,Maui County,USA,Hawaii,Y,Afternoon,snorkeling,Diving
+2013,August,13:55:00,Unprovoked,Y,19,Kiteboarding,Maui County,USA,Hawaii,N,Afternoon,kiteboarding,Surfing
+2013,August,17:30:00,Unprovoked,M,10,Surfing,Folly Beach,USA,South Carolina,N,Evening,surfing,Surfing
+2013,August,15:00:00,Unprovoked,M,17,Fishing,Lee County,USA,Florida,N,Afternoon,fishing,Fishing
+2013,July,08:45:00,Unprovoked,Y,56,Snorkeling,Maui County,USA,Hawaii,N,Morning,snorkeling,Diving
+2013,July,,Unprovoked,M,32,Swimming,Charleston County,USA,South Carolina,N,Unknown,swimming,Swimming
+2013,July,14:10:00,Unprovoked,M,18,Surfing,Oahu County,USA,Hawaii,N,Afternoon,surfing,Surfing
+2013,July,14:30:00,Unprovoked,Y,50,Walking in surf,Baldwin County,USA,Alabama,N,Afternoon,walking in surf,Surfing
+2013,July,,Unprovoked,M,15,Swimming ,Johns County,USA,Florida,N,Unknown,swimming,Swimming
+2013,July,15:20:00,Unprovoked,Y,63,Wading,Brunswick County,USA,North Carolina,N,Afternoon,wading,Wading/Standing
+2013,June,15:30:00,Unknown,M,,Kayaking / Fishing,San Mateo County,USA,California,N,Afternoon,kayaking / fishing,Fishing
+2013,June,,Unprovoked,M,,Swimming,Duval County,USA,Florida,N,Unknown,swimming,Swimming
+2013,June,12:45:00,Unprovoked,M,14,Swimming,Charleston County,USA,South Carolina,N,Afternoon,swimming,Swimming
+2013,June,12:50:00,Unprovoked,M,28,Swimming,Kona Coast State Park,USA,Hawaii,N,Afternoon,swimming,Swimming
+2013,June,14:45:00,Unprovoked,M,15,Swimming,Brazoria County,USA,Texas,N,Afternoon,swimming,Swimming
+2013,June,,Unprovoked,Y,,Surfing,Duval County,USA,Florida,N,Unknown,surfing,Surfing
+2013,June,,Unprovoked,Y,10,Boogie Boarding,Horry County,USA,South Carolina,N,Unknown,boogie boarding,Other
+2013,June,,Provoked,M,58,Fishing for sharks,Monroe County,USA,Florida,N,Unknown,fishing for sharks,Fishing
+2013,May,,Unprovoked,M,32,Diving,Oahu County,USA,Hawaii,N,Unknown,diving,Diving
+2013,May,,Unprovoked,M,11,Swimming,Volusia County,USA,Florida,N,Unknown,swimming,Swimming
+2013,May,,Unknown,M,42,Surfing,San Diego County,USA,California,,Unknown,surfing,Surfing
+2013,May,11:15:00,Unprovoked,M,16,Surfing,Brevard County,USA,Florida,N,Morning,surfing,Surfing
+2013,April,10:30:00,Unprovoked,M,9,Playing in the surf,Palm Beach County,USA,Florida,N,Morning,playing in the surf,Surfing
+2013,April,13:30:00,Unprovoked,M,21,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2013,April,,Unprovoked,M,50,Swimming,Martin County,USA,Florida,N,Unknown,swimming,Swimming
+2013,April,08:30:00,Unprovoked,M,58,Surfing,Kaanapali Shores,USA,Hawaii,N,Morning,surfing,Surfing
+2013,February,18:00:00,Unprovoked,Y,,Surfing,Maui County,USA,Hawaii,N,Evening,surfing,Surfing
+2013,February,18:00:00,Unprovoked,M,,Surfing,Maui County,USA,Hawaii,N,Evening,surfing,Surfing
+2013,February,14:00:00,Unprovoked,M,16,Surfing,Martin County,USA,Florida,N,Afternoon,surfing,Surfing
+2013,January,16:30:00,Unprovoked,M,43,Surfing,Kiholo Bay,USA,Hawaii,N,Afternoon,surfing,Surfing
+2012,December,14:00:00,Unprovoked,M,,Swimming,Martin County,USA,Florida,N,Afternoon,swimming,Swimming
+2012,December,13:20:00,Unprovoked,M,60,Surfing,Kauai County,USA,Hawaii,N,Afternoon,surfing,Surfing
+2012,November,09:40:00,Unprovoked,M,61,Snorkeling,Maui County,USA,Hawaii,N,Morning,snorkeling,Diving
+2012,November,17:30:00,Unprovoked,M,14,Surfing,Brevard County,USA,Florida,N,Evening,surfing,Surfing
+2012,November,08:30:00,Unprovoked,M,30,Diving,Maui County,USA,Hawaii,N,Morning,diving,Diving
+2012,November,08:10:00,Unprovoked,M,43,Surfing,"Davidson's Surf Break, Kekaha, Kaua'i",USA,Hawaii,N,Morning,surfing,Surfing
+2012,October,12:00:00,Unprovoked,M,25,Surfing,Humboldt County,USA,California,N,Afternoon,surfing,Surfing
+2012,October,15:56:00,Unprovoked,Y,51,Swimming,Maui County,USA,Hawaii,N,Afternoon,swimming,Swimming
+2012,October,11:00:00,Unprovoked,M,39,Surfing,Santa Barbara County,USA,California,Y,Morning,surfing,Surfing
+2012,October,,Unprovoked,Y,35,,Brevard County,USA,Florida,N,Unknown,,Unknown
+2012,October,10:30:00,Unprovoked,M,24,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2012,October,07:30:00,Unprovoked,M,55,Paddle boarding,Maui County,USA,Hawaii,N,Morning,paddle boarding,Paddleboarding
+2012,October,17:00:00,Unknown,M,,,Hobe Sound,USA,Florida,,Evening,,Unknown
+2012,October,18:30:00,Unprovoked,M,42,Windsurfing,Santa Cruz County,USA,California,N,Evening,windsurfing,Surfing
+2012,September,16:30:00,Unprovoked,M,21,Surfing,Brevard County,USA,Florida,N,Afternoon,surfing,Surfing
+2012,September,,Unprovoked,M,22,Surfing,Brevard County,USA,Florida,N,Unknown,surfing,Surfing
+2012,September,15:00:00,Unprovoked,M,52,Surfing,Brevard County,USA,Florida,N,Afternoon,surfing,Surfing
+2012,September,14:20:00,Unprovoked,Y,19,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2012,September,12:00:00,Unprovoked,M,25,Surfing,Brevard County,USA,Florida,N,Afternoon,surfing,Surfing
+2012,September,,Unprovoked,M,,Swimming,Dade County,USA,Florida,N,Unknown,swimming,Swimming
+2012,September,,Unprovoked,M,30,Surfing,Duval County,USA,Florida,N,Unknown,surfing,Surfing
+2012,September,11:30:00,Unprovoked,M,37,Surfing,s County,USA,Florida,N,Morning,surfing,Surfing
+2012,September,07:56:00,Unprovoked,M,32,Surfing,Brevard County,USA,Florida,N,Morning,surfing,Surfing
+2012,September,18:30:00,Unprovoked,Y,8,Boogie boarding,Volusia County,USA,Florida,N,Evening,boogie boarding,Other
+2012,September,12:00:00,Provoked,Y,,Spearfishing,Maui County,USA,Hawaii,N,Afternoon,spearfishing,Fishing
+2012,September,16:30:00,Unprovoked,Y,56,Swimming or boogie boarding,Volusia County,USA,Florida,N,Afternoon,swimming or boogie boarding,Swimming
+2012,August,,Unprovoked,M,31,Wading or swimming,Baldwin County,USA,Alabama,N,Unknown,wading or swimming,Swimming
+2012,August,16:00:00,Unprovoked,M,56,Free diving ,Key Largo,USA,Florida,N,Afternoon,free diving,Diving
+2012,July,06:45:00,Unprovoked,M,17,Surfing,Los Angeles County,USA,California,N,Morning,surfing,Surfing
+2012,July,16:35:00,Unprovoked,M,44,Surfing,Kauai County,USA,Hawaii,N,Afternoon,surfing,Surfing
+2012,July,15:30:00,Unprovoked,M,50,Body surfing,"Ballston Beach, Truro, Cape Cod",USA,Massachusetts,N,Afternoon,body surfing,Surfing
+2012,July,11:45:00,Unknown,M,12,,Brunswick County,USA,North Carolina,,Morning,,Unknown
+2012,July,17:30:00,Unprovoked,Y,43,Swimming,Onslow County,USA,North Carolina,N,Evening,swimming,Swimming
+2012,July,08:30:00,Unknown,M,52,Kayaking,Santa Cruz County,USA,California,N,Morning,kayaking,Paddleboarding
+2012,June,19:00:00,Unprovoked,M,6,Swimming,Palm Beach County,USA,Florida,N,Evening,swimming,Swimming
+2012,June,15:00:00,Unprovoked,M,26,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2012,June,09:45:00,Unprovoked,Y,16,Sitting in the water,Maui County,USA,Hawaii,N,Morning,sitting in the water,Other
+2012,June,16:30:00,Unprovoked,M,12,Swimming,Martin County,USA,Florida,N,Afternoon,swimming,Swimming
+2012,June,,Unknown,M,16,Standing,Horry County,USA,South Carolina,,Unknown,standing,Wading/Standing
+2012,June,11:00:00,Unprovoked,Y,6,Wading,Brunswick County,USA,North Carolina,N,Morning,wading,Wading/Standing
+2012,June,14:20:00,Provoked,M,23,Fishing,Monroe County,USA,Florida,N,Afternoon,fishing,Fishing
+2012,June,,Unprovoked,Y,18,Swimming,Horry County,USA,South Carolina,N,Unknown,swimming,Swimming
+2012,June,,Unprovoked,M,,Swimming,Horry County,USA,South Carolina,N,Unknown,swimming,Swimming
+2012,June,,Unprovoked,M,,Swimming,Horry County,USA,South Carolina,N,Unknown,swimming,Swimming
+2012,June,13:20:00,Unprovoked,M,16,Swimming,Horry County,USA,South Carolina,N,Afternoon,swimming,Swimming
+2012,June,,Unprovoked,Y,12,Surfing,Volusia County,USA,Florida,N,Unknown,surfing,Surfing
+2012,June,19:45:00,Unprovoked,M,25,Boogie Boarding,Horry County,USA,South Carolina,N,Evening,boogie boarding,Other
+2012,May,13:30:00,Unprovoked,Y,33,Wading,Dare County,USA,North Carolina,N,Afternoon,wading,Wading/Standing
+2012,May,15:00:00,Unprovoked,M,22,Surfing,Duval County,USA,Florida,N,Afternoon,surfing,Surfing
+2012,May,,Unknown,M,,Kayak Fishing,Oahu County,USA,Hawaii,N,Unknown,kayak fishing,Fishing
+2012,May,14:30:00,Unknown,M,30,Kayaking / Fishing,San Luis Obispo County,USA,California,N,Afternoon,kayaking / fishing,Fishing
+2012,May,11:30:00,Unprovoked,Y,47,Swimming,Indian River County,USA,Florida,N,Morning,swimming,Swimming
+2012,May,07:20:00,Unprovoked,Y,15,Paddle boarding,Off Catalina Island,USA,California,N,Morning,paddle boarding,Paddleboarding
+2012,April,19:28:00,Unprovoked,M,28,Surfing,Brevard County,USA,Florida,N,Evening,surfing,Surfing
+2012,April,12:38:00,Unprovoked,M,28,Surfing,Oahu County,USA,Hawaii,N,Afternoon,surfing,Surfing
+2012,March,14:00:00,Unprovoked,M,21,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2012,March,15:50:00,Unprovoked,M,61,Surfing,Martin County,USA,Florida,N,Afternoon,surfing,Surfing
+2012,March,16:00:00,Unprovoked,Y,15,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2012,March,16:05:00,Unprovoked,M,17,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2012,March,13:00:00,Unprovoked,M,19,Kite Surfing,Brevard County,USA,Florida,N,Afternoon,kite surfing,Surfing
+2012,February,14:00:00,Provoked,M,,Kite Surfing,Palm Beach County,USA,Florida,N,Afternoon,kite surfing,Surfing
+2012,January,11:05:00,Unprovoked,Y,,Snorkeling,Lanai,USA,Hawaii,N,Morning,snorkeling,Diving
+2012,January,,Unprovoked,M,53,Surfing,Lincoln County,USA,Oregon,N,Unknown,surfing,Surfing
+2011,December,18:00:00,Unprovoked,M,,,Palm Beach County,USA,Florida,N,Evening,,Unknown
+2011,December,12:30:00,Unprovoked,M,27,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2011,December,,Provoked,M,,Canoeing,Kauai County,USA,Hawaii,N,Unknown,canoeing,Paddleboarding
+2011,December,09:00:00,Unprovoked,Y,,Surfing,Seaside Cove,USA,Oregon,N,Morning,surfing,Surfing
+2011,November,,Unknown,M,,Kayaking,Pigeon Point,USA,California,N,Unknown,kayaking,Paddleboarding
+2011,October,,Unprovoked,M,27,Surfing,Monterey County,USA,California,N,Unknown,surfing,Surfing
+2011,October,,Unprovoked,M,41,Surfing,Lincoln County,USA,Oregon,N,Unknown,surfing,Surfing
+2011,October,,Unprovoked,M,,Surfing,Cape Canaveral,USA,Florida,N,Unknown,surfing,Surfing
+2011,October,,Unprovoked,M,,Surfing,Seaside,USA,Oregon,N,Unknown,surfing,Surfing
+2011,October,,Unprovoked,M,,Wade fishing,Manatee County,USA,Florida,N,Unknown,wade fishing,Fishing
+2011,October,,Unprovoked,M,29,,Baldwin County,USA,Alabama,N,Unknown,,Unknown
+2011,September,09:50:00,Unknown,M,27,Surfing,Hatillo Beach,USA,Puerto Rico,,Morning,surfing,Surfing
+2011,September,15:00:00,Unprovoked,M,21,Spearfishing,Manatee County,USA,Florida,N,Afternoon,spearfishing,Fishing
+2011,September,10:00:00,Unprovoked,M,5,Jumping in the waves,Horry County,USA,South Carolina,N,Morning,jumping in the waves,Other
+2011,September,15:00:00,Unknown,M,,Canoeing,Kauai County,USA,Hawaii,N,Afternoon,canoeing,Paddleboarding
+2011,September,11:00:00,Unprovoked,M,25,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2011,September,12:20:00,Unprovoked,M,37,Surfing,Humboldt County,USA,California,N,Afternoon,surfing,Surfing
+2011,September,13:00:00,Unprovoked,Y,,Surfing,Oahu County,USA,Hawaii,N,Afternoon,surfing,Surfing
+2011,September,11:00:00,Unprovoked,M,19,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2011,August,11:00:00,Unprovoked,M,19,Surfing,Johns County,USA,Florida,N,Morning,surfing,Surfing
+2011,August,19:00:00,Unprovoked,Y,39,Wade Fishing,Aransas County,USA,Texas,N,Evening,wade fishing,Fishing
+2011,August,,Unprovoked,M,21,Surfing,Dare County,USA,North Carolina,N,Unknown,surfing,Surfing
+2011,August,15:30:00,Unprovoked,M,10,,Brunswick County,USA,North Carolina,N,Afternoon,,Unknown
+2011,August,17:00:00,Unprovoked,Y,20,Wading,New Hanover County,USA,North Carolina,N,Evening,wading,Wading/Standing
+2011,August,16:00:00,Unknown,M,12,,New Hanover County,USA,North Carolina,,Afternoon,,Unknown
+2011,August,,Unprovoked,M,27,Floating ,Vieques,USA,Puerto Rico,N,Unknown,floating,Other
+2011,August,,Unknown,M,7,Playing in the surf,Horry County,USA,South Carolina,N,Unknown,playing in the surf,Surfing
+2011,August,14:00:00,Unprovoked,M,54,Swimming,Beaufort Inlet,USA,North Carolina,N,Afternoon,swimming,Swimming
+2011,July,,Unprovoked,M,,Wade Fishing,Atlantic County,USA,New Jersey,N,Unknown,wade fishing,Fishing
+2011,July,17:30:00,Unprovoked,Y,6,Boogie Boarding,Hyde County,USA,North Carolina,N,Evening,boogie boarding,Other
+2011,July,20:30:00,Unprovoked,M,,Surf fishing,Cameron County,USA,Texas,N,Evening,surf fishing,Surfing
+2011,July,17:00:00,Unprovoked,M,12,Swimming,Calhoun County,USA,Texas,N,Evening,swimming,Swimming
+2011,July,,Unprovoked,M,14,Wade Fishing,Nueces County,USA,Texas,N,Unknown,wade fishing,Fishing
+2011,June,,Unprovoked,Y,10,Playing in the surf,Onslow County,USA,North Carolina,N,Unknown,playing in the surf,Surfing
+2011,June,13:30:00,Unprovoked,M,,Surfing,San Diego County,USA,California,N,Afternoon,surfing,Surfing
+2011,June,,Unprovoked,M,20,Jet skiing,Escambia County,USA,Florida,N,Unknown,jet skiing,Other
+2011,June,14:30:00,Unprovoked,M,28,Scuba diving,Palm Beach County,USA,Florida,N,Afternoon,scuba diving,Diving
+2011,June,,Unprovoked,M,28,Spearfishing,San Diego County,USA,California,N,Unknown,spearfishing,Fishing
+2011,June,12:00:00,Unprovoked,M,19,Wading,Volusia County,USA,Florida,N,Afternoon,wading,Wading/Standing
+2011,May,15:00:00,Unprovoked,Y,22,Standing or boogie boardin,Brazoria County,USA,Texas,N,Afternoon,standing or boogie boardin,Wading/Standing
+2011,May,13:15:00,Unprovoked,Y,,Surfing,"Lyman Beach, Kailua-Kona",USA,Hawaii,N,Afternoon,surfing,Surfing
+2011,May,12:00:00,Unprovoked,Y,,Paddle boarding,"Lyman Beach, Kailua-Kona",USA,Hawaii,N,Afternoon,paddle boarding,Paddleboarding
+2011,May,15:30:00,Unprovoked,M,86,Body surfing,St Johns County,USA,Florida,N,Afternoon,body surfing,Surfing
+2011,May,06:30:00,Unprovoked,M,37,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2011,May,,Provoked,M,,Fishing ,Miami-Dade County,USA,Florida,N,Unknown,fishing,Fishing
+2011,April,,Unprovoked,M,32,Spearfishing,Palm Beach County,USA,Florida,N,Unknown,spearfishing,Fishing
+2011,April,15:30:00,Unprovoked,M,49,Surfing ,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2011,March,,Provoked,M,,"Standing, holding shark pup",Matagorda Beach,USA,Texas,N,Unknown,"standing, holding shark pup",Wading/Standing
+2010,December,15:35:00,Unprovoked,M,16,Body boarding,Maui County,USA,Hawaii,N,Afternoon,body boarding,Other
+2010,December,13:51:00,Unprovoked,M,46,Surfing,Maui County,USA,Hawaii,N,Afternoon,surfing,Surfing
+2010,November,13:30:00,Provoked,M,33,Snorkeling,nan,USA,Palmyra Atoll,N,Afternoon,snorkeling,Diving
+2010,October,15:20:00,Unprovoked,M,,Surfing,Florence,USA,Oregon,N,Afternoon,surfing,Surfing
+2010,October,,Unprovoked,M,30,Scuba diving,Washington County,USA,Maine,N,Unknown,scuba diving,Diving
+2010,October,08:50:00,Unprovoked,M,19,Body boarding,Santa Barbara County,USA,California,Y,Morning,body boarding,Other
+2010,September,16:00:00,Unprovoked,M,29,Surfing,Winchester Bay,USA,Oregon,N,Afternoon,surfing,Surfing
+2010,September,16:30:00,Unprovoked,M,18,Surfing,Sandridge Beach,USA,Virginia,N,Afternoon,surfing,Surfing
+2010,September,,Unprovoked,M,27,Swimming,s County,USA,Florida,N,Unknown,swimming,Swimming
+2010,September,,Unprovoked,M,,Surfing,Volusia County,USA,Florida,N,Unknown,surfing,Surfing
+2010,September,12:00:00,Unprovoked,M,24,Surfing,Volusia County,USA,Florida,N,Afternoon,surfing,Surfing
+2010,September,09:00:00,Unprovoked,M,24,Surfing,Volusia County,USA,Florida,N,Morning,surfing,Surfing
+2010,August,09:00:00,Unprovoked,M,10,Boogie Boarding,Johns County,USA,Florida,N,Morning,boogie boarding,Other
+2010,August,,Unknown,M,45,Kayak Fishing,San Mateo County,USA,California,N,Unknown,kayak fishing,Fishing
+2010,August,15:00:00,Unprovoked,M,25,Surfing,New Hanover County,USA,North Carolina,N,Afternoon,surfing,Surfing
+2010,August,19:15:00,Unknown,Y,,Swimming,Volusia County,USA,Florida,,Evening,swimming,Swimming
+2010,August,12:40:00,Unknown,M,,Kayaking,Santa Barbara County,USA,California,N,Afternoon,kayaking,Paddleboarding
+2010,August,11:00:00,Unprovoked,Y,37,Standing,Johns County,USA,Florida,N,Morning,standing,Wading/Standing
+2010,July,,Unprovoked,M,16,Standing,Charleston County,USA,South Carolina,N,Unknown,standing,Wading/Standing
+2010,July,16:30:00,Unprovoked,M,20,Surfing,Duval County,USA,Florida,N,Afternoon,surfing,Surfing
+2010,July,10:35:00,Unprovoked,M,10,Swimming,Horry County,USA,South Carolina,N,Morning,swimming,Swimming
+2010,July,13:30:00,Unprovoked,Y,13,Swimming,New Hanover County,USA,North Carolina,N,Afternoon,swimming,Swimming
+2010,July,,Unprovoked,M,55,Surfing,Volusia County,USA,Florida,N,Unknown,surfing,Surfing
+2010,July,,Unprovoked,M,,Fishing,Galveston County,USA,Texas,N,Unknown,fishing,Fishing
+2010,July,,Provoked,M,,Fishing,Broward County,USA,Florida,N,Unknown,fishing,Fishing
+2010,July,12:30:00,Provoked,M,20,Fishing,Off Long Island,USA,New York,N,Afternoon,fishing,Fishing
+2010,July,,Unprovoked,M,19,Surfing,San Luis  Obispo County,USA,California,N,Unknown,surfing,Surfing
+2010,July,15:15:00,Unprovoked,M,48,Stand-Up Paddleboarding,"Dog Patch, San Onofre",USA,California,N,Afternoon,stand-up paddleboarding,Paddleboarding
+2010,June,,Unprovoked,M,20,Surfing,"Eight Mile Beach, Galveston",USA,Texas,N,Unknown,surfing,Surfing
+2010,June,,Unprovoked,Y,6,Boogie Boarding,Fripp Island,USA,South Carolina,N,Unknown,boogie boarding,Other
+2010,June,13:00:00,Unprovoked,Y,13,Swimming,Pender County,USA,North Carolina,N,Afternoon,swimming,Swimming
+2010,June,12:30:00,Unprovoked,Y,18,Boogie Boarding,Jacksonville,USA,Florida,N,Afternoon,boogie boarding,Other
+2010,May,08:45:00,Provoked,M,49,Fishing,Off Tarpon Springs,USA,Florida,N,Morning,fishing,Fishing
+2010,May,10:30:00,Unprovoked,Y,10,Wading,Volusia County,USA,Florida,N,Morning,wading,Wading/Standing
+2010,April,,Provoked,M,29,Measuring sharks,Hanalei Bay,USA,Florida,N,Unknown,measuring sharks,Other
+2010,April,16:00:00,Unprovoked,M,68,Surfing,Kauai County,USA,Hawaii,N,Afternoon,surfing,Surfing
+2010,February,15:00:00,Provoked,M,,Surf fishing / wading,Riviera Beach,USA,Florida,N,Afternoon,surf fishing / wading,Surfing
+2010,February,15:44:00,Unprovoked,M,38,Kite Boarding,Martin County,USA,Florida,Y,Afternoon,kite boarding,Surfing
+2010,January,10:15:00,Unprovoked,M,32,Spearfishing,Elliot Key,USA,Florida,N,Morning,spearfishing,Fishing
