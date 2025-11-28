@@ -1,7 +1,8 @@
 README
 The project week 2 is run by Sana Aarsman, Alan Lupatini, Ou Hai and Antonio Galvao. The main/original repo is managed by Sana.
+Powerpoint presentation > Created by Sana and found in https://docs.google.com/presentation/d/1JZqqciDfs8Omn93ahLK2drXK4QcbhFi_pyZj_jMszuQ/edit?usp=sharing
 
-This repository contains two main folders:
+This repository contains three main folders:
 
 Project_week2/shark-attacks-project/data/ >> It contains the tables used in the analysis. The /raw directory contains the original dataset. The /processed directory contains the filtered and cleaned up data sets used for analyses.
 
@@ -15,5 +16,6 @@ clean_shark_attack_type.py > Done by Alan
 count_attacks_by_time_range.py > Done by Alan
 create_time_range_column.py > Done by Alan
 02_clean_sex_age_activity_OuHai.ipynb > Done by Ou, cleaning up activity type, age, sex
-Powerpoint presentation > Created by Sana
 main_cleanup_sharknado_05.ipynb > Main notebook with a mix of cleanup activities and reports maintained by many of the team members
+
+shark-attacks-project/images/>> contains all images used in the presentation
